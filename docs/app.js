@@ -1,4 +1,4 @@
-const REFRESH_INTERVAL = 30000; // 30 seconds
+const REFRESH_INTERVAL = 60000; // 60 seconds
 let CONSTANTS;
 
 // Global variable for storing the last GitHub metadata timestamp
