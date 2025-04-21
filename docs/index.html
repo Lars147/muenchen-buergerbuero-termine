@@ -3,6 +3,19 @@
   <head>
     <title>München Bürgeramt Appointment Tracker</title>
     <meta charset="UTF-8" />
+    <!-- PWA meta tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="theme-color" content="#4caf50" />
+    <meta name="description" content="Track and get notifications for available appointments at München Bürgeramt" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="München Termine">
+
+    <!-- Manifest link -->
+    <link rel="manifest" href="manifest.json">
+
+    <!-- iOS icon support -->
+    <link rel="apple-touch-icon" href="icons/icon-192x192.png">
     <style>
       body {
         font-family: Arial, sans-serif;
@@ -126,7 +139,338 @@
     </style>
   </head>
   <body>
-    <h1>München Bürgeramt Appointment Tracker</h1>
+    <div
+      id="subscriptionModal"
+      style="
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        justify-content: center;
+        align-items: center;
+        z-index: 1000;
+      "
+    >
+      <div style="background-color: white; padding: 20px; border-radius: 5px">
+        <h2>Subscribe to Appointment Updates</h2>
+        <p>
+          Select your triggers to receive notifications about new appointments.
+          You can select multiple!
+        </p>
+        <label for="servicesSelect">Services: <span style="color: red;">*</span> (required)</label>
+        <select
+          id="servicesSelect"
+          multiple
+          style="width: 100%; margin-bottom: 10px"
+          required
+        ></select>
+        <label for="officesSelect">Offices:</label>
+        <select
+          id="officesSelect"
+          multiple
+          style="width: 100%; margin-bottom: 10px"
+        ></select>
+        <button
+          id="updateSubscriptionButton"
+          onclick="updateSubscription()"
+          style="
+            padding: 10px 15px;
+            background-color: #4caf50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+          "
+        >
+          Subscribe
+        </button>
+        <button
+          id="testNotificationButton"
+          onclick="testNotification()"
+          style="
+            padding: 10px 15px;
+            background-color: #594caf;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+          "
+        >
+          Test Notification
+        </button>
+        <button
+          id="cancelSubscriptionButton"
+          onclick="cancelSubscription()"
+          style="
+            padding: 10px 15px;
+            background-color: #d03b3b;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+          "
+        >
+          Cancel Subscribe
+        </button>
+        <button
+          onclick="closeSubscriptionModal()"
+          style="
+            padding: 10px 15px;
+            background-color: #ccc;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+          "
+        >
+          Close
+        </button>
+      </div>
+    </div>
+
+    <!-- Help Modal -->
+    <div
+      id="helpModal"
+      style="
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        justify-content: center;
+        align-items: center;
+        z-index: 1000;
+        overflow-y: auto;
+      "
+    >
+      <div style="
+        background-color: white;
+        padding: 30px;
+        border-radius: 8px;
+        max-width: 800px;
+        max-height: 90vh;
+        overflow-y: auto;
+        margin: 20px;
+      ">
+        <h2 style="margin-top: 0; color: #4a89dc;">München Bürgeramt Appointment Tracker Guide</h2>
+
+        <div style="margin-bottom: 20px;">
+          <h3 style="color: #4a89dc;">Table of Contents</h3>
+          <ul style="padding-left: 20px;">
+            <li><a href="#using-the-tracker" style="color: #4a89dc; text-decoration: none;">Using the Appointment Tracker</a></li>
+            <li><a href="#installing-pwa" style="color: #4a89dc; text-decoration: none;">Installing as an App (PWA)</a></li>
+            <li><a href="#subscribing" style="color: #4a89dc; text-decoration: none;">Subscribing to Notifications</a></li>
+            <li><a href="#calendar-subscriptions" style="color: #4a89dc; text-decoration: none;">Calendar Subscriptions</a></li>
+          </ul>
+        </div>
+
+        <div id="using-the-tracker" style="margin-bottom: 30px;">
+          <h3 style="color: #4a89dc;">Using the Appointment Tracker</h3>
+          <p>
+            This tool helps you find available appointments at München's Bürgerbüros (citizen offices).
+            Here's how to use it:
+          </p>
+          <ol style="padding-left: 20px;">
+            <li>
+              <strong>Browse Services:</strong> All available services are listed in the "Services" section.
+              Click on a service to see its available appointments.
+            </li>
+            <li>
+              <strong>Expand Offices:</strong> Click on an office name to expand and view available dates.
+            </li>
+            <li>
+              <strong>Expand Dates:</strong> Click on a date to view available appointment times.
+            </li>
+            <li>
+              <strong>Book an Appointment:</strong> Click on an appointment time, and you'll be redirected to the official
+              München Bürgerbüro website to complete your booking.
+            </li>
+          </ol>
+          <p>
+            <strong>Tip:</strong> The tracker automatically refreshes its data every minute, but you can manually check for
+            updates by refreshing the page.
+          </p>
+        </div>
+
+        <div id="installing-pwa" style="margin-bottom: 30px;">
+          <h3 style="color: #4a89dc;">Installing as an App (PWA)</h3>
+          <p>
+            This website can be installed as an app on your device. Installing it will allow you to:
+          </p>
+          <ul style="padding-left: 20px;">
+            <li>Access the tracker quickly from your home screen</li>
+            <li>Use it offline (with cached data)</li>
+            <li>Receive push notifications about new appointments (after subscribing)</li>
+          </ul>
+
+          <h4>On Windows/Linux (Chrome, Edge, or other Chromium browsers)</h4>
+          <ol style="padding-left: 20px;">
+            <li>Look for the "Install" button next to the Subscribe button</li>
+            <li>If you don't see it, click the install icon (⊕) in your browser's address bar</li>
+            <li>Follow the prompts to install the app</li>
+          </ol>
+
+          <h4>On macOS (Safari only)</h4>
+          <ol style="padding-left: 20px;">
+            <li>Open the website in Safari (PWA installation is not supported in Chrome or other browsers on macOS)</li>
+            <li>Click on the "Share" button in the toolbar (square with arrow pointing up)</li>
+            <li>Select "Add to Dock" from the menu</li>
+            <li>Click "Add" to confirm</li>
+          </ol>
+
+          <h4>On iOS (Safari)</h4>
+          <ol style="padding-left: 20px;">
+            <li>Tap the share icon (□ with up arrow) at the bottom of the screen</li>
+            <li>Scroll down and tap "Add to Home Screen"</li>
+            <li>Tap "Add" in the top right corner</li>
+          </ol>
+
+          <h4>On Android</h4>
+          <ol style="padding-left: 20px;">
+            <li>Tap the three dots menu in your browser</li>
+            <li>Tap "Add to Home screen" or "Install app"</li>
+            <li>Follow the prompts to complete installation</li>
+          </ol>
+        </div>
+
+        <div id="subscribing" style="margin-bottom: 30px;">
+          <h3 style="color: #4a89dc;">Subscribing to Notifications</h3>
+          <p>
+            You can receive push notifications when new appointments become available for your selected services.
+            Here's how to subscribe:
+          </p>
+
+          <h4>Step 1: Install the App (PWA)</h4>
+          <p>
+            First, install the app as described in the "Installing as an App" section above. Push notifications
+            work best when you've installed the app.
+          </p>
+
+          <h4>Step 2: Subscribe to Notifications</h4>
+          <ol style="padding-left: 20px;">
+            <li>Click the "Subscribe" button at the top of the page</li>
+            <li>Select the services you're interested in (required)</li>
+            <li>Optionally, select specific offices you want to be notified about</li>
+            <li>Click "Subscribe" or "Update Subscription"</li>
+            <li>Your browser will ask for permission to show notifications - click "Allow"</li>
+          </ol>
+
+          <h4>Managing Your Subscription</h4>
+          <ul style="padding-left: 20px;">
+            <li><strong>Test Notification:</strong> Use the "Test Notification" button to verify that notifications work on your device</li>
+            <li><strong>Update Preferences:</strong> Click "Subscribe" button again to change which services or offices you're subscribed to</li>
+            <li><strong>Cancel Subscription:</strong> Click "Cancel Subscribe" to stop all notifications</li>
+          </ul>
+
+          <p>
+            <strong>Note:</strong> Push notifications require a modern browser with support for the Web Push API.
+            Some browsers, particularly Safari on iOS, have limited support for web notifications.
+          </p>
+        </div>
+
+        <div id="calendar-subscriptions" style="margin-bottom: 30px;">
+          <h3 style="color: #4a89dc;">Calendar Subscriptions</h3>
+          <p>
+            You can also subscribe to appointment calendars in your preferred calendar application:
+          </p>
+
+          <h4>Apple Calendar (iOS/macOS)</h4>
+          <ol style="padding-left: 20px;">
+            <li>Open Calendar app</li>
+            <li>File > New Calendar Subscription</li>
+            <li>Enter the ICS URL for the service you're interested in</li>
+            <li>Choose refresh frequency and other options</li>
+            <li>Click Subscribe</li>
+          </ol>
+
+          <h4>Google Calendar</h4>
+          <ol style="padding-left: 20px;">
+            <li>Open Google Calendar</li>
+            <li>Click the + next to "Other calendars"</li>
+            <li>Select "From URL"</li>
+            <li>Enter the ICS URL</li>
+            <li>Click "Add calendar"</li>
+          </ol>
+          <p><strong>Note:</strong> Google Calendar updates at random intervals, which may cause delays in seeing new appointments.</p>
+
+          <h4>Microsoft Outlook</h4>
+          <ol style="padding-left: 20px;">
+            <li>Open Outlook</li>
+            <li>File > Account Settings > Internet Calendars > New</li>
+            <li>Enter the ICS URL</li>
+            <li>Click "Add"</li>
+            <li>Name your calendar and click OK</li>
+          </ol>
+
+          <h4>Other Calendar Apps</h4>
+          <p>
+            Most calendar applications support ICS/iCal subscription via URL. Look for options like:
+          </p>
+          <ul style="padding-left: 20px;">
+            <li>Subscribe to calendar</li>
+            <li>Add calendar from URL</li>
+            <li>New subscription</li>
+          </ul>
+        </div>
+
+        <button
+          onclick="closeHelpModal()"
+          style="
+            padding: 10px 15px;
+            background-color: #4a89dc;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+            width: 100%;
+          "
+        >
+          Close Help
+        </button>
+      </div>
+    </div>
+
+    <div
+      style="display: flex; justify-content: space-between; align-items: center"
+    >
+      <h1>München Bürgeramt Appointment Tracker</h1>
+      <div style="display: flex; gap: 10px;">
+        <button
+          onclick="openHelpModal()"
+          style="
+            padding: 10px 15px;
+            background-color: #4a89dc;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+          "
+          id="helpButton"
+        >
+          Help
+        </button>
+        <button
+          onclick="openSubscriptionModal()"
+          style="
+            padding: 10px 15px;
+            background-color: #4caf50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+          "
+          id="subscribeButton"
+        >
+          Subscribe
+        </button>
+      </div>
+    </div>
     <p id="lastUpdate" class="timestamp"></p>
     <div id="tableOfContents" class="toc">
       <h2>Services</h2>
@@ -136,5 +480,205 @@
     <div id="content"></div>
 
     <script src="reload.js"></script>
+    <script src="subscribeButton.js"></script>
+
+    <!-- JS for Subscription Modal -->
+    <script>
+      async function openSubscriptionModal() {
+        await fetchConstants().then((response) => {
+          const servicesSelect = document.getElementById("servicesSelect");
+          const officesSelect = document.getElementById("officesSelect");
+          Object.keys(response.services)
+            .sort()
+            .forEach((serviceName) => {
+              const serviceKey = response.services[serviceName];
+              const option = document.createElement("option");
+              option.value = serviceKey;
+              option.textContent = serviceName;
+              servicesSelect.appendChild(option);
+            });
+          Object.keys(response.offices)
+            .sort()
+            .forEach((office) => {
+              const officeDetails = response.offices[office];
+              const option = document.createElement("option");
+              option.value = officeDetails.office_id;
+              option.textContent = officeDetails.verbose_name;
+              officesSelect.appendChild(option);
+            });
+        });
+
+        navigator.serviceWorker.ready
+          .then(function (registration) {
+            return registration.pushManager.getSubscription();
+          })
+          .then(function (subscription) {
+            const updateSubscriptionButton = document.getElementById(
+              "updateSubscriptionButton"
+            );
+            if (subscription) {
+              console.log("User is already subscribed:", subscription);
+              updateSubscriptionButton.textContent = "Update Subscription";
+            } else {
+              console.log("No subscription found.");
+              updateSubscriptionButton.textContent = "Subscribe";
+            }
+          })
+          .catch(function (error) {
+            console.error("Error fetching subscription status:", error);
+          });
+        document.getElementById("subscriptionModal").style.display = "flex";
+      }
+
+      function closeSubscriptionModal() {
+        document.getElementById("subscriptionModal").style.display = "none";
+      }
+
+      function subscribe(registration) {
+        return fetch("http://localhost/public_key", { method: "GET" })
+          .then((response) => response.json())
+          .then((publicKey) => {
+            return registration.pushManager.subscribe({
+              userVisibleOnly: true,
+              applicationServerKey: new Uint8Array(publicKey.public_key),
+            });
+          })
+          .then(function (newSubscription) {
+            console.log("User subscribed:", newSubscription);
+            document.getElementById("subscribeButton").textContent =
+              "Manage Subscription";
+            document.getElementById("updateSubscriptionButton").textContent =
+              "Update Subscription";
+            return newSubscription;
+          });
+      }
+
+      function updateSubscriptionOnBackend(subscription) {
+        // Get values from input fields
+        const servicesSelect = document.getElementById("servicesSelect");
+        const officesSelect = document.getElementById("officesSelect");
+
+        const services = Array.from(servicesSelect.selectedOptions).map(
+          (option) => option.value
+        );
+        const offices = Array.from(officesSelect.selectedOptions).map(
+          (option) => option.value
+        );
+
+        // Include additional data as needed
+        const subscriptionData = Object.assign(
+          {},
+          subscription.toJSON ? subscription.toJSON() : subscription,
+          {
+            services: services,
+            offices: offices,
+          }
+        );
+        return fetch("http://localhost/subscribe", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(subscriptionData),
+        }).then((response) => response.json());
+      }
+
+      function testNotification() {
+        navigator.serviceWorker.ready
+          .then(function (registration) {
+            return registration.pushManager
+              .getSubscription()
+          })
+          .then((subscription) => {
+            return fetch("http://localhost/test_notification", {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ endpoint: subscription.endpoint }),
+            }).then((response) => response.json());
+          });
+      }
+
+      function cancelSubscription() {
+        navigator.serviceWorker.ready
+          .then(function (registration) {
+            return registration.pushManager.getSubscription();
+          })
+          .then(function (subscription) {
+            if (subscription) {
+              return subscription
+                .unsubscribe()
+                .then(function (successful) {
+                  if (successful) {
+                    console.log("User unsubscribed successfully.");
+                    // Delete subscription from backend
+                    return fetch("http://localhost/unsubscribe", {
+                      method: "POST",
+                      headers: { "Content-Type": "application/json" },
+                      body: JSON.stringify({ endpoint: subscription.endpoint }),
+                    });
+                  } else {
+                    console.log("Unsubscription failed.");
+                  }
+                })
+                .then((response) => response.json())
+                .then((result) => {
+                  console.log("Unsubscription from backend:", result);
+                  document.getElementById("subscribeButton").textContent =
+                    "Subscribe";
+                })
+                .catch((error) =>
+                  console.error("Error unsubscribing from backend:", error)
+                );
+            } else {
+              console.log("No subscription to unsubscribe from.");
+            }
+          })
+          .catch(function (error) {
+            console.error("Error unsubscribing", error);
+          });
+        closeSubscriptionModal();
+      }
+
+      function updateSubscription() {
+        const servicesSelect = document.getElementById("servicesSelect");
+        const selectedServices = Array.from(servicesSelect.selectedOptions);
+
+        // Check if services are selected
+        if (selectedServices.length === 0) {
+          alert("Please select at least one service to subscribe to");
+          return;
+        }
+
+        navigator.serviceWorker.ready
+          .then(function (registration) {
+            return registration.pushManager
+              .getSubscription()
+              .then((subscription) => ({ subscription, registration }));
+          })
+          .then(function ({ subscription, registration }) {
+            if (subscription) {
+              // Update existing subscription on backend with new preferences
+              updateSubscriptionOnBackend(subscription);
+            } else {
+              // Create a new subscription and update backend
+              subscribe(registration).then((newSub) =>
+                updateSubscriptionOnBackend(newSub)
+              );
+            }
+          })
+          .then(function (result) {
+            console.log("Subscription updated:", result);
+          })
+          .catch(function (error) {
+            console.error("Toggle subscription error", error);
+          });
+      }
+
+      function openHelpModal() {
+        document.getElementById("helpModal").style.display = "flex";
+      }
+
+      function closeHelpModal() {
+        document.getElementById("helpModal").style.display = "none";
+      }
+    </script>
   </body>
 </html>
