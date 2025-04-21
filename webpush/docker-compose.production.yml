@@ -1,0 +1,38 @@
+services:
+ proxy:
+    command:
+      # explicitly disable api
+      - "--api=false"
+      - "--api.dashboard=false"
+      # use a custom docker network
+      - "--providers.docker.network=proxy"
+      # Set log format to json
+      - "--accesslog=true"
+      - "--accesslog.format=json"
+      - "--log.format=json"
+      - "--log.level=${PROXY_LOG_LEVEL:-WARNING}"
+      # Enable Docker in Traefik, so that it reads labels from Docker services
+      - "--providers.docker=true"
+      # Do not expose all Docker services, only the ones explicitly exposed
+      - "--providers.docker.exposedbydefault=false"
+      # HTTPS redirection (80 to 443)
+      - "--entrypoints.web.address=:80"
+      - "--entrypoints.web.http.redirections.entryPoint.to=websecure"
+      - "--entrypoints.web.http.redirections.entryPoint.scheme=https"
+      - "--entrypoints.websecure.address=:443"
+      # Apply a permanent redirection
+      - "--entrypoints.web.http.redirections.entrypoint.permanent=true"
+      # Setup
+      - "--certificatesresolvers.myresolver.acme.httpchallenge=true"
+      - "--certificatesresolvers.myresolver.acme.httpchallenge.entrypoint=web"
+      - "--certificatesresolvers.myresolver.acme.email=${PROXY_ACME_MAIL?Variable not set}"
+      # Save the certicficate in mounted volume
+      - "--certificatesresolvers.myresolver.acme.storage=/traefik/letsencrypt/acme.json"
+      - "--providers.file.filename=/traefik/traefik.yaml"
+
+ webpush-service:
+    labels:
+      - traefik.http.routers.app-http.tls=true
+      - traefik.http.routers.app-http.entrypoints=websecure
+      - traefik.http.routers.app-http.tls.certresolver=myresolver
+      - traefik.http.routers.app-http.middlewares=secHeaders@file
