@@ -59,8 +59,29 @@ If you want to consume the information in a different format, you can use the ra
 2. Run the Python script: `python get_buergerbuero_appointments.py`
 3. Generate the ICS file: `python generate_ics.py`
 
+## Setup Webpush
+1. Generate a VAPID key pair
+    ```sh
+    cd webhook
+    vapid --gen
+    ```
+2.
+
+
+## Maintenance
+- Updating `constants.json`: `python generate_json_from_constants.py`
+
 ## TODOs:
 - [x] Change calendar names
 - [x] Change timezone
 - [x] Make appointments more readable (location, last updated, etc.)
 - [] Get all service codes (https://stadt.muenchen.de/buergerservice/terminvereinbarung.html#/serv)
+- [x] Add subscriptions
+- [x] enhance subscription details
+- [x] add model for appointments (see ChatGPT)
+- [x] create scheduler for scraping (install schedule.py)
+- [x] add notification strategy to scraping
+- [x] change subscription notification message
+- [x] Make webpage a PWA
+- [x] Dockerize
+- [] Create icons for PWA and notifications
