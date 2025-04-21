@@ -4,14 +4,34 @@ from enum import Enum
 class Office(Enum):
     """Bürgerbüros in Munich"""
 
-    ORLEANSPLATZ = ("BÜRGERBÜRO ORLEANSPLATZ", 102522, "Orleansstraße 50, 81667 München")
-    LEONRODSTRASSE = ("BÜRGERBÜRO LEONRODSTRASSE", 102523, "Leonrodstraße 21, 80634 München")
-    RIESENFELDSTRASSE = ("BÜRGERBÜRO RIESENFELDSTRASSE", 102524, "Riesenfeldstraße 75, 80809 München")
-    FORSTENRIEDER = ("BÜRGERBÜRO FORSTENRIEDER ALLEE", 102526, "Forstenrieder Allee 61a, 81476 München")
-    RUPPERTSTRASSE = ("BÜRGERBÜRO RUPPERTSTRASSE", 10489, "Ruppertstraße 19, 80337 München")
+    ORLEANSPLATZ = (
+        "BÜRGERBÜRO ORLEANSPLATZ",
+        102522,
+        "Orleansstraße 50, 81667 München",
+    )
+    LEONRODSTRASSE = (
+        "BÜRGERBÜRO LEONRODSTRASSE",
+        102523,
+        "Leonrodstraße 21, 80634 München",
+    )
+    RIESENFELDSTRASSE = (
+        "BÜRGERBÜRO RIESENFELDSTRASSE",
+        102524,
+        "Riesenfeldstraße 75, 80809 München",
+    )
+    FORSTENRIEDER = (
+        "BÜRGERBÜRO FORSTENRIEDER ALLEE",
+        102526,
+        "Forstenrieder Allee 61a, 81476 München",
+    )
+    RUPPERTSTRASSE = (
+        "BÜRGERBÜRO RUPPERTSTRASSE",
+        10489,
+        "Ruppertstraße 19, 80337 München",
+    )
     PASING = ("BÜRGERBÜRO PASING", 54261, "Landsberger Str. 486, 81241 München")
     AUSLAENDERBEHOERDE = ("AUSLÄNDERBEHÖRDE", 102527, "Ruppertstraße 19, 80337 München")
-    
+
     def __init__(self, verbose_name, office_id, address):
         self.verbose_name = verbose_name
         self.office_id = office_id
@@ -34,4 +54,3 @@ class Services(Enum):
     ADRESSAENDERUNG_PERSONALAUSWEIS_REISEPASS_EAT = 10242339
     ELD_KARTE_EU_EWR = 10306925
     NOTFALL_HILFE_AUFENTHALTSTITEL_BESCHAEFTIGTE_ANGEHOERIGE = 10339028
-    

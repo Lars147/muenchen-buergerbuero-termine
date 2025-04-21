@@ -1,12 +1,13 @@
 import json
-import requests
-from datetime import date, datetime, timedelta
-from requests.exceptions import ConnectionError, Timeout
-from json.decoder import JSONDecodeError
 import time
+from datetime import date, datetime, timedelta
 from functools import wraps
+from json.decoder import JSONDecodeError
 
-from constants import Office, Services
+import requests
+from requests.exceptions import ConnectionError, Timeout
+
+from webpush.constants import Office, Services
 
 
 def retry_on_error(max_retries: int = 3, retry_delay: float = 1.0):
@@ -26,7 +27,9 @@ def retry_on_error(max_retries: int = 3, retry_delay: float = 1.0):
                         raise
                     time.sleep(retry_delay)
             return None  # Should never reach here due to raise in last attempt
+
         return wrapper
+
     return decorator
 
 
@@ -76,7 +79,11 @@ if __name__ == "__main__":
         result[service.name] = {}
 
         for office in Office:
-            if service == Services.NOTFALL_HILFE_AUFENTHALTSTITEL_BESCHAEFTIGTE_ANGEHOERIGE and office != Office.AUSLAENDERBEHOERDE:
+            if (
+                service
+                == Services.NOTFALL_HILFE_AUFENTHALTSTITEL_BESCHAEFTIGTE_ANGEHOERIGE
+                and office != Office.AUSLAENDERBEHOERDE
+            ):
                 continue
             print(f"Gather information for office {office}...")
             result[service.name][office.name] = {}
@@ -85,7 +92,9 @@ if __name__ == "__main__":
             for day in response.get("availableDays", []):
                 print(f"Gather information for day {day}...")
                 appointment_date = datetime.strptime(day, "%Y-%m-%d").date()
-                appointments = get_appointments_for_date(appointment_date, office, service)
+                appointments = get_appointments_for_date(
+                    appointment_date, office, service
+                )
                 result[service.name][office.name][day] = appointments
             print()
         print()

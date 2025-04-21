@@ -1,0 +1,53 @@
+services:
+  scraper:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    expose:
+      - "5000"
+    volumes:
+      - ./database.db:/app/database.db
+      - ./private_key.pem:/app/private_key.pem:ro
+    restart: unless-stopped
+    env_file:
+      - .env
+
+  webpush-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    expose:
+      - "5001"
+    volumes:
+      - ./database.db:/app/database.db
+      - ./private_key.pem:/app/private_key.pem:ro
+      - ./public_key.pem:/app/public_key.pem:ro
+    restart: unless-stopped
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.app-http.rule=Host(`${DOMAIN:?DOMAIN is not set}`)
+      - traefik.http.services.app-http.loadbalancer.server.port=5001
+    env_file:
+      - .env
+
+  proxy:
+    image: traefik:v3.3
+    restart: unless-stopped
+    ports:
+      # The HTTP port
+      - "80:80"
+      # The HTTPS port
+      - "443:443"
+      - "8080:8080"
+    volumes:
+      # mount docker socket, such that Traefik can listen to the Docker events
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      # mount folder for certificates for persistance
+      - ./traefik/letsencrypt:/traefik/letsencrypt
+    command:
+      - --providers.docker.exposedbydefault=false
+      - --providers.docker.network=proxy
+      - --api.insecure=true
+      - --providers.docker
+      - --api.debug=true
+      - --log.level=DEBUG

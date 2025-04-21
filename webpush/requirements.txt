@@ -1,0 +1,7 @@
+pywebpush==2.0.3
+Flask==3.1.0
+Flask-Cors==5.0.0
+SQLAlchemy==2.0.38
+py-vapid==1.9.0
+gunicorn==21.2.0
+sentry-sdk[flask]==2.26.1

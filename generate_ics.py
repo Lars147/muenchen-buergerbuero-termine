@@ -10,11 +10,12 @@ in that category.
 import json
 import re
 from datetime import datetime, timedelta
-from icalendar import Calendar, Event
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from constants import Office, Services
+from icalendar import Calendar, Event
+
+from webpush.constants import Office, Services
 
 # ------------
 # CONFIG
@@ -24,18 +25,19 @@ OUTPUT_DIR_NAME = "ics"  # Output directory for ICS files
 TZ = ZoneInfo("Europe/Berlin")  # Timezone for the appointments
 
 
-
 def clean_filename(name):
     """
     Convert category name into a filename-friendly string, e.g. removing spaces, slashes, etc.
     """
-    return re.sub(r'[^A-Za-z0-9_\-]+', '_', name)
+    return re.sub(r"[^A-Za-z0-9_\-]+", "_", name)
+
 
 def load_appointments(json_file):
     """Load the appointment data from the JSON file."""
     with open(json_file, "r", encoding="utf-8") as f:
         data = json.load(f)
     return data
+
 
 def generate_ics_for_category(service, appointments):
     """
@@ -44,12 +46,12 @@ def generate_ics_for_category(service, appointments):
     """
     now = datetime.now().astimezone(TZ)
     service = Services[service]
-    
+
     cal = Calendar()
-    cal.add('prodid', f'-//Appointments Buergerbuero Muenchen//{service.name}//')
-    cal.add('version', '2.0')
-    cal.add('method', 'PUBLISH')
-    cal.add('calscale', 'GREGORIAN')
+    cal.add("prodid", f"-//Appointments Buergerbuero Muenchen//{service.name}//")
+    cal.add("version", "2.0")
+    cal.add("method", "PUBLISH")
+    cal.add("calscale", "GREGORIAN")
 
     # Iterate over locations in this category
     for office_name, dates_dict in appointments.items():
@@ -66,22 +68,24 @@ def generate_ics_for_category(service, appointments):
                 end_dt = start_dt + timedelta(minutes=15)  # Each appointment is 15 min
 
                 event = Event()
-                event.add('summary', f"{service.name} - {office_name}")
-                event.add('dtstart', start_dt)
-                event.add('dtend', end_dt)
-                event.add('dtstamp', datetime.now())
-                event.add('location', office.address)
-                event.add('description',
+                event.add("summary", f"{service.name} - {office_name}")
+                event.add("dtstart", start_dt)
+                event.add("dtend", end_dt)
+                event.add("dtstamp", datetime.now())
+                event.add("location", office.address)
+                event.add(
+                    "description",
                     f"Termin buchen: https://stadt.muenchen.de/buergerservice/terminvereinbarung.html#/services/{service.value}/\n\n"
                     f"Zuletzt abgerufen: {now.strftime('%d.%m.%Y %H:%M:%S %Z (%z)')}\n"
-                    f"Zuletzt geupdated (muenchen.de): {datetime.fromtimestamp(int(info['lastModified']) / 1000, tz=TZ).strftime('%d.%m.%Y %H:%M:%S %Z (%z)')}"
+                    f"Zuletzt geupdated (muenchen.de): {datetime.fromtimestamp(int(info['lastModified']) / 1000, tz=TZ).strftime('%d.%m.%Y %H:%M:%S %Z (%z)')}",
                 )
                 # Unique identifier for the event
-                event['uid'] = f"{start_ts}-{office_name.replace(' ', '_')}"
+                event["uid"] = f"{start_ts}-{office_name.replace(' ', '_')}"
 
                 cal.add_component(event)
 
     return cal
+
 
 def main():
     data = load_appointments(JSON_FILE)
@@ -98,10 +102,11 @@ def main():
         safe_cat = clean_filename(service)
         output_file = output_dir / f"{safe_cat}.ics"
 
-        with open(output_file, 'wb') as f:
+        with open(output_file, "wb") as f:
             f.write(cal.to_ical())
 
         print(f"Created ICS for category '{service}' -> {output_file}")
+
 
 if __name__ == "__main__":
     main()
