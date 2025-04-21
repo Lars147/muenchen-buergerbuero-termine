@@ -11,7 +11,7 @@ from models import Appointment, SessionLocal, WebPushSubscription
 from pywebpush import WebPushException, webpush
 
 VAPID_PRIVATE_KEY = os.path.join(
-    os.path.dirname(os.path.abspath(__file__)), "private_key.pem"
+    os.path.dirname(os.path.abspath(__file__)), "keys", "private_key.pem"
 )
 
 

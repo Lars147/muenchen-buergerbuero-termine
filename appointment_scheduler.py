@@ -12,7 +12,7 @@ from webpush.constants import Office, Services
 from webpush.models import Appointment, SessionLocal, WebPushSubscription
 
 VAPID_PRIVATE_KEY = os.path.join(
-    os.path.dirname(os.path.abspath(__file__)), "webpush", "private_key.pem"
+    os.path.dirname(os.path.abspath(__file__)), "webpush", "keys", "private_key.pem"
 )
 
 

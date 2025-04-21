@@ -23,10 +23,10 @@ CORS(app)
 Base.metadata.create_all(engine)
 
 VAPID_PRIVATE_KEY = os.path.join(
-    os.path.dirname(os.path.abspath(__file__)), "private_key.pem"
+    os.path.dirname(os.path.abspath(__file__)), "keys", "private_key.pem"
 )
 VAPID_PUBLIC_KEY = os.path.join(
-    os.path.dirname(os.path.abspath(__file__)), "public_key.pem"
+    os.path.dirname(os.path.abspath(__file__)), "keys", "public_key.pem"
 )
 
 

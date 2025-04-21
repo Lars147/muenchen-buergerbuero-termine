@@ -4,8 +4,8 @@ services:
       context: .
       dockerfile: Dockerfile
     volumes:
-      - ./database.db:/app/database.db
-      - ./private_key.pem:/app/private_key.pem:ro
+      - ./data/database.db:/app/data/
+      - ./keys/:/app/keys/
     restart: unless-stopped
     env_file:
       - .env
@@ -17,9 +17,8 @@ services:
     expose:
       - "5001"
     volumes:
-      - ./database.db:/app/database.db
-      - ./private_key.pem:/app/private_key.pem:ro
-      - ./public_key.pem:/app/public_key.pem:ro
+      - ./data/database.db:/app/data/
+      - ./keys/:/app/keys/
     restart: unless-stopped
     labels:
       - traefik.enable=true

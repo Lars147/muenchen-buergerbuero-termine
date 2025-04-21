@@ -60,6 +60,6 @@ class Appointment(Base):
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
 
-DATABASE_URL = f"sqlite:///{os.path.join(base_dir, 'database.db')}"
+DATABASE_URL = f"sqlite:///{os.path.join(base_dir, 'data', 'database.db')}"
 engine = create_engine(DATABASE_URL, echo=True)
 SessionLocal = sessionmaker(bind=engine)
