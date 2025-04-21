@@ -3,8 +3,6 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    expose:
-      - "5000"
     volumes:
       - ./database.db:/app/database.db
       - ./private_key.pem:/app/private_key.pem:ro
