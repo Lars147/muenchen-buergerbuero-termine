@@ -535,7 +535,7 @@
       }
 
       function subscribe(registration) {
-        return fetch("http://localhost/public_key", { method: "GET" })
+        return fetch("https://muenchen-buergerbuero-termine.lars147.de/public_key", { method: "GET" })
           .then((response) => response.json())
           .then((publicKey) => {
             return registration.pushManager.subscribe({
@@ -574,7 +574,7 @@
             offices: offices,
           }
         );
-        return fetch("http://localhost/subscribe", {
+        return fetch("https://muenchen-buergerbuero-termine.lars147.de/subscribe", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify(subscriptionData),
@@ -588,7 +588,7 @@
               .getSubscription()
           })
           .then((subscription) => {
-            return fetch("http://localhost/test_notification", {
+            return fetch("https://muenchen-buergerbuero-termine.lars147.de/test_notification", {
               method: "POST",
               headers: { "Content-Type": "application/json" },
               body: JSON.stringify({ endpoint: subscription.endpoint }),
@@ -609,7 +609,7 @@
                   if (successful) {
                     console.log("User unsubscribed successfully.");
                     // Delete subscription from backend
-                    return fetch("http://localhost/unsubscribe", {
+                    return fetch("https://muenchen-buergerbuero-termine.lars147.de/unsubscribe", {
                       method: "POST",
                       headers: { "Content-Type": "application/json" },
                       body: JSON.stringify({ endpoint: subscription.endpoint }),
