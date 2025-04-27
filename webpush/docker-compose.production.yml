@@ -10,7 +10,7 @@ services:
       - "--accesslog=true"
       - "--accesslog.format=json"
       - "--log.format=json"
-      - "--log.level=${PROXY_LOG_LEVEL:-WARNING}"
+      - "--log.level=${PROXY_LOG_LEVEL:-WARN}"
       # Enable Docker in Traefik, so that it reads labels from Docker services
       - "--providers.docker=true"
       # Do not expose all Docker services, only the ones explicitly exposed
@@ -28,11 +28,9 @@ services:
       - "--certificatesresolvers.myresolver.acme.email=${PROXY_ACME_MAIL?Variable not set}"
       # Save the certicficate in mounted volume
       - "--certificatesresolvers.myresolver.acme.storage=/traefik/letsencrypt/acme.json"
-      - "--providers.file.filename=/traefik/traefik.yaml"
 
  webpush-service:
     labels:
       - traefik.http.routers.app-http.tls=true
       - traefik.http.routers.app-http.entrypoints=websecure
       - traefik.http.routers.app-http.tls.certresolver=myresolver
-      - traefik.http.routers.app-http.middlewares=secHeaders@file
