@@ -13,8 +13,5 @@ COPY . .
 ENV PYTHONUNBUFFERED=1
 ENV FLASK_APP=server.py
 
-# Expose the port the app runs on
-EXPOSE 5001
-
 # Command to run the application with gunicorn
 CMD ["gunicorn", "--bind", "0.0.0.0:5001", "server:app"]
