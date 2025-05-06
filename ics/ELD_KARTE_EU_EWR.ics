@@ -5,1267 +5,431 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - LEONRODSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T090000
-DTEND;TZID=Europe/Berlin:20250617T091500
-DTSTAMP:20250506T074955Z
-UID:1750143600-LEONRODSTRASSE
+DTSTART;TZID=Europe/Berlin:20250613T073000
+DTEND;TZID=Europe/Berlin:20250613T074500
+DTSTAMP:20250506T080939Z
+UID:1749792600-LEONRODSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Leonrodstraße 21\, 80634 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - LEONRODSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T090500
-DTEND;TZID=Europe/Berlin:20250617T092000
-DTSTAMP:20250506T074955Z
-UID:1750143900-LEONRODSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Leonrodstraße 21\, 80634 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - LEONRODSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T091000
-DTEND;TZID=Europe/Berlin:20250617T092500
-DTSTAMP:20250506T074955Z
-UID:1750144200-LEONRODSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Leonrodstraße 21\, 80634 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - LEONRODSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T091500
-DTEND;TZID=Europe/Berlin:20250617T093000
-DTSTAMP:20250506T074955Z
-UID:1750144500-LEONRODSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Leonrodstraße 21\, 80634 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T083000
-DTEND;TZID=Europe/Berlin:20250617T084500
-DTSTAMP:20250506T074955Z
-UID:1750141800-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T083500
-DTEND;TZID=Europe/Berlin:20250617T085000
-DTSTAMP:20250506T074955Z
-UID:1750142100-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T084000
-DTEND;TZID=Europe/Berlin:20250617T085500
-DTSTAMP:20250506T074955Z
-UID:1750142400-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T084500
-DTEND;TZID=Europe/Berlin:20250617T090000
-DTSTAMP:20250506T074955Z
-UID:1750142700-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T085000
-DTEND;TZID=Europe/Berlin:20250617T090500
-DTSTAMP:20250506T074955Z
-UID:1750143000-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T085500
-DTEND;TZID=Europe/Berlin:20250617T091000
-DTSTAMP:20250506T074955Z
-UID:1750143300-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T095500
-DTEND;TZID=Europe/Berlin:20250617T101000
-DTSTAMP:20250506T074955Z
-UID:1750146900-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T100000
-DTEND;TZID=Europe/Berlin:20250617T101500
-DTSTAMP:20250506T074955Z
-UID:1750147200-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T100500
-DTEND;TZID=Europe/Berlin:20250617T102000
-DTSTAMP:20250506T074955Z
-UID:1750147500-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T101000
-DTEND;TZID=Europe/Berlin:20250617T102500
-DTSTAMP:20250506T074955Z
-UID:1750147800-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T101500
-DTEND;TZID=Europe/Berlin:20250617T103000
-DTSTAMP:20250506T074955Z
-UID:1750148100-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T102000
-DTEND;TZID=Europe/Berlin:20250617T103500
-DTSTAMP:20250506T074955Z
-UID:1750148400-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T102500
-DTEND;TZID=Europe/Berlin:20250617T104000
-DTSTAMP:20250506T074955Z
-UID:1750148700-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T103000
-DTEND;TZID=Europe/Berlin:20250617T104500
-DTSTAMP:20250506T074955Z
-UID:1750149000-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T103500
-DTEND;TZID=Europe/Berlin:20250617T105000
-DTSTAMP:20250506T074955Z
-UID:1750149300-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T104000
-DTEND;TZID=Europe/Berlin:20250617T105500
-DTSTAMP:20250506T074955Z
-UID:1750149600-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T104500
-DTEND;TZID=Europe/Berlin:20250617T110000
-DTSTAMP:20250506T074955Z
-UID:1750149900-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T105000
-DTEND;TZID=Europe/Berlin:20250617T110500
-DTSTAMP:20250506T074955Z
-UID:1750150200-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T105500
-DTEND;TZID=Europe/Berlin:20250617T111000
-DTSTAMP:20250506T074955Z
-UID:1750150500-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T110000
-DTEND;TZID=Europe/Berlin:20250617T111500
-DTSTAMP:20250506T074955Z
-UID:1750150800-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T110500
-DTEND;TZID=Europe/Berlin:20250617T112000
-DTSTAMP:20250506T074955Z
-UID:1750151100-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
-DTSTART;TZID=Europe/Berlin:20250610T094500
-DTEND;TZID=Europe/Berlin:20250610T100000
-DTSTAMP:20250506T074955Z
-UID:1749541500-FORSTENRIEDER
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T083000
 DTEND;TZID=Europe/Berlin:20250617T084500
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750141800-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T083500
 DTEND;TZID=Europe/Berlin:20250617T085000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750142100-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T084000
 DTEND;TZID=Europe/Berlin:20250617T085500
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750142400-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T084500
 DTEND;TZID=Europe/Berlin:20250617T090000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750142700-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T085000
 DTEND;TZID=Europe/Berlin:20250617T090500
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750143000-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T085500
 DTEND;TZID=Europe/Berlin:20250617T091000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750143300-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T090000
 DTEND;TZID=Europe/Berlin:20250617T091500
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750143600-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T090500
 DTEND;TZID=Europe/Berlin:20250617T092000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750143900-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T091000
 DTEND;TZID=Europe/Berlin:20250617T092500
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750144200-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T091500
 DTEND;TZID=Europe/Berlin:20250617T093000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750144500-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T094500
 DTEND;TZID=Europe/Berlin:20250617T100000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750146300-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T095000
 DTEND;TZID=Europe/Berlin:20250617T100500
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750146600-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T095500
 DTEND;TZID=Europe/Berlin:20250617T101000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750146900-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T100000
 DTEND;TZID=Europe/Berlin:20250617T101500
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750147200-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T100500
 DTEND;TZID=Europe/Berlin:20250617T102000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750147500-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T101000
 DTEND;TZID=Europe/Berlin:20250617T102500
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750147800-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T101500
 DTEND;TZID=Europe/Berlin:20250617T103000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750148100-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T102000
 DTEND;TZID=Europe/Berlin:20250617T103500
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750148400-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T102500
 DTEND;TZID=Europe/Berlin:20250617T104000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750148700-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T103000
 DTEND;TZID=Europe/Berlin:20250617T104500
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750149000-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T103500
 DTEND;TZID=Europe/Berlin:20250617T105000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750149300-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T104000
 DTEND;TZID=Europe/Berlin:20250617T105500
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750149600-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T104500
 DTEND;TZID=Europe/Berlin:20250617T110000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750149900-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Forstenrieder Allee 61a\, 81476 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
-DTSTART;TZID=Europe/Berlin:20250617T113000
-DTEND;TZID=Europe/Berlin:20250617T114500
-DTSTAMP:20250506T074955Z
-UID:1750152600-FORSTENRIEDER
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Forstenrieder Allee 61a\, 81476 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
-DTSTART;TZID=Europe/Berlin:20250617T113500
-DTEND;TZID=Europe/Berlin:20250617T115000
-DTSTAMP:20250506T074955Z
-UID:1750152900-FORSTENRIEDER
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Forstenrieder Allee 61a\, 81476 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
-DTSTART;TZID=Europe/Berlin:20250617T114000
-DTEND;TZID=Europe/Berlin:20250617T115500
-DTSTAMP:20250506T074955Z
-UID:1750153200-FORSTENRIEDER
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T114500
 DTEND;TZID=Europe/Berlin:20250617T120000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750153500-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T121500
 DTEND;TZID=Europe/Berlin:20250617T123000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750155300-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T122000
 DTEND;TZID=Europe/Berlin:20250617T123500
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750155600-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T122500
 DTEND;TZID=Europe/Berlin:20250617T124000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750155900-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T123000
 DTEND;TZID=Europe/Berlin:20250617T124500
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750156200-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250617T123500
 DTEND;TZID=Europe/Berlin:20250617T125000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1750156500-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250506T102500
-DTEND;TZID=Europe/Berlin:20250506T104000
-DTSTAMP:20250506T074955Z
-UID:1746519900-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T090000
-DTEND;TZID=Europe/Berlin:20250617T091500
-DTSTAMP:20250506T074955Z
-UID:1750143600-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T090500
-DTEND;TZID=Europe/Berlin:20250617T092000
-DTSTAMP:20250506T074955Z
-UID:1750143900-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T091000
-DTEND;TZID=Europe/Berlin:20250617T092500
-DTSTAMP:20250506T074955Z
-UID:1750144200-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T091500
-DTEND;TZID=Europe/Berlin:20250617T093000
-DTSTAMP:20250506T074955Z
-UID:1750144500-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T092000
-DTEND;TZID=Europe/Berlin:20250617T093500
-DTSTAMP:20250506T074955Z
-UID:1750144800-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T092500
-DTEND;TZID=Europe/Berlin:20250617T094000
-DTSTAMP:20250506T074955Z
-UID:1750145100-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T093000
-DTEND;TZID=Europe/Berlin:20250617T094500
-DTSTAMP:20250506T074955Z
-UID:1750145400-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T093500
-DTEND;TZID=Europe/Berlin:20250617T095000
-DTSTAMP:20250506T074955Z
-UID:1750145700-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T094000
-DTEND;TZID=Europe/Berlin:20250617T095500
-DTSTAMP:20250506T074955Z
-UID:1750146000-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T094500
-DTEND;TZID=Europe/Berlin:20250617T100000
-DTSTAMP:20250506T074955Z
-UID:1750146300-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T095000
-DTEND;TZID=Europe/Berlin:20250617T100500
-DTSTAMP:20250506T074955Z
-UID:1750146600-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T095500
-DTEND;TZID=Europe/Berlin:20250617T101000
-DTSTAMP:20250506T074955Z
-UID:1750146900-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T100000
-DTEND;TZID=Europe/Berlin:20250617T101500
-DTSTAMP:20250506T074955Z
-UID:1750147200-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T100500
-DTEND;TZID=Europe/Berlin:20250617T102000
-DTSTAMP:20250506T074955Z
-UID:1750147500-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T101000
-DTEND;TZID=Europe/Berlin:20250617T102500
-DTSTAMP:20250506T074955Z
-UID:1750147800-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T101500
-DTEND;TZID=Europe/Berlin:20250617T103000
-DTSTAMP:20250506T074955Z
-UID:1750148100-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T102000
-DTEND;TZID=Europe/Berlin:20250617T103500
-DTSTAMP:20250506T074955Z
-UID:1750148400-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T102500
-DTEND;TZID=Europe/Berlin:20250617T104000
-DTSTAMP:20250506T074955Z
-UID:1750148700-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T103000
-DTEND;TZID=Europe/Berlin:20250617T104500
-DTSTAMP:20250506T074955Z
-UID:1750149000-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T103500
-DTEND;TZID=Europe/Berlin:20250617T105000
-DTSTAMP:20250506T074955Z
-UID:1750149300-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T104000
-DTEND;TZID=Europe/Berlin:20250617T105500
-DTSTAMP:20250506T074955Z
-UID:1750149600-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T104500
-DTEND;TZID=Europe/Berlin:20250617T110000
-DTSTAMP:20250506T074955Z
-UID:1750149900-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T105000
-DTEND;TZID=Europe/Berlin:20250617T110500
-DTSTAMP:20250506T074955Z
-UID:1750150200-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T105500
-DTEND;TZID=Europe/Berlin:20250617T111000
-DTSTAMP:20250506T074955Z
-UID:1750150500-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T110000
-DTEND;TZID=Europe/Berlin:20250617T111500
-DTSTAMP:20250506T074955Z
-UID:1750150800-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T110500
-DTEND;TZID=Europe/Berlin:20250617T112000
-DTSTAMP:20250506T074955Z
-UID:1750151100-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T111000
-DTEND;TZID=Europe/Berlin:20250617T112500
-DTSTAMP:20250506T074955Z
-UID:1750151400-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T111500
-DTEND;TZID=Europe/Berlin:20250617T113000
-DTSTAMP:20250506T074955Z
-UID:1750151700-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T112000
-DTEND;TZID=Europe/Berlin:20250617T113500
-DTSTAMP:20250506T074955Z
-UID:1750152000-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T112500
-DTEND;TZID=Europe/Berlin:20250617T114000
-DTSTAMP:20250506T074955Z
-UID:1750152300-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T113000
-DTEND;TZID=Europe/Berlin:20250617T114500
-DTSTAMP:20250506T074955Z
-UID:1750152600-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T113500
-DTEND;TZID=Europe/Berlin:20250617T115000
-DTSTAMP:20250506T074955Z
-UID:1750152900-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T114000
-DTEND;TZID=Europe/Berlin:20250617T115500
-DTSTAMP:20250506T074955Z
-UID:1750153200-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T114500
-DTEND;TZID=Europe/Berlin:20250617T120000
-DTSTAMP:20250506T074955Z
-UID:1750153500-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T115000
-DTEND;TZID=Europe/Berlin:20250617T120500
-DTSTAMP:20250506T074955Z
-UID:1750153800-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T115500
-DTEND;TZID=Europe/Berlin:20250617T121000
-DTSTAMP:20250506T074955Z
-UID:1750154100-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T120000
-DTEND;TZID=Europe/Berlin:20250617T121500
-DTSTAMP:20250506T074955Z
-UID:1750154400-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T120500
-DTEND;TZID=Europe/Berlin:20250617T122000
-DTSTAMP:20250506T074955Z
-UID:1750154700-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T121000
-DTEND;TZID=Europe/Berlin:20250617T122500
-DTSTAMP:20250506T074955Z
-UID:1750155000-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T121500
-DTEND;TZID=Europe/Berlin:20250617T123000
-DTSTAMP:20250506T074955Z
-UID:1750155300-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T122000
-DTEND;TZID=Europe/Berlin:20250617T123500
-DTSTAMP:20250506T074955Z
-UID:1750155600-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T122500
-DTEND;TZID=Europe/Berlin:20250617T124000
-DTSTAMP:20250506T074955Z
-UID:1750155900-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T123000
-DTEND;TZID=Europe/Berlin:20250617T124500
-DTSTAMP:20250506T074955Z
-UID:1750156200-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250617T123500
-DTEND;TZID=Europe/Berlin:20250617T125000
-DTSTAMP:20250506T074955Z
-UID:1750156500-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - PASING
-DTSTART;TZID=Europe/Berlin:20250506T095500
-DTEND;TZID=Europe/Berlin:20250506T101000
-DTSTAMP:20250506T074955Z
-UID:1746518100-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - PASING
-DTSTART;TZID=Europe/Berlin:20250506T100000
-DTEND;TZID=Europe/Berlin:20250506T101500
-DTSTAMP:20250506T074955Z
-UID:1746518400-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - PASING
-DTSTART;TZID=Europe/Berlin:20250506T100500
-DTEND;TZID=Europe/Berlin:20250506T102000
-DTSTAMP:20250506T074955Z
-UID:1746518700-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - PASING
-DTSTART;TZID=Europe/Berlin:20250506T101000
-DTEND;TZID=Europe/Berlin:20250506T102500
-DTSTAMP:20250506T074955Z
-UID:1746519000-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - PASING
 DTSTART;TZID=Europe/Berlin:20250506T101500
 DTEND;TZID=Europe/Berlin:20250506T103000
-DTSTAMP:20250506T074955Z
+DTSTAMP:20250506T080939Z
 UID:1746519300-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - PASING
-DTSTART;TZID=Europe/Berlin:20250506T102000
-DTEND;TZID=Europe/Berlin:20250506T103500
-DTSTAMP:20250506T074955Z
-UID:1746519600-PASING
+DTSTART;TZID=Europe/Berlin:20250617T112000
+DTEND;TZID=Europe/Berlin:20250617T113500
+DTSTAMP:20250506T080939Z
+UID:1750152000-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - PASING
-DTSTART;TZID=Europe/Berlin:20250506T102500
-DTEND;TZID=Europe/Berlin:20250506T104000
-DTSTAMP:20250506T074955Z
-UID:1746519900-PASING
+DTSTART;TZID=Europe/Berlin:20250617T112500
+DTEND;TZID=Europe/Berlin:20250617T114000
+DTSTAMP:20250506T080939Z
+UID:1750152300-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - PASING
-DTSTART;TZID=Europe/Berlin:20250506T103000
-DTEND;TZID=Europe/Berlin:20250506T104500
-DTSTAMP:20250506T074955Z
-UID:1746520200-PASING
+DTSTART;TZID=Europe/Berlin:20250617T113000
+DTEND;TZID=Europe/Berlin:20250617T114500
+DTSTAMP:20250506T080939Z
+UID:1750152600-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - PASING
-DTSTART;TZID=Europe/Berlin:20250506T103500
-DTEND;TZID=Europe/Berlin:20250506T105000
-DTSTAMP:20250506T074955Z
-UID:1746520500-PASING
+DTSTART;TZID=Europe/Berlin:20250617T113500
+DTEND;TZID=Europe/Berlin:20250617T115000
+DTSTAMP:20250506T080939Z
+UID:1750152900-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - PASING
-DTSTART;TZID=Europe/Berlin:20250506T104000
-DTEND;TZID=Europe/Berlin:20250506T105500
-DTSTAMP:20250506T074955Z
-UID:1746520800-PASING
+DTSTART;TZID=Europe/Berlin:20250617T114000
+DTEND;TZID=Europe/Berlin:20250617T115500
+DTSTAMP:20250506T080939Z
+UID:1750153200-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - PASING
-DTSTART;TZID=Europe/Berlin:20250506T104500
-DTEND;TZID=Europe/Berlin:20250506T110000
-DTSTAMP:20250506T074955Z
-UID:1746521100-PASING
+DTSTART;TZID=Europe/Berlin:20250617T114500
+DTEND;TZID=Europe/Berlin:20250617T120000
+DTSTAMP:20250506T080939Z
+UID:1750153500-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - PASING
-DTSTART;TZID=Europe/Berlin:20250617T084500
-DTEND;TZID=Europe/Berlin:20250617T090000
-DTSTAMP:20250506T074955Z
-UID:1750142700-PASING
+DTSTART;TZID=Europe/Berlin:20250617T121500
+DTEND;TZID=Europe/Berlin:20250617T123000
+DTSTAMP:20250506T080939Z
+UID:1750155300-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 09:
- 49:55 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T122000
+DTEND;TZID=Europe/Berlin:20250617T123500
+DTSTAMP:20250506T080939Z
+UID:1750155600-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 10:
+ 09:39 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 END:VCALENDAR
