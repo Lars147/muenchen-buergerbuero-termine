@@ -4,102 +4,190 @@ PRODID:-//Appointments Buergerbuero Muenchen//ELD_KARTE_EU_EWR//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250612T103000
-DTEND;TZID=Europe/Berlin:20250612T104500
-DTSTAMP:20250506T212350Z
-UID:1749717000-ORLEANSPLATZ
+SUMMARY:ELD_KARTE_EU_EWR - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250611T081500
+DTEND;TZID=Europe/Berlin:20250611T083000
+DTSTAMP:20250506T213925Z
+UID:1749622500-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
- 23:50 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250612T103500
-DTEND;TZID=Europe/Berlin:20250612T105000
-DTSTAMP:20250506T212350Z
-UID:1749717300-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
- 23:50 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250612T104000
-DTEND;TZID=Europe/Berlin:20250612T105500
-DTSTAMP:20250506T212350Z
-UID:1749717600-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
- 23:50 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250612T104500
-DTEND;TZID=Europe/Berlin:20250612T110000
-DTSTAMP:20250506T212350Z
-UID:1749717900-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
- 23:50 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250612T105000
-DTEND;TZID=Europe/Berlin:20250612T110500
-DTSTAMP:20250506T212350Z
-UID:1749718200-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
- 23:50 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250612T105500
-DTEND;TZID=Europe/Berlin:20250612T111000
-DTSTAMP:20250506T212350Z
-UID:1749718500-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
- 23:50 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250612T152500
-DTEND;TZID=Europe/Berlin:20250612T154000
-DTSTAMP:20250506T212350Z
-UID:1749734700-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
- 23:50 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELD_KARTE_EU_EWR - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250612T153000
-DTEND;TZID=Europe/Berlin:20250612T154500
-DTSTAMP:20250506T212350Z
-UID:1749735000-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
- 23:50 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELD_KARTE_EU_EWR - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250605T101500
 DTEND;TZID=Europe/Berlin:20250605T103000
-DTSTAMP:20250506T212350Z
+DTSTAMP:20250506T213925Z
 UID:1749111300-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
- 23:50 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T140000
+DTEND;TZID=Europe/Berlin:20250617T141500
+DTSTAMP:20250506T213925Z
+UID:1750161600-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T144500
+DTEND;TZID=Europe/Berlin:20250617T150000
+DTSTAMP:20250506T213925Z
+UID:1750164300-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T145000
+DTEND;TZID=Europe/Berlin:20250617T150500
+DTSTAMP:20250506T213925Z
+UID:1750164600-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T145500
+DTEND;TZID=Europe/Berlin:20250617T151000
+DTSTAMP:20250506T213925Z
+UID:1750164900-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T150000
+DTEND;TZID=Europe/Berlin:20250617T151500
+DTSTAMP:20250506T213925Z
+UID:1750165200-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T150500
+DTEND;TZID=Europe/Berlin:20250617T152000
+DTSTAMP:20250506T213925Z
+UID:1750165500-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T151000
+DTEND;TZID=Europe/Berlin:20250617T152500
+DTSTAMP:20250506T213925Z
+UID:1750165800-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T151500
+DTEND;TZID=Europe/Berlin:20250617T153000
+DTSTAMP:20250506T213925Z
+UID:1750166100-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T152000
+DTEND;TZID=Europe/Berlin:20250617T153500
+DTSTAMP:20250506T213925Z
+UID:1750166400-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T152500
+DTEND;TZID=Europe/Berlin:20250617T154000
+DTSTAMP:20250506T213925Z
+UID:1750166700-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T162500
+DTEND;TZID=Europe/Berlin:20250617T164000
+DTSTAMP:20250506T213925Z
+UID:1750170300-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T163000
+DTEND;TZID=Europe/Berlin:20250617T164500
+DTSTAMP:20250506T213925Z
+UID:1750170600-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T163500
+DTEND;TZID=Europe/Berlin:20250617T165000
+DTSTAMP:20250506T213925Z
+UID:1750170900-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T164000
+DTEND;TZID=Europe/Berlin:20250617T165500
+DTSTAMP:20250506T213925Z
+UID:1750171200-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELD_KARTE_EU_EWR - PASING
+DTSTART;TZID=Europe/Berlin:20250617T164500
+DTEND;TZID=Europe/Berlin:20250617T170000
+DTSTAMP:20250506T213925Z
+UID:1750171500-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10306925/\n\nZuletzt abgerufen: 06.05.2025 23:
+ 39:25 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 END:VCALENDAR
