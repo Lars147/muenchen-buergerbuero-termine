@@ -1,11 +1,6 @@
 {
     "REISEPASS": {
         "ORLEANSPLATZ": {
-            "2025-05-08": {
-                "appointmentTimestamps": [
-                    1746689400
-                ]
-            },
             "2025-06-17": {
                 "appointmentTimestamps": [
                     1750164900,
@@ -34,8 +29,12 @@
         },
         "FORSTENRIEDER": {
             "2025-05-08": {
-                "appointmentTimestamps": [
-                    1746715500
+                "errors": [
+                    {
+                        "errorCode": "appointmentNotAvailable",
+                        "statusCode": 200,
+                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
+                    }
                 ]
             },
             "2025-05-14": {
@@ -266,8 +265,6 @@
         "ORLEANSPLATZ": {
             "2025-05-08": {
                 "appointmentTimestamps": [
-                    1746689400,
-                    1746689700,
                     1746690600,
                     1746696600,
                     1746708600
@@ -1149,8 +1146,6 @@
         "ORLEANSPLATZ": {
             "2025-05-08": {
                 "appointmentTimestamps": [
-                    1746689400,
-                    1746689700,
                     1746690600,
                     1746696600,
                     1746708600
@@ -2030,11 +2025,6 @@
     },
     "PERSONALAUSWEIS": {
         "ORLEANSPLATZ": {
-            "2025-05-08": {
-                "appointmentTimestamps": [
-                    1746689400
-                ]
-            },
             "2025-06-17": {
                 "appointmentTimestamps": [
                     1750164900,
@@ -2297,11 +2287,6 @@
     },
     "WOHNSITZ_ANMELDEN_ODER_UMMELDEN": {
         "ORLEANSPLATZ": {
-            "2025-05-08": {
-                "appointmentTimestamps": [
-                    1746689400
-                ]
-            },
             "2025-06-17": {
                 "appointmentTimestamps": [
                     1750164900,
@@ -2564,11 +2549,6 @@
     },
     "VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS": {
         "ORLEANSPLATZ": {
-            "2025-05-08": {
-                "appointmentTimestamps": [
-                    1746689400
-                ]
-            },
             "2025-06-17": {
                 "appointmentTimestamps": [
                     1750164900,
@@ -2831,11 +2811,6 @@
     },
     "VORLAEUFIGER_REISEPASS": {
         "ORLEANSPLATZ": {
-            "2025-05-08": {
-                "appointmentTimestamps": [
-                    1746689400
-                ]
-            },
             "2025-06-17": {
                 "appointmentTimestamps": [
                     1750164900,
@@ -3100,9 +3075,6 @@
         "ORLEANSPLATZ": {
             "2025-05-08": {
                 "appointmentTimestamps": [
-                    1746689400,
-                    1746689700,
-                    1746690000,
                     1746690600,
                     1746690900,
                     1746696600,
@@ -4185,7 +4157,6 @@
                     1746687600,
                     1746687900,
                     1746688200,
-                    1746692100,
                     1746692700,
                     1746694500,
                     1746696300,
@@ -4897,11 +4868,6 @@
     },
     "PERSONENDATEN_IM_MELDEREGISTER_AENDERN": {
         "ORLEANSPLATZ": {
-            "2025-05-08": {
-                "appointmentTimestamps": [
-                    1746689400
-                ]
-            },
             "2025-06-17": {
                 "appointmentTimestamps": [
                     1750164900,
@@ -5166,9 +5132,6 @@
         "ORLEANSPLATZ": {
             "2025-05-08": {
                 "appointmentTimestamps": [
-                    1746689400,
-                    1746689700,
-                    1746690000,
                     1746690600,
                     1746690900,
                     1746696600,
@@ -6251,7 +6214,6 @@
                     1746687600,
                     1746687900,
                     1746688200,
-                    1746692100,
                     1746692700,
                     1746694500,
                     1746696300,
@@ -6727,7 +6689,12 @@
                     1746780000,
                     1746780300,
                     1746780600,
+                    1746781200,
                     1746781500,
+                    1746781800,
+                    1746782100,
+                    1746782400,
+                    1746782700,
                     1746783000,
                     1746784500,
                     1746785700
@@ -7123,6 +7090,11 @@
                         "statusCode": 200,
                         "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
                     }
+                ]
+            },
+            "2025-05-09": {
+                "appointmentTimestamps": [
+                    1746781200
                 ]
             }
         },
@@ -8214,7 +8186,6 @@
                     1746687600,
                     1746687900,
                     1746688200,
-                    1746692100,
                     1746692700,
                     1746694500,
                     1746696300,
@@ -8683,14 +8654,15 @@
             },
             "2025-05-09": {
                 "appointmentTimestamps": [
-                    1746774600,
-                    1746774900,
-                    1746775200,
-                    1746775500,
                     1746780000,
                     1746780300,
                     1746780600,
+                    1746781200,
                     1746781500,
+                    1746781800,
+                    1746782100,
+                    1746782400,
+                    1746782700,
                     1746783000,
                     1746784500,
                     1746785700
@@ -9178,9 +9150,12 @@
             },
             "2025-05-09": {
                 "appointmentTimestamps": [
-                    1746774600,
-                    1746774900,
-                    1746780000
+                    1746780000,
+                    1746781200,
+                    1746781500,
+                    1746781800,
+                    1746782100,
+                    1746782400
                 ]
             }
         },
