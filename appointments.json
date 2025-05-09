@@ -2,11 +2,6 @@
     "REISEPASS": {
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {
-            "2025-05-09": {
-                "appointmentTimestamps": [
-                    1746774000
-                ]
-            },
             "2025-06-13": {
                 "appointmentTimestamps": [
                     1749809700,
@@ -14,7 +9,13 @@
                 ]
             }
         },
-        "RIESENFELDSTRASSE": {},
+        "RIESENFELDSTRASSE": {
+            "2025-05-15": {
+                "appointmentTimestamps": [
+                    1747291500
+                ]
+            }
+        },
         "FORSTENRIEDER": {
             "2025-05-09": {
                 "appointmentTimestamps": [
@@ -28,9 +29,6 @@
             },
             "2025-05-12": {
                 "appointmentTimestamps": [
-                    1747031400,
-                    1747031700,
-                    1747032000,
                     1747032300,
                     1747035000,
                     1747035300,
@@ -187,6 +185,14 @@
                     1746775500
                 ]
             },
+            "2025-05-13": {
+                "appointmentTimestamps": [
+                    1747125000,
+                    1747125300,
+                    1747125600,
+                    1747125900
+                ]
+            },
             "2025-05-14": {
                 "appointmentTimestamps": [
                     1747208100,
@@ -200,10 +206,6 @@
                     1747294500,
                     1747294800,
                     1747295100,
-                    1747296000,
-                    1747296300,
-                    1747296600,
-                    1747296900,
                     1747297200,
                     1747297500,
                     1747297800,
@@ -406,6 +408,7 @@
             },
             "2025-05-16": {
                 "appointmentTimestamps": [
+                    1747376700,
                     1747377900,
                     1747378200,
                     1747378500,
@@ -485,12 +488,6 @@
             }
         },
         "LEONRODSTRASSE": {
-            "2025-05-09": {
-                "appointmentTimestamps": [
-                    1746774000,
-                    1746774300
-                ]
-            },
             "2025-05-13": {
                 "appointmentTimestamps": [
                     1747144200,
@@ -618,6 +615,8 @@
             },
             "2025-05-15": {
                 "appointmentTimestamps": [
+                    1747291500,
+                    1747291800,
                     1747304100,
                     1747305600,
                     1747313400,
@@ -709,9 +708,6 @@
             },
             "2025-05-12": {
                 "appointmentTimestamps": [
-                    1747031400,
-                    1747031700,
-                    1747032000,
                     1747032300,
                     1747032600,
                     1747035000,
@@ -996,6 +992,11 @@
                 "appointmentTimestamps": [
                     1747123200,
                     1747124400,
+                    1747125000,
+                    1747125300,
+                    1747125600,
+                    1747125900,
+                    1747126200,
                     1747131900,
                     1747139700,
                     1747142100
@@ -1020,10 +1021,7 @@
                     1747294800,
                     1747295100,
                     1747295400,
-                    1747296000,
                     1747296300,
-                    1747296600,
-                    1747296900,
                     1747297200,
                     1747297500,
                     1747297800,
@@ -1375,6 +1373,8 @@
             "2025-05-16": {
                 "appointmentTimestamps": [
                     1747374300,
+                    1747376700,
+                    1747377000,
                     1747377900,
                     1747378200,
                     1747378500,
@@ -1638,6 +1638,8 @@
             },
             "2025-05-15": {
                 "appointmentTimestamps": [
+                    1747291500,
+                    1747291800,
                     1747304100,
                     1747305600,
                     1747313400,
@@ -1729,9 +1731,6 @@
             },
             "2025-05-12": {
                 "appointmentTimestamps": [
-                    1747031400,
-                    1747031700,
-                    1747032000,
                     1747032300,
                     1747032600,
                     1747035000,
@@ -2016,6 +2015,11 @@
                 "appointmentTimestamps": [
                     1747123200,
                     1747124400,
+                    1747125000,
+                    1747125300,
+                    1747125600,
+                    1747125900,
+                    1747126200,
                     1747131900,
                     1747139700,
                     1747142100
@@ -2040,10 +2044,7 @@
                     1747294800,
                     1747295100,
                     1747295400,
-                    1747296000,
                     1747296300,
-                    1747296600,
-                    1747296900,
                     1747297200,
                     1747297500,
                     1747297800,
@@ -2395,6 +2396,8 @@
             "2025-05-16": {
                 "appointmentTimestamps": [
                     1747374300,
+                    1747376700,
+                    1747377000,
                     1747377900,
                     1747378200,
                     1747378500,
@@ -2487,7 +2490,13 @@
                 ]
             }
         },
-        "RIESENFELDSTRASSE": {},
+        "RIESENFELDSTRASSE": {
+            "2025-05-15": {
+                "appointmentTimestamps": [
+                    1747291500
+                ]
+            }
+        },
         "FORSTENRIEDER": {
             "2025-05-09": {
                 "appointmentTimestamps": [
@@ -2501,9 +2510,6 @@
             },
             "2025-05-12": {
                 "appointmentTimestamps": [
-                    1747031400,
-                    1747031700,
-                    1747032000,
                     1747032300,
                     1747035000,
                     1747035300,
@@ -2660,6 +2666,14 @@
                     1746775500
                 ]
             },
+            "2025-05-13": {
+                "appointmentTimestamps": [
+                    1747125000,
+                    1747125300,
+                    1747125600,
+                    1747125900
+                ]
+            },
             "2025-05-14": {
                 "appointmentTimestamps": [
                     1747208100,
@@ -2673,10 +2687,6 @@
                     1747294500,
                     1747294800,
                     1747295100,
-                    1747296000,
-                    1747296300,
-                    1747296600,
-                    1747296900,
                     1747297200,
                     1747297500,
                     1747297800,
@@ -2879,6 +2889,7 @@
             },
             "2025-05-16": {
                 "appointmentTimestamps": [
+                    1747376700,
                     1747377900,
                     1747378200,
                     1747378500,
@@ -2914,7 +2925,13 @@
                 ]
             }
         },
-        "RIESENFELDSTRASSE": {},
+        "RIESENFELDSTRASSE": {
+            "2025-05-15": {
+                "appointmentTimestamps": [
+                    1747291500
+                ]
+            }
+        },
         "FORSTENRIEDER": {
             "2025-05-09": {
                 "appointmentTimestamps": [
@@ -2928,9 +2945,6 @@
             },
             "2025-05-12": {
                 "appointmentTimestamps": [
-                    1747031400,
-                    1747031700,
-                    1747032000,
                     1747032300,
                     1747035000,
                     1747035300,
@@ -3087,6 +3101,14 @@
                     1746775500
                 ]
             },
+            "2025-05-13": {
+                "appointmentTimestamps": [
+                    1747125000,
+                    1747125300,
+                    1747125600,
+                    1747125900
+                ]
+            },
             "2025-05-14": {
                 "appointmentTimestamps": [
                     1747208100,
@@ -3100,10 +3122,6 @@
                     1747294500,
                     1747294800,
                     1747295100,
-                    1747296000,
-                    1747296300,
-                    1747296600,
-                    1747296900,
                     1747297200,
                     1747297500,
                     1747297800,
@@ -3306,6 +3324,7 @@
             },
             "2025-05-16": {
                 "appointmentTimestamps": [
+                    1747376700,
                     1747377900,
                     1747378200,
                     1747378500,
@@ -3341,7 +3360,13 @@
                 ]
             }
         },
-        "RIESENFELDSTRASSE": {},
+        "RIESENFELDSTRASSE": {
+            "2025-05-15": {
+                "appointmentTimestamps": [
+                    1747291500
+                ]
+            }
+        },
         "FORSTENRIEDER": {
             "2025-05-09": {
                 "appointmentTimestamps": [
@@ -3355,9 +3380,6 @@
             },
             "2025-05-12": {
                 "appointmentTimestamps": [
-                    1747031400,
-                    1747031700,
-                    1747032000,
                     1747032300,
                     1747035000,
                     1747035300,
@@ -3514,6 +3536,14 @@
                     1746775500
                 ]
             },
+            "2025-05-13": {
+                "appointmentTimestamps": [
+                    1747125000,
+                    1747125300,
+                    1747125600,
+                    1747125900
+                ]
+            },
             "2025-05-14": {
                 "appointmentTimestamps": [
                     1747208100,
@@ -3527,10 +3557,6 @@
                     1747294500,
                     1747294800,
                     1747295100,
-                    1747296000,
-                    1747296300,
-                    1747296600,
-                    1747296900,
                     1747297200,
                     1747297500,
                     1747297800,
@@ -3733,6 +3759,7 @@
             },
             "2025-05-16": {
                 "appointmentTimestamps": [
+                    1747376700,
                     1747377900,
                     1747378200,
                     1747378500,
@@ -3768,7 +3795,13 @@
                 ]
             }
         },
-        "RIESENFELDSTRASSE": {},
+        "RIESENFELDSTRASSE": {
+            "2025-05-15": {
+                "appointmentTimestamps": [
+                    1747291500
+                ]
+            }
+        },
         "FORSTENRIEDER": {
             "2025-05-09": {
                 "appointmentTimestamps": [
@@ -3782,9 +3815,6 @@
             },
             "2025-05-12": {
                 "appointmentTimestamps": [
-                    1747031400,
-                    1747031700,
-                    1747032000,
                     1747032300,
                     1747035000,
                     1747035300,
@@ -3941,6 +3971,14 @@
                     1746775500
                 ]
             },
+            "2025-05-13": {
+                "appointmentTimestamps": [
+                    1747125000,
+                    1747125300,
+                    1747125600,
+                    1747125900
+                ]
+            },
             "2025-05-14": {
                 "appointmentTimestamps": [
                     1747208100,
@@ -3954,10 +3992,6 @@
                     1747294500,
                     1747294800,
                     1747295100,
-                    1747296000,
-                    1747296300,
-                    1747296600,
-                    1747296900,
                     1747297200,
                     1747297500,
                     1747297800,
@@ -4160,6 +4194,7 @@
             },
             "2025-05-16": {
                 "appointmentTimestamps": [
+                    1747376700,
                     1747377900,
                     1747378200,
                     1747378500,
@@ -4716,6 +4751,9 @@
             },
             "2025-05-15": {
                 "appointmentTimestamps": [
+                    1747291500,
+                    1747291800,
+                    1747292100,
                     1747296000,
                     1747298400,
                     1747301700,
@@ -4918,9 +4956,7 @@
             "2025-05-12": {
                 "appointmentTimestamps": [
                     1747030500,
-                    1747031400,
                     1747031700,
-                    1747032000,
                     1747032300,
                     1747032600,
                     1747032900,
@@ -5338,7 +5374,12 @@
                     1747124100,
                     1747124400,
                     1747124700,
+                    1747125000,
                     1747125300,
+                    1747125600,
+                    1747125900,
+                    1747126200,
+                    1747126500,
                     1747129200,
                     1747131900,
                     1747132200,
@@ -5933,6 +5974,9 @@
                     1747374300,
                     1747374600,
                     1747376100,
+                    1747376700,
+                    1747377000,
+                    1747377300,
                     1747377900,
                     1747378200,
                     1747378500,
@@ -6108,7 +6152,13 @@
                 ]
             }
         },
-        "RIESENFELDSTRASSE": {},
+        "RIESENFELDSTRASSE": {
+            "2025-05-15": {
+                "appointmentTimestamps": [
+                    1747291500
+                ]
+            }
+        },
         "FORSTENRIEDER": {
             "2025-05-09": {
                 "appointmentTimestamps": [
@@ -6122,9 +6172,6 @@
             },
             "2025-05-12": {
                 "appointmentTimestamps": [
-                    1747031400,
-                    1747031700,
-                    1747032000,
                     1747032300,
                     1747035000,
                     1747035300,
@@ -6279,6 +6326,14 @@
                     1746770400,
                     1746772200,
                     1746775500
+                ]
+            },
+            "2025-05-13": {
+                "appointmentTimestamps": [
+                    1747125000,
+                    1747125300,
+                    1747125600,
+                    1747125900
                 ]
             },
             "2025-05-14": {
@@ -6496,6 +6551,7 @@
             },
             "2025-05-16": {
                 "appointmentTimestamps": [
+                    1747376700,
                     1747377900,
                     1747378200,
                     1747378500,
@@ -7257,9 +7313,7 @@
             "2025-05-12": {
                 "appointmentTimestamps": [
                     1747030500,
-                    1747031400,
                     1747031700,
-                    1747032000,
                     1747032300,
                     1747032600,
                     1747032900,
@@ -7677,7 +7731,12 @@
                     1747124100,
                     1747124400,
                     1747124700,
+                    1747125000,
                     1747125300,
+                    1747125600,
+                    1747125900,
+                    1747126200,
+                    1747126500,
                     1747129200,
                     1747131900,
                     1747132200,
@@ -8272,6 +8331,9 @@
                     1747374300,
                     1747374600,
                     1747376100,
+                    1747376700,
+                    1747377000,
+                    1747377300,
                     1747377900,
                     1747378200,
                     1747378500,
@@ -8744,15 +8806,21 @@
                 ]
             },
             "2025-05-22": {
-                "appointmentTimestamps": [
-                    1747899000,
-                    1747910700
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748254500,
-                    1748255400
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-27": {
@@ -8769,8 +8837,12 @@
                 ]
             },
             "2025-05-30": {
-                "appointmentTimestamps": [
-                    1748595000
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-03": {
@@ -8812,8 +8884,12 @@
                 ]
             },
             "2025-06-06": {
-                "appointmentTimestamps": [
-                    1749201300
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-10": {
@@ -8868,16 +8944,12 @@
                 ]
             },
             "2025-06-17": {
-                "appointmentTimestamps": [
-                    1750146900,
-                    1750150500,
-                    1750157100,
-                    1750161600,
-                    1750161900,
-                    1750165800,
-                    1750173300,
-                    1750173600,
-                    1750174800
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-18": {
@@ -8911,33 +8983,21 @@
                 ]
             },
             "2025-05-13": {
-                "appointmentTimestamps": [
-                    1747120800,
-                    1747124100,
-                    1747125300,
-                    1747126500,
-                    1747129500,
-                    1747132200,
-                    1747144200,
-                    1747144500,
-                    1747146900,
-                    1747147200,
-                    1747150800
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-14": {
-                "appointmentTimestamps": [
-                    1747202400,
-                    1747206300,
-                    1747206600,
-                    1747212300,
-                    1747212600,
-                    1747213500,
-                    1747214700,
-                    1747215600,
-                    1747218000,
-                    1747218300,
-                    1747219500
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-15": {
@@ -8966,15 +9026,12 @@
                 ]
             },
             "2025-05-16": {
-                "appointmentTimestamps": [
-                    1747376100,
-                    1747381500,
-                    1747382100,
-                    1747386300,
-                    1747387500,
-                    1747390500,
-                    1747392000,
-                    1747392300
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-19": {
@@ -8997,14 +9054,12 @@
                 ]
             },
             "2025-05-22": {
-                "appointmentTimestamps": [
-                    1747895400,
-                    1747902600,
-                    1747902900,
-                    1747905000,
-                    1747910700,
-                    1747920000,
-                    1747920300
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-23": {
@@ -9015,20 +9070,21 @@
                 ]
             },
             "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748254500
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-27": {
-                "appointmentTimestamps": [
-                    1748328600,
-                    1748339100,
-                    1748339400,
-                    1748342400,
-                    1748342700,
-                    1748348700,
-                    1748351700,
-                    1748352000
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-28": {
@@ -9052,8 +9108,12 @@
                 ]
             },
             "2025-06-02": {
-                "appointmentTimestamps": [
-                    1748850900
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-03": {
@@ -9062,11 +9122,12 @@
                 ]
             },
             "2025-06-04": {
-                "appointmentTimestamps": [
-                    1749019800,
-                    1749020100,
-                    1749029100,
-                    1749033900
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-05": {
@@ -9078,8 +9139,12 @@
                 ]
             },
             "2025-06-06": {
-                "appointmentTimestamps": [
-                    1749204900
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-10": {
@@ -9102,12 +9167,12 @@
                 ]
             },
             "2025-06-12": {
-                "appointmentTimestamps": [
-                    1749720600,
-                    1749720900,
-                    1749724800,
-                    1749725100,
-                    1749736500
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-13": {
@@ -9128,17 +9193,21 @@
                 ]
             },
             "2025-06-17": {
-                "appointmentTimestamps": [
-                    1750155300,
-                    1750171200
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-18": {
-                "appointmentTimestamps": [
-                    1750232100,
-                    1750232400,
-                    1750240500,
-                    1750243500
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             }
         },
@@ -9181,13 +9250,12 @@
                 ]
             },
             "2025-05-14": {
-                "appointmentTimestamps": [
-                    1747202100,
-                    1747212000,
-                    1747213800,
-                    1747217700,
-                    1747218600,
-                    1747219500
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-15": {
@@ -9214,28 +9282,21 @@
                 ]
             },
             "2025-05-16": {
-                "appointmentTimestamps": [
-                    1747373400,
-                    1747373700,
-                    1747374300,
-                    1747374900,
-                    1747378500,
-                    1747382100,
-                    1747383600,
-                    1747383900,
-                    1747385100,
-                    1747387800,
-                    1747388100,
-                    1747390500,
-                    1747391100,
-                    1747392300
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-20": {
-                "appointmentTimestamps": [
-                    1747737900,
-                    1747754100,
-                    1747755300
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-21": {
@@ -9247,12 +9308,12 @@
                 ]
             },
             "2025-05-22": {
-                "appointmentTimestamps": [
-                    1747910700,
-                    1747915200,
-                    1747915500,
-                    1747917600,
-                    1747917900
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-23": {
@@ -9283,15 +9344,21 @@
                 ]
             },
             "2025-05-30": {
-                "appointmentTimestamps": [
-                    1748601000
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-02": {
-                "appointmentTimestamps": [
-                    1748843100,
-                    1748843400,
-                    1748861100
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-03": {
@@ -9306,29 +9373,39 @@
                 ]
             },
             "2025-06-04": {
-                "appointmentTimestamps": [
-                    1749033900
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-05": {
-                "appointmentTimestamps": [
-                    1749105000,
-                    1749105300,
-                    1749117300,
-                    1749120300
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-06": {
-                "appointmentTimestamps": [
-                    1749189600,
-                    1749194400,
-                    1749198300
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-10": {
-                "appointmentTimestamps": [
-                    1749552300,
-                    1749564900
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-11": {
@@ -9352,11 +9429,12 @@
                 ]
             },
             "2025-06-17": {
-                "appointmentTimestamps": [
-                    1750143900,
-                    1750149300,
-                    1750149600,
-                    1750151700
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-18": {
@@ -9369,37 +9447,18 @@
         },
         "FORSTENRIEDER": {
             "2025-05-09": {
-                "appointmentTimestamps": [
-                    1746768600,
-                    1746768900,
-                    1746769500,
-                    1746769800,
-                    1746770100,
-                    1746771300,
-                    1746771600,
-                    1746771900,
-                    1746772200,
-                    1746772500,
-                    1746773700,
-                    1746776100,
-                    1746777300,
-                    1746777600,
-                    1746777900,
-                    1746778200,
-                    1746778500,
-                    1746780600,
-                    1746780900,
-                    1746781200,
-                    1746781500,
-                    1746787500
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-12": {
                 "appointmentTimestamps": [
                     1747030500,
-                    1747031400,
                     1747031700,
-                    1747032000,
                     1747032300,
                     1747032600,
                     1747032900,
@@ -9424,183 +9483,39 @@
                 ]
             },
             "2025-05-13": {
-                "appointmentTimestamps": [
-                    1747118700,
-                    1747119900,
-                    1747120200,
-                    1747121400,
-                    1747122900,
-                    1747125000,
-                    1747125300,
-                    1747125600,
-                    1747127700,
-                    1747130400,
-                    1747137600,
-                    1747137900,
-                    1747140900,
-                    1747142100,
-                    1747144800,
-                    1747145100,
-                    1747145700,
-                    1747146300,
-                    1747146600,
-                    1747148100,
-                    1747150800
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-14": {
-                "appointmentTimestamps": [
-                    1747202400,
-                    1747202700,
-                    1747203000,
-                    1747206900,
-                    1747207200,
-                    1747207500,
-                    1747207800,
-                    1747208100,
-                    1747208400,
-                    1747208700,
-                    1747209000,
-                    1747209300,
-                    1747209600,
-                    1747212600,
-                    1747212900,
-                    1747213200,
-                    1747213500,
-                    1747213800,
-                    1747214100,
-                    1747214400,
-                    1747214700,
-                    1747215000,
-                    1747215300,
-                    1747215600,
-                    1747215900,
-                    1747216200,
-                    1747216500,
-                    1747216800,
-                    1747217100,
-                    1747217400,
-                    1747217700,
-                    1747218000,
-                    1747218300,
-                    1747218600,
-                    1747218900,
-                    1747219200,
-                    1747219500
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-15": {
-                "appointmentTimestamps": [
-                    1747290600,
-                    1747290900,
-                    1747291200,
-                    1747291500,
-                    1747291800,
-                    1747292100,
-                    1747292400,
-                    1747292700,
-                    1747293000,
-                    1747293300,
-                    1747293600,
-                    1747293900,
-                    1747294200,
-                    1747294500,
-                    1747294800,
-                    1747295100,
-                    1747295400,
-                    1747295700,
-                    1747296000,
-                    1747296300,
-                    1747296600,
-                    1747296900,
-                    1747297200,
-                    1747297500,
-                    1747297800,
-                    1747298100,
-                    1747298400,
-                    1747298700,
-                    1747299000,
-                    1747299300,
-                    1747299600,
-                    1747299900,
-                    1747300200,
-                    1747300500,
-                    1747300800,
-                    1747301100,
-                    1747301400,
-                    1747301700,
-                    1747302000,
-                    1747302300,
-                    1747302600,
-                    1747302900,
-                    1747303200,
-                    1747303500,
-                    1747303800,
-                    1747304100,
-                    1747305300,
-                    1747305600,
-                    1747305900,
-                    1747310400,
-                    1747312200,
-                    1747312500,
-                    1747312800,
-                    1747313100,
-                    1747313400,
-                    1747313700,
-                    1747314000,
-                    1747314300,
-                    1747314600,
-                    1747315200,
-                    1747316700,
-                    1747317000,
-                    1747318200,
-                    1747318500,
-                    1747318800,
-                    1747319100,
-                    1747323600
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-16": {
-                "appointmentTimestamps": [
-                    1747373400,
-                    1747375200,
-                    1747375500,
-                    1747375800,
-                    1747376100,
-                    1747376400,
-                    1747377900,
-                    1747378200,
-                    1747378500,
-                    1747378800,
-                    1747379100,
-                    1747379400,
-                    1747379700,
-                    1747380000,
-                    1747380300,
-                    1747381500,
-                    1747381800,
-                    1747382100,
-                    1747383300,
-                    1747385100,
-                    1747385400,
-                    1747385700,
-                    1747386000,
-                    1747386300,
-                    1747386600,
-                    1747386900,
-                    1747387200,
-                    1747387500,
-                    1747387800,
-                    1747388100,
-                    1747388400,
-                    1747388700,
-                    1747389000,
-                    1747389300,
-                    1747390500,
-                    1747390800,
-                    1747391100,
-                    1747391400,
-                    1747392300
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-19": {
@@ -9613,29 +9528,30 @@
                 ]
             },
             "2025-05-20": {
-                "appointmentTimestamps": [
-                    1747737900,
-                    1747749000,
-                    1747749300
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-21": {
-                "appointmentTimestamps": [
-                    1747812900,
-                    1747819800,
-                    1747822200,
-                    1747824300
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-22": {
-                "appointmentTimestamps": [
-                    1747904100,
-                    1747905600,
-                    1747910700,
-                    1747916400,
-                    1747916700,
-                    1747920000,
-                    1747920300
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-26": {
@@ -9671,16 +9587,21 @@
                 ]
             },
             "2025-05-30": {
-                "appointmentTimestamps": [
-                    1748598600,
-                    1748598900,
-                    1748600100
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-02": {
-                "appointmentTimestamps": [
-                    1748849400,
-                    1748849700
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-03": {
@@ -9700,12 +9621,12 @@
                 ]
             },
             "2025-06-05": {
-                "appointmentTimestamps": [
-                    1749106200,
-                    1749106500,
-                    1749120300,
-                    1749132900,
-                    1749133200
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-06": {
@@ -9733,11 +9654,12 @@
                 ]
             },
             "2025-06-12": {
-                "appointmentTimestamps": [
-                    1749713700,
-                    1749714000,
-                    1749724800,
-                    1749725100
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-13": {
@@ -9776,38 +9698,21 @@
         },
         "RUPPERTSTRASSE": {
             "2025-05-09": {
-                "appointmentTimestamps": [
-                    1746768600,
-                    1746768900,
-                    1746769800,
-                    1746770100,
-                    1746770400,
-                    1746770700,
-                    1746771000,
-                    1746772200,
-                    1746772500,
-                    1746772800,
-                    1746775500,
-                    1746775800,
-                    1746776100,
-                    1746780000,
-                    1746786600
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-12": {
-                "appointmentTimestamps": [
-                    1747035900,
-                    1747037700,
-                    1747038000,
-                    1747038300,
-                    1747040100,
-                    1747041600,
-                    1747041900,
-                    1747043400,
-                    1747043700,
-                    1747044900,
-                    1747046400,
-                    1747046700
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-13": {
@@ -9817,7 +9722,12 @@
                     1747124100,
                     1747124400,
                     1747124700,
+                    1747125000,
                     1747125300,
+                    1747125600,
+                    1747125900,
+                    1747126200,
+                    1747126500,
                     1747129200,
                     1747131900,
                     1747132200,
@@ -9859,74 +9769,12 @@
                 ]
             },
             "2025-05-15": {
-                "appointmentTimestamps": [
-                    1747290600,
-                    1747291500,
-                    1747291800,
-                    1747292100,
-                    1747294500,
-                    1747294800,
-                    1747295100,
-                    1747295400,
-                    1747295700,
-                    1747296300,
-                    1747296600,
-                    1747297200,
-                    1747297500,
-                    1747297800,
-                    1747298100,
-                    1747298400,
-                    1747300500,
-                    1747300800,
-                    1747301100,
-                    1747301400,
-                    1747301700,
-                    1747302000,
-                    1747302300,
-                    1747302600,
-                    1747302900,
-                    1747303200,
-                    1747303500,
-                    1747303800,
-                    1747304100,
-                    1747304400,
-                    1747304700,
-                    1747305000,
-                    1747305300,
-                    1747305600,
-                    1747305900,
-                    1747310400,
-                    1747310700,
-                    1747311000,
-                    1747311300,
-                    1747311600,
-                    1747311900,
-                    1747312200,
-                    1747312500,
-                    1747312800,
-                    1747313100,
-                    1747313400,
-                    1747313700,
-                    1747314300,
-                    1747314600,
-                    1747314900,
-                    1747315200,
-                    1747315500,
-                    1747315800,
-                    1747316100,
-                    1747316400,
-                    1747316700,
-                    1747317000,
-                    1747317300,
-                    1747317900,
-                    1747318500,
-                    1747319100,
-                    1747319400,
-                    1747319700,
-                    1747320000,
-                    1747321800,
-                    1747323300,
-                    1747323600
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-16": {
@@ -9991,21 +9839,21 @@
                 ]
             },
             "2025-05-20": {
-                "appointmentTimestamps": [
-                    1747727400,
-                    1747727700,
-                    1747736100,
-                    1747737900,
-                    1747744200,
-                    1747745700,
-                    1747749600
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-21": {
-                "appointmentTimestamps": [
-                    1747808700,
-                    1747813800,
-                    1747815900
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-22": {
@@ -10041,12 +9889,12 @@
                 ]
             },
             "2025-05-28": {
-                "appointmentTimestamps": [
-                    1748410200,
-                    1748410500,
-                    1748418900,
-                    1748419800,
-                    1748429100
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-30": {
@@ -10059,15 +9907,12 @@
                 ]
             },
             "2025-06-02": {
-                "appointmentTimestamps": [
-                    1748845500,
-                    1748849700,
-                    1748850900,
-                    1748856600,
-                    1748857800,
-                    1748858100,
-                    1748859300,
-                    1748861100
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-03": {
@@ -10094,24 +9939,21 @@
                 ]
             },
             "2025-06-05": {
-                "appointmentTimestamps": [
-                    1749107700,
-                    1749108000,
-                    1749110100,
-                    1749110700,
-                    1749111000,
-                    1749113700,
-                    1749120300,
-                    1749126300,
-                    1749131700,
-                    1749132600
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-06": {
-                "appointmentTimestamps": [
-                    1749194100,
-                    1749201300,
-                    1749201600
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-10": {
@@ -10129,18 +9971,12 @@
                 ]
             },
             "2025-06-11": {
-                "appointmentTimestamps": [
-                    1749620700,
-                    1749621000,
-                    1749621900,
-                    1749622200,
-                    1749628200,
-                    1749628500,
-                    1749630300,
-                    1749632700,
-                    1749636600,
-                    1749637800,
-                    1749638700
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-12": {
@@ -10200,381 +10036,25 @@
                 ]
             },
             "2025-06-17": {
-                "appointmentTimestamps": [
-                    1750144800,
-                    1750145100,
-                    1750145400,
-                    1750145700,
-                    1750146600,
-                    1750146900,
-                    1750152900,
-                    1750155000,
-                    1750163700,
-                    1750164000,
-                    1750164300,
-                    1750164600,
-                    1750164900,
-                    1750165200,
-                    1750165500,
-                    1750167600,
-                    1750167900,
-                    1750168200,
-                    1750168500,
-                    1750169700,
-                    1750170900
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-18": {
-                "appointmentTimestamps": [
-                    1750225800,
-                    1750226100,
-                    1750231200,
-                    1750231500,
-                    1750232100,
-                    1750232400,
-                    1750232700,
-                    1750233000,
-                    1750233300,
-                    1750236300,
-                    1750236600,
-                    1750236900,
-                    1750239000,
-                    1750239300,
-                    1750239600,
-                    1750239900,
-                    1750240200,
-                    1750240500,
-                    1750241100,
-                    1750241400,
-                    1750241700
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             }
         },
-        "PASING": {
-            "2025-05-09": {
-                "appointmentTimestamps": [
-                    1746781800,
-                    1746782100,
-                    1746783000,
-                    1746784500,
-                    1746785700,
-                    1746786600
-                ]
-            },
-            "2025-05-12": {
-                "appointmentTimestamps": [
-                    1747033800,
-                    1747034100,
-                    1747035300,
-                    1747036500,
-                    1747039200,
-                    1747043700,
-                    1747044900,
-                    1747045800,
-                    1747046700
-                ]
-            },
-            "2025-05-13": {
-                "appointmentTimestamps": [
-                    1747118700,
-                    1747119900,
-                    1747120200,
-                    1747122600,
-                    1747122900,
-                    1747123500,
-                    1747123800,
-                    1747125000,
-                    1747126200,
-                    1747126500,
-                    1747128600,
-                    1747128900,
-                    1747131000,
-                    1747131300,
-                    1747131600,
-                    1747133100,
-                    1747138500,
-                    1747140300,
-                    1747142700,
-                    1747143900,
-                    1747144200,
-                    1747145100,
-                    1747145400,
-                    1747145700,
-                    1747146000
-                ]
-            },
-            "2025-05-14": {
-                "appointmentTimestamps": [
-                    1747200900,
-                    1747203600,
-                    1747203900,
-                    1747206900,
-                    1747207200,
-                    1747207500,
-                    1747208700,
-                    1747209000,
-                    1747209300,
-                    1747209600,
-                    1747209900,
-                    1747210200,
-                    1747210500,
-                    1747210800,
-                    1747211100,
-                    1747211400,
-                    1747211700,
-                    1747212000,
-                    1747212300,
-                    1747212600,
-                    1747212900,
-                    1747214400,
-                    1747214700,
-                    1747216200,
-                    1747216500,
-                    1747217700,
-                    1747218000,
-                    1747219500
-                ]
-            },
-            "2025-05-15": {
-                "appointmentTimestamps": [
-                    1747291500,
-                    1747291800,
-                    1747292100,
-                    1747292400,
-                    1747292700,
-                    1747293000,
-                    1747293300,
-                    1747293600,
-                    1747293900,
-                    1747294200,
-                    1747294500,
-                    1747294800,
-                    1747295100,
-                    1747295400,
-                    1747295700,
-                    1747296900,
-                    1747297200,
-                    1747297500,
-                    1747297800,
-                    1747298100,
-                    1747298400,
-                    1747298700,
-                    1747299000,
-                    1747299300,
-                    1747299600,
-                    1747299900,
-                    1747300200,
-                    1747300500,
-                    1747300800,
-                    1747301100,
-                    1747301400,
-                    1747301700,
-                    1747302000,
-                    1747302300,
-                    1747302600,
-                    1747302900,
-                    1747303200,
-                    1747303500,
-                    1747303800,
-                    1747304100,
-                    1747304400,
-                    1747304700,
-                    1747305000,
-                    1747305300,
-                    1747305600,
-                    1747305900,
-                    1747310400,
-                    1747310700,
-                    1747311000,
-                    1747311300,
-                    1747311600,
-                    1747311900,
-                    1747312200,
-                    1747312500,
-                    1747312800,
-                    1747313100,
-                    1747313400,
-                    1747313700,
-                    1747314000,
-                    1747314300,
-                    1747314600,
-                    1747314900,
-                    1747315200,
-                    1747315500,
-                    1747315800,
-                    1747316100,
-                    1747322400,
-                    1747323600
-                ]
-            },
-            "2025-05-16": {
-                "appointmentTimestamps": [
-                    1747374300,
-                    1747374600,
-                    1747376100,
-                    1747377900,
-                    1747378200,
-                    1747378500,
-                    1747378800,
-                    1747379100,
-                    1747379400,
-                    1747380000,
-                    1747380300,
-                    1747380600,
-                    1747380900,
-                    1747381200,
-                    1747382100,
-                    1747382400,
-                    1747382700,
-                    1747383000,
-                    1747383300,
-                    1747383600,
-                    1747383900,
-                    1747384200,
-                    1747384500,
-                    1747384800,
-                    1747385700,
-                    1747389300,
-                    1747390500,
-                    1747392300
-                ]
-            },
-            "2025-05-20": {
-                "appointmentTimestamps": [
-                    1747730100,
-                    1747730400,
-                    1747736100
-                ]
-            },
-            "2025-05-21": {
-                "appointmentTimestamps": [
-                    1747817400,
-                    1747824300
-                ]
-            },
-            "2025-05-22": {
-                "appointmentTimestamps": [
-                    1747897500,
-                    1747897800
-                ]
-            },
-            "2025-05-23": {
-                "appointmentTimestamps": [
-                    1747982700,
-                    1747987500,
-                    1747987800,
-                    1747989900
-                ]
-            },
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748240100,
-                    1748240400,
-                    1748251800
-                ]
-            },
-            "2025-05-27": {
-                "appointmentTimestamps": [
-                    1748357700
-                ]
-            },
-            "2025-05-28": {
-                "appointmentTimestamps": [
-                    1748418600,
-                    1748418900,
-                    1748424600,
-                    1748424900
-                ]
-            },
-            "2025-05-30": {
-                "appointmentTimestamps": [
-                    1748601000
-                ]
-            },
-            "2025-06-03": {
-                "appointmentTimestamps": [
-                    1748943300,
-                    1748943600,
-                    1748947500,
-                    1748956200,
-                    1748958300
-                ]
-            },
-            "2025-06-04": {
-                "appointmentTimestamps": [
-                    1749019500,
-                    1749019800,
-                    1749021900,
-                    1749029400
-                ]
-            },
-            "2025-06-05": {
-                "appointmentTimestamps": [
-                    1749109200,
-                    1749129000
-                ]
-            },
-            "2025-06-06": {
-                "appointmentTimestamps": [
-                    1749204900
-                ]
-            },
-            "2025-06-10": {
-                "appointmentTimestamps": [
-                    1749551400
-                ]
-            },
-            "2025-06-11": {
-                "appointmentTimestamps": [
-                    1749626400,
-                    1749626700,
-                    1749630600,
-                    1749634800
-                ]
-            },
-            "2025-06-12": {
-                "appointmentTimestamps": [
-                    1749713100,
-                    1749717000,
-                    1749735300
-                ]
-            },
-            "2025-06-13": {
-                "appointmentTimestamps": [
-                    1749803100,
-                    1749811500
-                ]
-            },
-            "2025-06-16": {
-                "appointmentTimestamps": [
-                    1750055700,
-                    1750056000,
-                    1750063800,
-                    1750064100,
-                    1750070400,
-                    1750070700
-                ]
-            },
-            "2025-06-17": {
-                "appointmentTimestamps": [
-                    1750153800,
-                    1750154100,
-                    1750156200,
-                    1750167300,
-                    1750170300
-                ]
-            },
-            "2025-06-18": {
-                "appointmentTimestamps": [
-                    1750229100,
-                    1750233600,
-                    1750233900,
-                    1750234200,
-                    1750239000,
-                    1750243500
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "ELD_KARTE_EU_EWR": {
@@ -10607,9 +10087,6 @@
             },
             "2025-05-12": {
                 "appointmentTimestamps": [
-                    1747031400,
-                    1747031700,
-                    1747032000,
                     1747032300,
                     1747035000,
                     1747035300,
@@ -10751,144 +10228,16 @@
                 ]
             },
             "2025-06-18": {
-                "appointmentTimestamps": [
-                    1750225500
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             }
         },
-        "RUPPERTSTRASSE": {
-            "2025-05-09": {
-                "appointmentTimestamps": [
-                    1746769800,
-                    1746770100,
-                    1746770400,
-                    1746772200,
-                    1746775500
-                ]
-            },
-            "2025-05-14": {
-                "appointmentTimestamps": [
-                    1747208100,
-                    1747208400,
-                    1747208700
-                ]
-            },
-            "2025-05-15": {
-                "appointmentTimestamps": [
-                    1747291500,
-                    1747294500,
-                    1747294800,
-                    1747295100,
-                    1747297200,
-                    1747297500,
-                    1747297800,
-                    1747300500,
-                    1747300800,
-                    1747301100,
-                    1747301400,
-                    1747301700,
-                    1747302000,
-                    1747302300,
-                    1747302600,
-                    1747302900,
-                    1747303200,
-                    1747303500,
-                    1747303800,
-                    1747304100,
-                    1747304400,
-                    1747304700,
-                    1747305000,
-                    1747305300,
-                    1747310400,
-                    1747310700,
-                    1747311000,
-                    1747311300,
-                    1747311600,
-                    1747311900,
-                    1747312200,
-                    1747312500,
-                    1747312800,
-                    1747313100,
-                    1747314300,
-                    1747314600,
-                    1747314900,
-                    1747315200,
-                    1747315800,
-                    1747316100,
-                    1747316400,
-                    1747316700,
-                    1747319100
-                ]
-            },
-            "2025-05-16": {
-                "appointmentTimestamps": [
-                    1747373400,
-                    1747373700,
-                    1747374000,
-                    1747374300,
-                    1747374600,
-                    1747374900,
-                    1747375200,
-                    1747375500,
-                    1747375800,
-                    1747376100,
-                    1747376400,
-                    1747376700,
-                    1747377000,
-                    1747380900,
-                    1747381200,
-                    1747381500,
-                    1747382700,
-                    1747383000,
-                    1747383300,
-                    1747383600,
-                    1747383900,
-                    1747384200,
-                    1747384500,
-                    1747384800,
-                    1747385100,
-                    1747385400,
-                    1747385700,
-                    1747386000,
-                    1747386300,
-                    1747386600,
-                    1747386900,
-                    1747387200,
-                    1747387500,
-                    1747387800,
-                    1747388100,
-                    1747388400,
-                    1747388700
-                ]
-            },
-            "2025-06-13": {
-                "appointmentTimestamps": [
-                    1749800700
-                ]
-            },
-            "2025-06-17": {
-                "appointmentTimestamps": [
-                    1750164300,
-                    1750164600,
-                    1750164900,
-                    1750167600,
-                    1750167900
-                ]
-            },
-            "2025-06-18": {
-                "appointmentTimestamps": [
-                    1750232100,
-                    1750232400,
-                    1750232700,
-                    1750236300,
-                    1750239000,
-                    1750239300,
-                    1750239600,
-                    1750239900,
-                    1750241100
-                ]
-            }
-        },
+        "RUPPERTSTRASSE": {},
         "PASING": {
             "2025-05-13": {
                 "appointmentTimestamps": [
@@ -10916,86 +10265,21 @@
                 ]
             },
             "2025-05-15": {
-                "appointmentTimestamps": [
-                    1747291500,
-                    1747291800,
-                    1747292100,
-                    1747292400,
-                    1747292700,
-                    1747293000,
-                    1747293300,
-                    1747293600,
-                    1747293900,
-                    1747294200,
-                    1747294500,
-                    1747294800,
-                    1747295100,
-                    1747296900,
-                    1747297200,
-                    1747297500,
-                    1747297800,
-                    1747298100,
-                    1747298400,
-                    1747298700,
-                    1747299000,
-                    1747299300,
-                    1747299600,
-                    1747299900,
-                    1747300200,
-                    1747300500,
-                    1747300800,
-                    1747301100,
-                    1747301400,
-                    1747301700,
-                    1747302000,
-                    1747302300,
-                    1747302600,
-                    1747302900,
-                    1747303200,
-                    1747303500,
-                    1747303800,
-                    1747304100,
-                    1747304400,
-                    1747304700,
-                    1747305000,
-                    1747305300,
-                    1747310400,
-                    1747310700,
-                    1747311000,
-                    1747311300,
-                    1747311600,
-                    1747311900,
-                    1747312200,
-                    1747312500,
-                    1747312800,
-                    1747313100,
-                    1747313400,
-                    1747313700,
-                    1747314000,
-                    1747314300,
-                    1747314600,
-                    1747314900,
-                    1747315200,
-                    1747315500
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-05-16": {
-                "appointmentTimestamps": [
-                    1747377900,
-                    1747378200,
-                    1747378500,
-                    1747378800,
-                    1747380000,
-                    1747380300,
-                    1747380600,
-                    1747382100,
-                    1747382400,
-                    1747382700,
-                    1747383000,
-                    1747383300,
-                    1747383600,
-                    1747383900,
-                    1747384200
+                "errors": [
+                    {
+                        "errorCode": "rateLimitExceeded",
+                        "statusCode": 429,
+                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
+                    }
                 ]
             },
             "2025-06-18": {
