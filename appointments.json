@@ -3,7 +3,13 @@
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {},
-        "FORSTENRIEDER": {},
+        "FORSTENRIEDER": {
+            "2025-06-18": {
+                "appointmentTimestamps": [
+                    1750225500
+                ]
+            }
+        },
         "RUPPERTSTRASSE": {
             "2025-06-20": {
                 "appointmentTimestamps": [
@@ -55,11 +61,6 @@
     },
     "BEGLAUBIGUNG_VON_BIS_ZU_5_DOKUMENTEN": {
         "ORLEANSPLATZ": {
-            "2025-05-12": {
-                "appointmentTimestamps": [
-                    1747029900
-                ]
-            },
             "2025-05-16": {
                 "appointmentTimestamps": [
                     1747380300
@@ -409,6 +410,8 @@
             },
             "2025-06-18": {
                 "appointmentTimestamps": [
+                    1750225500,
+                    1750225800,
                     1750232100,
                     1750239000,
                     1750240500
@@ -461,11 +464,6 @@
             "2025-05-22": {
                 "appointmentTimestamps": [
                     1747908000
-                ]
-            },
-            "2025-05-23": {
-                "appointmentTimestamps": [
-                    1747993200
                 ]
             },
             "2025-05-26": {
@@ -720,11 +718,6 @@
     },
     "BEGLAUBIGUNG_VON_UNTERSCHRIFTEN": {
         "ORLEANSPLATZ": {
-            "2025-05-12": {
-                "appointmentTimestamps": [
-                    1747029900
-                ]
-            },
             "2025-05-16": {
                 "appointmentTimestamps": [
                     1747380300
@@ -1074,6 +1067,8 @@
             },
             "2025-06-18": {
                 "appointmentTimestamps": [
+                    1750225500,
+                    1750225800,
                     1750232100,
                     1750239000,
                     1750240500
@@ -1126,11 +1121,6 @@
             "2025-05-22": {
                 "appointmentTimestamps": [
                     1747908000
-                ]
-            },
-            "2025-05-23": {
-                "appointmentTimestamps": [
-                    1747993200
                 ]
             },
             "2025-05-26": {
@@ -1387,7 +1377,13 @@
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {},
-        "FORSTENRIEDER": {},
+        "FORSTENRIEDER": {
+            "2025-06-18": {
+                "appointmentTimestamps": [
+                    1750225500
+                ]
+            }
+        },
         "RUPPERTSTRASSE": {
             "2025-06-20": {
                 "appointmentTimestamps": [
@@ -1441,7 +1437,13 @@
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {},
-        "FORSTENRIEDER": {},
+        "FORSTENRIEDER": {
+            "2025-06-18": {
+                "appointmentTimestamps": [
+                    1750225500
+                ]
+            }
+        },
         "RUPPERTSTRASSE": {
             "2025-06-20": {
                 "appointmentTimestamps": [
@@ -1495,7 +1497,13 @@
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {},
-        "FORSTENRIEDER": {},
+        "FORSTENRIEDER": {
+            "2025-06-18": {
+                "appointmentTimestamps": [
+                    1750225500
+                ]
+            }
+        },
         "RUPPERTSTRASSE": {
             "2025-06-20": {
                 "appointmentTimestamps": [
@@ -1549,7 +1557,13 @@
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {},
-        "FORSTENRIEDER": {},
+        "FORSTENRIEDER": {
+            "2025-06-18": {
+                "appointmentTimestamps": [
+                    1750225500
+                ]
+            }
+        },
         "RUPPERTSTRASSE": {
             "2025-06-20": {
                 "appointmentTimestamps": [
@@ -1603,7 +1617,6 @@
         "ORLEANSPLATZ": {
             "2025-05-12": {
                 "appointmentTimestamps": [
-                    1747029900,
                     1747030200,
                     1747038300,
                     1747041900,
@@ -2563,7 +2576,6 @@
             "2025-05-12": {
                 "appointmentTimestamps": [
                     1747028700,
-                    1747032600,
                     1747032900,
                     1747038000,
                     1747038300,
@@ -2610,7 +2622,9 @@
                     1747209300,
                     1747211100,
                     1747212000,
+                    1747212300,
                     1747212600,
+                    1747212900,
                     1747214100,
                     1747216500,
                     1747218600,
@@ -2640,7 +2654,8 @@
                     1747317900,
                     1747318500,
                     1747320000,
-                    1747321800
+                    1747321800,
+                    1747323600
                 ]
             },
             "2025-05-16": {
@@ -3205,6 +3220,11 @@
             }
         },
         "RUPPERTSTRASSE": {
+            "2025-05-14": {
+                "appointmentTimestamps": [
+                    1747212300
+                ]
+            },
             "2025-06-20": {
                 "appointmentTimestamps": [
                     1750397400,
@@ -3257,7 +3277,6 @@
         "ORLEANSPLATZ": {
             "2025-05-12": {
                 "appointmentTimestamps": [
-                    1747029900,
                     1747030200,
                     1747038300,
                     1747041900,
@@ -4217,7 +4236,6 @@
             "2025-05-12": {
                 "appointmentTimestamps": [
                     1747028700,
-                    1747032600,
                     1747032900,
                     1747038000,
                     1747038300,
@@ -4264,7 +4282,9 @@
                     1747209300,
                     1747211100,
                     1747212000,
+                    1747212300,
                     1747212600,
+                    1747212900,
                     1747214100,
                     1747216500,
                     1747218600,
@@ -4294,7 +4314,8 @@
                     1747317900,
                     1747318500,
                     1747320000,
-                    1747321800
+                    1747321800,
+                    1747323600
                 ]
             },
             "2025-05-16": {
@@ -4885,7 +4906,6 @@
         "ORLEANSPLATZ": {
             "2025-05-12": {
                 "appointmentTimestamps": [
-                    1747029900,
                     1747030200,
                     1747038300,
                     1747041900,
@@ -5845,7 +5865,6 @@
             "2025-05-12": {
                 "appointmentTimestamps": [
                     1747028700,
-                    1747032600,
                     1747032900,
                     1747038000,
                     1747038300,
@@ -5892,7 +5911,9 @@
                     1747209300,
                     1747211100,
                     1747212000,
+                    1747212300,
                     1747212600,
+                    1747212900,
                     1747214100,
                     1747216500,
                     1747218600,
@@ -5922,7 +5943,8 @@
                     1747317900,
                     1747318500,
                     1747320000,
-                    1747321800
+                    1747321800,
+                    1747323600
                 ]
             },
             "2025-05-16": {
