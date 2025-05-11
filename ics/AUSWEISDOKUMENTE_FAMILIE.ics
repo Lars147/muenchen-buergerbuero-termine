@@ -3,37 +3,4 @@ VERSION:2.0
 PRODID:-//Appointments Buergerbuero Muenchen//AUSWEISDOKUMENTE_FAMILIE//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250620T101500
-DTEND;TZID=Europe/Berlin:20250620T103000
-DTSTAMP:20250511T230811Z
-UID:1750407300-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 01:
- 08:11 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250620T102000
-DTEND;TZID=Europe/Berlin:20250620T103500
-DTSTAMP:20250511T230811Z
-UID:1750407600-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 01:
- 08:11 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250620T102500
-DTEND;TZID=Europe/Berlin:20250620T104000
-DTSTAMP:20250511T230811Z
-UID:1750407900-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 01:
- 08:11 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
 END:VCALENDAR
