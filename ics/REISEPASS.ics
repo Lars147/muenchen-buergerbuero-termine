@@ -4,135 +4,69 @@ PRODID:-//Appointments Buergerbuero Muenchen//REISEPASS//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:REISEPASS - RIESENFELDSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T092500
-DTEND;TZID=Europe/Berlin:20250512T094000
-DTSTAMP:20250511T213106Z
-UID:1747034700-RIESENFELDSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:3
- 1:06 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Riesenfeldstraße 75\, 80809 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REISEPASS - FORSTENRIEDER
+SUMMARY:REISEPASS - LEONRODSTRASSE
 DTSTART;TZID=Europe/Berlin:20250512T101500
 DTEND;TZID=Europe/Berlin:20250512T103000
-DTSTAMP:20250511T213106Z
-UID:1747037700-FORSTENRIEDER
+DTSTAMP:20250511T214659Z
+UID:1747037700-LEONRODSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:3
- 1:06 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Forstenrieder Allee 61a\, 81476 München
+ vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:4
+ 6:59 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Leonrodstraße 21\, 80634 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:REISEPASS - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250620T091500
-DTEND;TZID=Europe/Berlin:20250620T093000
-DTSTAMP:20250511T213106Z
-UID:1750403700-RUPPERTSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T093000
+DTEND;TZID=Europe/Berlin:20250512T094500
+DTSTAMP:20250511T214659Z
+UID:1747035000-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:3
- 1:06 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REISEPASS - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250620T103500
-DTEND;TZID=Europe/Berlin:20250620T105000
-DTSTAMP:20250511T213106Z
-UID:1750408500-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:3
- 1:06 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REISEPASS - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250620T104000
-DTEND;TZID=Europe/Berlin:20250620T105500
-DTSTAMP:20250511T213106Z
-UID:1750408800-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:3
- 1:06 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REISEPASS - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250620T104500
-DTEND;TZID=Europe/Berlin:20250620T110000
-DTSTAMP:20250511T213106Z
-UID:1750409100-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:3
- 1:06 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:4
+ 6:59 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:REISEPASS - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250620T113000
 DTEND;TZID=Europe/Berlin:20250620T114500
-DTSTAMP:20250511T213106Z
+DTSTAMP:20250511T214659Z
 UID:1750411800-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:3
- 1:06 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:4
+ 6:59 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:REISEPASS - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250620T113500
 DTEND;TZID=Europe/Berlin:20250620T115000
-DTSTAMP:20250511T213106Z
+DTSTAMP:20250511T214659Z
 UID:1750412100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:3
- 1:06 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:4
+ 6:59 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:REISEPASS - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250620T114000
 DTEND;TZID=Europe/Berlin:20250620T115500
-DTSTAMP:20250511T213106Z
+DTSTAMP:20250511T214659Z
 UID:1750412400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:3
- 1:06 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:4
+ 6:59 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:REISEPASS - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250620T114500
 DTEND;TZID=Europe/Berlin:20250620T120000
-DTSTAMP:20250511T213106Z
+DTSTAMP:20250511T214659Z
 UID:1750412700-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:3
- 1:06 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REISEPASS - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250620T121500
-DTEND;TZID=Europe/Berlin:20250620T123000
-DTSTAMP:20250511T213106Z
-UID:1750414500-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:3
- 1:06 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REISEPASS - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250620T122000
-DTEND;TZID=Europe/Berlin:20250620T123500
-DTSTAMP:20250511T213106Z
-UID:1750414800-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:3
- 1:06 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/1063453/\n\nZuletzt abgerufen: 11.05.2025 23:4
+ 6:59 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 END:VCALENDAR
