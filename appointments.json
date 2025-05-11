@@ -11,6 +11,11 @@
             }
         },
         "RUPPERTSTRASSE": {
+            "2025-05-16": {
+                "appointmentTimestamps": [
+                    1747388700
+                ]
+            },
             "2025-06-18": {
                 "appointmentTimestamps": [
                     1750236300
@@ -4404,9 +4409,6 @@
             },
             "2025-06-18": {
                 "appointmentTimestamps": [
-                    1750225500,
-                    1750225800,
-                    1750226100,
                     1750232100,
                     1750232400,
                     1750239000,
@@ -5064,9 +5066,6 @@
             },
             "2025-06-20": {
                 "appointmentTimestamps": [
-                    1750407300,
-                    1750407600,
-                    1750407900,
                     1750416300
                 ]
             }
@@ -6066,9 +6065,6 @@
             },
             "2025-06-18": {
                 "appointmentTimestamps": [
-                    1750225500,
-                    1750225800,
-                    1750226100,
                     1750232100,
                     1750232400,
                     1750239000,
@@ -6427,7 +6423,6 @@
                     1750231500,
                     1750233000,
                     1750233300,
-                    1750236300,
                     1750236600,
                     1750236900
                 ]
@@ -6726,9 +6721,6 @@
             },
             "2025-06-20": {
                 "appointmentTimestamps": [
-                    1750407300,
-                    1750407600,
-                    1750407900,
                     1750416300
                 ]
             }
@@ -6739,19 +6731,8 @@
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {},
-        "FORSTENRIEDER": {
-            "2025-06-18": {
-                "appointmentTimestamps": [
-                    1750225500
-                ]
-            }
-        },
+        "FORSTENRIEDER": {},
         "RUPPERTSTRASSE": {
-            "2025-06-18": {
-                "appointmentTimestamps": [
-                    1750236300
-                ]
-            },
             "2025-06-20": {
                 "appointmentTimestamps": [
                     1750397400,
@@ -6808,13 +6789,7 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-06-20": {
-                "appointmentTimestamps": [
-                    1750407300
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "NOTFALL_HILFE_AUFENTHALTSTITEL_BESCHAEFTIGTE_ANGEHOERIGE": {
