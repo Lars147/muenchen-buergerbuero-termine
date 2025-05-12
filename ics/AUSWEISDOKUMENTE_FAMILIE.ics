@@ -5,2213 +5,2389 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250512T102000
+DTEND;TZID=Europe/Berlin:20250512T103500
+DTSTAMP:20250512T072253Z
+UID:1747038000-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250512T102500
+DTEND;TZID=Europe/Berlin:20250512T104000
+DTSTAMP:20250512T072253Z
+UID:1747038300-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250623T074500
+DTEND;TZID=Europe/Berlin:20250623T080000
+DTSTAMP:20250512T072253Z
+UID:1750657500-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250623T075000
+DTEND;TZID=Europe/Berlin:20250623T080500
+DTSTAMP:20250512T072253Z
+UID:1750657800-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250623T075500
+DTEND;TZID=Europe/Berlin:20250623T081000
+DTSTAMP:20250512T072253Z
+UID:1750658100-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T080000
 DTEND;TZID=Europe/Berlin:20250623T081500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750658400-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T080500
 DTEND;TZID=Europe/Berlin:20250623T082000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750658700-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T081000
 DTEND;TZID=Europe/Berlin:20250623T082500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750659000-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T081500
 DTEND;TZID=Europe/Berlin:20250623T083000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750659300-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T082000
 DTEND;TZID=Europe/Berlin:20250623T083500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750659600-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T082500
 DTEND;TZID=Europe/Berlin:20250623T084000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750659900-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250623T091500
+DTEND;TZID=Europe/Berlin:20250623T093000
+DTSTAMP:20250512T072253Z
+UID:1750662900-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250623T092000
+DTEND;TZID=Europe/Berlin:20250623T093500
+DTSTAMP:20250512T072253Z
+UID:1750663200-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250623T092500
+DTEND;TZID=Europe/Berlin:20250623T094000
+DTSTAMP:20250512T072253Z
+UID:1750663500-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T093000
 DTEND;TZID=Europe/Berlin:20250623T094500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750663800-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T093500
 DTEND;TZID=Europe/Berlin:20250623T095000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750664100-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250623T094000
-DTEND;TZID=Europe/Berlin:20250623T095500
-DTSTAMP:20250512T070933Z
-UID:1750664400-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250623T094500
-DTEND;TZID=Europe/Berlin:20250623T100000
-DTSTAMP:20250512T070933Z
-UID:1750664700-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250623T095000
-DTEND;TZID=Europe/Berlin:20250623T100500
-DTSTAMP:20250512T070933Z
-UID:1750665000-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250623T095500
-DTEND;TZID=Europe/Berlin:20250623T101000
-DTSTAMP:20250512T070933Z
-UID:1750665300-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250623T100000
-DTEND;TZID=Europe/Berlin:20250623T101500
-DTSTAMP:20250512T070933Z
-UID:1750665600-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250623T100500
-DTEND;TZID=Europe/Berlin:20250623T102000
-DTSTAMP:20250512T070933Z
-UID:1750665900-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250623T101000
-DTEND;TZID=Europe/Berlin:20250623T102500
-DTSTAMP:20250512T070933Z
-UID:1750666200-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250623T101500
-DTEND;TZID=Europe/Berlin:20250623T103000
-DTSTAMP:20250512T070933Z
-UID:1750666500-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250623T102000
-DTEND;TZID=Europe/Berlin:20250623T103500
-DTSTAMP:20250512T070933Z
-UID:1750666800-ORLEANSPLATZ
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T102500
 DTEND;TZID=Europe/Berlin:20250623T104000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750667100-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T103000
 DTEND;TZID=Europe/Berlin:20250623T104500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750667400-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T103500
 DTEND;TZID=Europe/Berlin:20250623T105000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750667700-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T104000
 DTEND;TZID=Europe/Berlin:20250623T105500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750668000-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T104500
 DTEND;TZID=Europe/Berlin:20250623T110000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750668300-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T105000
 DTEND;TZID=Europe/Berlin:20250623T110500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750668600-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T105500
 DTEND;TZID=Europe/Berlin:20250623T111000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750668900-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T110000
 DTEND;TZID=Europe/Berlin:20250623T111500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750669200-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T110500
 DTEND;TZID=Europe/Berlin:20250623T112000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750669500-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T111000
 DTEND;TZID=Europe/Berlin:20250623T112500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750669800-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T111500
 DTEND;TZID=Europe/Berlin:20250623T113000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750670100-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T112000
 DTEND;TZID=Europe/Berlin:20250623T113500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750670400-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T112500
 DTEND;TZID=Europe/Berlin:20250623T114000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750670700-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T113000
 DTEND;TZID=Europe/Berlin:20250623T114500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750671000-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T113500
 DTEND;TZID=Europe/Berlin:20250623T115000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750671300-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T114000
 DTEND;TZID=Europe/Berlin:20250623T115500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750671600-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T114500
 DTEND;TZID=Europe/Berlin:20250623T120000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750671900-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T115000
 DTEND;TZID=Europe/Berlin:20250623T120500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750672200-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T115500
 DTEND;TZID=Europe/Berlin:20250623T121000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750672500-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
 DTSTART;TZID=Europe/Berlin:20250623T120000
 DTEND;TZID=Europe/Berlin:20250623T121500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750672800-ORLEANSPLATZ
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Orleansstraße 50\, 81667 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250623T120500
-DTEND;TZID=Europe/Berlin:20250623T122000
-DTSTAMP:20250512T070933Z
-UID:1750673100-ORLEANSPLATZ
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - LEONRODSTRASSE
+DTSTART;TZID=Europe/Berlin:20250623T103000
+DTEND;TZID=Europe/Berlin:20250623T104500
+DTSTAMP:20250512T072253Z
+UID:1750667400-LEONRODSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Leonrodstraße 21\, 80634 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250623T121000
-DTEND;TZID=Europe/Berlin:20250623T122500
-DTSTAMP:20250512T070933Z
-UID:1750673400-ORLEANSPLATZ
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - LEONRODSTRASSE
+DTSTART;TZID=Europe/Berlin:20250623T103500
+DTEND;TZID=Europe/Berlin:20250623T105000
+DTSTAMP:20250512T072253Z
+UID:1750667700-LEONRODSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Leonrodstraße 21\, 80634 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - ORLEANSPLATZ
-DTSTART;TZID=Europe/Berlin:20250623T121500
-DTEND;TZID=Europe/Berlin:20250623T123000
-DTSTAMP:20250512T070933Z
-UID:1750673700-ORLEANSPLATZ
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - LEONRODSTRASSE
+DTSTART;TZID=Europe/Berlin:20250623T104000
+DTEND;TZID=Europe/Berlin:20250623T105500
+DTSTAMP:20250512T072253Z
+UID:1750668000-LEONRODSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Orleansstraße 50\, 81667 München
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Leonrodstraße 21\, 80634 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T093000
+DTEND;TZID=Europe/Berlin:20250512T094500
+DTSTAMP:20250512T072253Z
+UID:1747035000-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T093500
+DTEND;TZID=Europe/Berlin:20250512T095000
+DTSTAMP:20250512T072253Z
+UID:1747035300-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T094000
+DTEND;TZID=Europe/Berlin:20250512T095500
+DTSTAMP:20250512T072253Z
+UID:1747035600-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T094500
+DTEND;TZID=Europe/Berlin:20250512T100000
+DTSTAMP:20250512T072253Z
+UID:1747035900-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T095000
+DTEND;TZID=Europe/Berlin:20250512T100500
+DTSTAMP:20250512T072253Z
+UID:1747036200-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T095500
+DTEND;TZID=Europe/Berlin:20250512T101000
+DTSTAMP:20250512T072253Z
+UID:1747036500-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T100000
+DTEND;TZID=Europe/Berlin:20250512T101500
+DTSTAMP:20250512T072253Z
+UID:1747036800-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T100500
+DTEND;TZID=Europe/Berlin:20250512T102000
+DTSTAMP:20250512T072253Z
+UID:1747037100-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T101000
+DTEND;TZID=Europe/Berlin:20250512T102500
+DTSTAMP:20250512T072253Z
+UID:1747037400-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T101500
+DTEND;TZID=Europe/Berlin:20250512T103000
+DTSTAMP:20250512T072253Z
+UID:1747037700-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T102000
+DTEND;TZID=Europe/Berlin:20250512T103500
+DTSTAMP:20250512T072253Z
+UID:1747038000-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T102500
+DTEND;TZID=Europe/Berlin:20250512T104000
+DTSTAMP:20250512T072253Z
+UID:1747038300-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T103000
+DTEND;TZID=Europe/Berlin:20250512T104500
+DTSTAMP:20250512T072253Z
+UID:1747038600-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T103500
+DTEND;TZID=Europe/Berlin:20250512T105000
+DTSTAMP:20250512T072253Z
+UID:1747038900-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T104000
+DTEND;TZID=Europe/Berlin:20250512T105500
+DTSTAMP:20250512T072253Z
+UID:1747039200-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T104500
+DTEND;TZID=Europe/Berlin:20250512T110000
+DTSTAMP:20250512T072253Z
+UID:1747039500-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T105000
+DTEND;TZID=Europe/Berlin:20250512T110500
+DTSTAMP:20250512T072253Z
+UID:1747039800-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T105500
+DTEND;TZID=Europe/Berlin:20250512T111000
+DTSTAMP:20250512T072253Z
+UID:1747040100-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T110000
+DTEND;TZID=Europe/Berlin:20250512T111500
+DTSTAMP:20250512T072253Z
+UID:1747040400-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T110500
+DTEND;TZID=Europe/Berlin:20250512T112000
+DTSTAMP:20250512T072253Z
+UID:1747040700-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T111000
+DTEND;TZID=Europe/Berlin:20250512T112500
+DTSTAMP:20250512T072253Z
+UID:1747041000-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T111500
+DTEND;TZID=Europe/Berlin:20250512T113000
+DTSTAMP:20250512T072253Z
+UID:1747041300-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T112000
+DTEND;TZID=Europe/Berlin:20250512T113500
+DTSTAMP:20250512T072253Z
+UID:1747041600-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T112500
+DTEND;TZID=Europe/Berlin:20250512T114000
+DTSTAMP:20250512T072253Z
+UID:1747041900-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T113000
+DTEND;TZID=Europe/Berlin:20250512T114500
+DTSTAMP:20250512T072253Z
+UID:1747042200-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T113500
+DTEND;TZID=Europe/Berlin:20250512T115000
+DTSTAMP:20250512T072253Z
+UID:1747042500-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T114000
+DTEND;TZID=Europe/Berlin:20250512T115500
+DTSTAMP:20250512T072253Z
+UID:1747042800-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T114500
+DTEND;TZID=Europe/Berlin:20250512T120000
+DTSTAMP:20250512T072253Z
+UID:1747043100-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T115000
+DTEND;TZID=Europe/Berlin:20250512T120500
+DTSTAMP:20250512T072253Z
+UID:1747043400-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T115500
+DTEND;TZID=Europe/Berlin:20250512T121000
+DTSTAMP:20250512T072253Z
+UID:1747043700-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T120000
+DTEND;TZID=Europe/Berlin:20250512T121500
+DTSTAMP:20250512T072253Z
+UID:1747044000-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T120500
+DTEND;TZID=Europe/Berlin:20250512T122000
+DTSTAMP:20250512T072253Z
+UID:1747044300-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T121000
+DTEND;TZID=Europe/Berlin:20250512T122500
+DTSTAMP:20250512T072253Z
+UID:1747044600-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250512T121500
+DTEND;TZID=Europe/Berlin:20250512T123000
+DTSTAMP:20250512T072253Z
+UID:1747044900-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250512T111500
+DTEND;TZID=Europe/Berlin:20250512T113000
+DTSTAMP:20250512T072253Z
+UID:1747041300-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250512T112000
+DTEND;TZID=Europe/Berlin:20250512T113500
+DTSTAMP:20250512T072253Z
+UID:1747041600-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250512T112500
+DTEND;TZID=Europe/Berlin:20250512T114000
+DTSTAMP:20250512T072253Z
+UID:1747041900-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T073000
 DTEND;TZID=Europe/Berlin:20250623T074500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750656600-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T073500
 DTEND;TZID=Europe/Berlin:20250623T075000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750656900-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T074000
 DTEND;TZID=Europe/Berlin:20250623T075500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750657200-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T074500
 DTEND;TZID=Europe/Berlin:20250623T080000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750657500-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T075000
 DTEND;TZID=Europe/Berlin:20250623T080500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750657800-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T075500
 DTEND;TZID=Europe/Berlin:20250623T081000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750658100-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T084500
 DTEND;TZID=Europe/Berlin:20250623T090000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750661100-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T085000
 DTEND;TZID=Europe/Berlin:20250623T090500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750661400-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T085500
 DTEND;TZID=Europe/Berlin:20250623T091000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750661700-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T090000
 DTEND;TZID=Europe/Berlin:20250623T091500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750662000-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T090500
 DTEND;TZID=Europe/Berlin:20250623T092000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750662300-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T091000
 DTEND;TZID=Europe/Berlin:20250623T092500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750662600-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T091500
 DTEND;TZID=Europe/Berlin:20250623T093000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750662900-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T092000
 DTEND;TZID=Europe/Berlin:20250623T093500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750663200-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T092500
 DTEND;TZID=Europe/Berlin:20250623T094000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750663500-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T093000
 DTEND;TZID=Europe/Berlin:20250623T094500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750663800-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T093500
 DTEND;TZID=Europe/Berlin:20250623T095000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750664100-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T094000
 DTEND;TZID=Europe/Berlin:20250623T095500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750664400-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T094500
 DTEND;TZID=Europe/Berlin:20250623T100000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750664700-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T095000
 DTEND;TZID=Europe/Berlin:20250623T100500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750665000-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T095500
 DTEND;TZID=Europe/Berlin:20250623T101000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750665300-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T110000
 DTEND;TZID=Europe/Berlin:20250623T111500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750669200-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T110500
 DTEND;TZID=Europe/Berlin:20250623T112000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750669500-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T111000
 DTEND;TZID=Europe/Berlin:20250623T112500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750669800-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T111500
 DTEND;TZID=Europe/Berlin:20250623T113000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750670100-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T112000
 DTEND;TZID=Europe/Berlin:20250623T113500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750670400-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T112500
 DTEND;TZID=Europe/Berlin:20250623T114000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750670700-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T113000
 DTEND;TZID=Europe/Berlin:20250623T114500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750671000-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T113500
 DTEND;TZID=Europe/Berlin:20250623T115000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750671300-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T114000
 DTEND;TZID=Europe/Berlin:20250623T115500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750671600-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T114500
 DTEND;TZID=Europe/Berlin:20250623T120000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750671900-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T115000
 DTEND;TZID=Europe/Berlin:20250623T120500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750672200-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T115500
 DTEND;TZID=Europe/Berlin:20250623T121000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750672500-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T120000
 DTEND;TZID=Europe/Berlin:20250623T121500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750672800-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T120500
 DTEND;TZID=Europe/Berlin:20250623T122000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750673100-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T121000
 DTEND;TZID=Europe/Berlin:20250623T122500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750673400-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T121500
 DTEND;TZID=Europe/Berlin:20250623T123000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750673700-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T091500
-DTEND;TZID=Europe/Berlin:20250512T093000
-DTSTAMP:20250512T070933Z
-UID:1747034100-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T092000
-DTEND;TZID=Europe/Berlin:20250512T093500
-DTSTAMP:20250512T070933Z
-UID:1747034400-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T092500
-DTEND;TZID=Europe/Berlin:20250512T094000
-DTSTAMP:20250512T070933Z
-UID:1747034700-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T093000
-DTEND;TZID=Europe/Berlin:20250512T094500
-DTSTAMP:20250512T070933Z
-UID:1747035000-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T093500
-DTEND;TZID=Europe/Berlin:20250512T095000
-DTSTAMP:20250512T070933Z
-UID:1747035300-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T094000
-DTEND;TZID=Europe/Berlin:20250512T095500
-DTSTAMP:20250512T070933Z
-UID:1747035600-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T094500
-DTEND;TZID=Europe/Berlin:20250512T100000
-DTSTAMP:20250512T070933Z
-UID:1747035900-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T095000
-DTEND;TZID=Europe/Berlin:20250512T100500
-DTSTAMP:20250512T070933Z
-UID:1747036200-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T095500
-DTEND;TZID=Europe/Berlin:20250512T101000
-DTSTAMP:20250512T070933Z
-UID:1747036500-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T100000
-DTEND;TZID=Europe/Berlin:20250512T101500
-DTSTAMP:20250512T070933Z
-UID:1747036800-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T100500
-DTEND;TZID=Europe/Berlin:20250512T102000
-DTSTAMP:20250512T070933Z
-UID:1747037100-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250512T101000
 DTEND;TZID=Europe/Berlin:20250512T102500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747037400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250512T101500
 DTEND;TZID=Europe/Berlin:20250512T103000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747037700-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250512T102000
 DTEND;TZID=Europe/Berlin:20250512T103500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747038000-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250512T102500
 DTEND;TZID=Europe/Berlin:20250512T104000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747038300-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T111000
-DTEND;TZID=Europe/Berlin:20250512T112500
-DTSTAMP:20250512T070933Z
-UID:1747041000-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T111500
-DTEND;TZID=Europe/Berlin:20250512T113000
-DTSTAMP:20250512T070933Z
-UID:1747041300-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T112000
-DTEND;TZID=Europe/Berlin:20250512T113500
-DTSTAMP:20250512T070933Z
-UID:1747041600-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T112500
-DTEND;TZID=Europe/Berlin:20250512T114000
-DTSTAMP:20250512T070933Z
-UID:1747041900-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T113000
-DTEND;TZID=Europe/Berlin:20250512T114500
-DTSTAMP:20250512T070933Z
-UID:1747042200-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250512T113500
-DTEND;TZID=Europe/Berlin:20250512T115000
-DTSTAMP:20250512T070933Z
-UID:1747042500-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T073000
 DTEND;TZID=Europe/Berlin:20250623T074500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750656600-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T073500
 DTEND;TZID=Europe/Berlin:20250623T075000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750656900-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T074000
 DTEND;TZID=Europe/Berlin:20250623T075500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750657200-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T074500
 DTEND;TZID=Europe/Berlin:20250623T080000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750657500-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T075000
 DTEND;TZID=Europe/Berlin:20250623T080500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750657800-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T075500
 DTEND;TZID=Europe/Berlin:20250623T081000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750658100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T080000
 DTEND;TZID=Europe/Berlin:20250623T081500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750658400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T080500
 DTEND;TZID=Europe/Berlin:20250623T082000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750658700-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T081000
 DTEND;TZID=Europe/Berlin:20250623T082500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750659000-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T081500
 DTEND;TZID=Europe/Berlin:20250623T083000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750659300-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T082000
 DTEND;TZID=Europe/Berlin:20250623T083500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750659600-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T082500
 DTEND;TZID=Europe/Berlin:20250623T084000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750659900-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T083000
 DTEND;TZID=Europe/Berlin:20250623T084500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750660200-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T083500
 DTEND;TZID=Europe/Berlin:20250623T085000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750660500-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T084000
 DTEND;TZID=Europe/Berlin:20250623T085500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750660800-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T084500
 DTEND;TZID=Europe/Berlin:20250623T090000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750661100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T085000
 DTEND;TZID=Europe/Berlin:20250623T090500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750661400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T085500
 DTEND;TZID=Europe/Berlin:20250623T091000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750661700-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T090000
 DTEND;TZID=Europe/Berlin:20250623T091500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750662000-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T090500
 DTEND;TZID=Europe/Berlin:20250623T092000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750662300-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T091000
 DTEND;TZID=Europe/Berlin:20250623T092500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750662600-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T091500
 DTEND;TZID=Europe/Berlin:20250623T093000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750662900-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T092000
 DTEND;TZID=Europe/Berlin:20250623T093500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750663200-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T092500
 DTEND;TZID=Europe/Berlin:20250623T094000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750663500-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T093000
 DTEND;TZID=Europe/Berlin:20250623T094500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750663800-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T093500
 DTEND;TZID=Europe/Berlin:20250623T095000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750664100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T094000
 DTEND;TZID=Europe/Berlin:20250623T095500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750664400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T094500
 DTEND;TZID=Europe/Berlin:20250623T100000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750664700-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T095000
 DTEND;TZID=Europe/Berlin:20250623T100500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750665000-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T095500
 DTEND;TZID=Europe/Berlin:20250623T101000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750665300-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T100000
 DTEND;TZID=Europe/Berlin:20250623T101500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750665600-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T100500
 DTEND;TZID=Europe/Berlin:20250623T102000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750665900-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T101000
 DTEND;TZID=Europe/Berlin:20250623T102500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750666200-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T101500
 DTEND;TZID=Europe/Berlin:20250623T103000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750666500-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T102000
 DTEND;TZID=Europe/Berlin:20250623T103500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750666800-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T102500
 DTEND;TZID=Europe/Berlin:20250623T104000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750667100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T103000
 DTEND;TZID=Europe/Berlin:20250623T104500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750667400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T103500
 DTEND;TZID=Europe/Berlin:20250623T105000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750667700-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T104000
 DTEND;TZID=Europe/Berlin:20250623T105500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750668000-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T104500
 DTEND;TZID=Europe/Berlin:20250623T110000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750668300-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T105000
 DTEND;TZID=Europe/Berlin:20250623T110500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750668600-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T105500
 DTEND;TZID=Europe/Berlin:20250623T111000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750668900-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T110000
 DTEND;TZID=Europe/Berlin:20250623T111500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750669200-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T110500
 DTEND;TZID=Europe/Berlin:20250623T112000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750669500-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T111000
 DTEND;TZID=Europe/Berlin:20250623T112500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750669800-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T111500
 DTEND;TZID=Europe/Berlin:20250623T113000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750670100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T112000
 DTEND;TZID=Europe/Berlin:20250623T113500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750670400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T112500
 DTEND;TZID=Europe/Berlin:20250623T114000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750670700-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T113000
 DTEND;TZID=Europe/Berlin:20250623T114500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750671000-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T113500
 DTEND;TZID=Europe/Berlin:20250623T115000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750671300-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T114000
 DTEND;TZID=Europe/Berlin:20250623T115500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750671600-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T114500
 DTEND;TZID=Europe/Berlin:20250623T120000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750671900-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T115000
 DTEND;TZID=Europe/Berlin:20250623T120500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750672200-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T115500
 DTEND;TZID=Europe/Berlin:20250623T121000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750672500-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T120000
 DTEND;TZID=Europe/Berlin:20250623T121500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750672800-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T120500
 DTEND;TZID=Europe/Berlin:20250623T122000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750673100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T121000
 DTEND;TZID=Europe/Berlin:20250623T122500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750673400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T121500
 DTEND;TZID=Europe/Berlin:20250623T123000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750673700-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250512T091500
-DTEND;TZID=Europe/Berlin:20250512T093000
-DTSTAMP:20250512T070933Z
-UID:1747034100-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250512T092000
-DTEND;TZID=Europe/Berlin:20250512T093500
-DTSTAMP:20250512T070933Z
-UID:1747034400-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250512T092500
-DTEND;TZID=Europe/Berlin:20250512T094000
-DTSTAMP:20250512T070933Z
-UID:1747034700-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250512T103000
 DTEND;TZID=Europe/Berlin:20250512T104500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747038600-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250512T103500
 DTEND;TZID=Europe/Berlin:20250512T105000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747038900-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250512T104000
 DTEND;TZID=Europe/Berlin:20250512T105500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747039200-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250512T104500
 DTEND;TZID=Europe/Berlin:20250512T110000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747039500-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250512T105000
 DTEND;TZID=Europe/Berlin:20250512T110500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747039800-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250512T105500
 DTEND;TZID=Europe/Berlin:20250512T111000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747040100-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250512T110000
 DTEND;TZID=Europe/Berlin:20250512T111500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747040400-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250512T110500
 DTEND;TZID=Europe/Berlin:20250512T112000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747040700-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250512T111000
 DTEND;TZID=Europe/Berlin:20250512T112500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747041000-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250512T111500
 DTEND;TZID=Europe/Berlin:20250512T113000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747041300-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250512T112000
 DTEND;TZID=Europe/Berlin:20250512T113500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747041600-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250512T112500
 DTEND;TZID=Europe/Berlin:20250512T114000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1747041900-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T073000
 DTEND;TZID=Europe/Berlin:20250623T074500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750656600-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T073500
 DTEND;TZID=Europe/Berlin:20250623T075000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750656900-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T074000
 DTEND;TZID=Europe/Berlin:20250623T075500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750657200-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T074500
 DTEND;TZID=Europe/Berlin:20250623T080000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750657500-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T075000
 DTEND;TZID=Europe/Berlin:20250623T080500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750657800-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T075500
 DTEND;TZID=Europe/Berlin:20250623T081000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750658100-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T084500
 DTEND;TZID=Europe/Berlin:20250623T090000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750661100-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T085000
 DTEND;TZID=Europe/Berlin:20250623T090500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750661400-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T085500
 DTEND;TZID=Europe/Berlin:20250623T091000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750661700-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T090000
 DTEND;TZID=Europe/Berlin:20250623T091500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750662000-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T090500
 DTEND;TZID=Europe/Berlin:20250623T092000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750662300-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T091000
 DTEND;TZID=Europe/Berlin:20250623T092500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750662600-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T091500
 DTEND;TZID=Europe/Berlin:20250623T093000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750662900-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T092000
 DTEND;TZID=Europe/Berlin:20250623T093500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750663200-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T092500
 DTEND;TZID=Europe/Berlin:20250623T094000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750663500-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T093000
 DTEND;TZID=Europe/Berlin:20250623T094500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750663800-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T093500
 DTEND;TZID=Europe/Berlin:20250623T095000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750664100-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T094000
 DTEND;TZID=Europe/Berlin:20250623T095500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750664400-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T094500
 DTEND;TZID=Europe/Berlin:20250623T100000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750664700-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T095000
 DTEND;TZID=Europe/Berlin:20250623T100500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750665000-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T095500
 DTEND;TZID=Europe/Berlin:20250623T101000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750665300-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T100000
 DTEND;TZID=Europe/Berlin:20250623T101500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750665600-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T100500
 DTEND;TZID=Europe/Berlin:20250623T102000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750665900-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T101000
 DTEND;TZID=Europe/Berlin:20250623T102500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750666200-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T101500
 DTEND;TZID=Europe/Berlin:20250623T103000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750666500-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T102000
 DTEND;TZID=Europe/Berlin:20250623T103500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750666800-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T102500
 DTEND;TZID=Europe/Berlin:20250623T104000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750667100-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T111500
 DTEND;TZID=Europe/Berlin:20250623T113000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750670100-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T112000
 DTEND;TZID=Europe/Berlin:20250623T113500
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750670400-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
 DTSTART;TZID=Europe/Berlin:20250623T112500
 DTEND;TZID=Europe/Berlin:20250623T114000
-DTSTAMP:20250512T070933Z
+DTSTAMP:20250512T072253Z
 UID:1750670700-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 12.05.2025 09:
- 09:33 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 22:53 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 END:VCALENDAR
