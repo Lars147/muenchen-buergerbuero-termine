@@ -2,16 +2,7 @@
     "REISEPASS": {
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
-        "RIESENFELDSTRASSE": {
-            "2025-05-13": {
-                "appointmentTimestamps": [
-                    1747128600,
-                    1747128900,
-                    1747129200,
-                    1747129500
-                ]
-            }
-        },
+        "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {
             "2025-05-13": {
                 "appointmentTimestamps": [
@@ -94,13 +85,7 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-05-13": {
-                "appointmentTimestamps": [
-                    1747123500
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "BEGLAUBIGUNG_VON_BIS_ZU_5_DOKUMENTEN": {
@@ -236,15 +221,6 @@
             }
         },
         "RIESENFELDSTRASSE": {
-            "2025-05-13": {
-                "appointmentTimestamps": [
-                    1747128600,
-                    1747128900,
-                    1747129200,
-                    1747129500,
-                    1747129800
-                ]
-            },
             "2025-05-15": {
                 "appointmentTimestamps": [
                     1747294200,
@@ -886,15 +862,6 @@
             }
         },
         "RIESENFELDSTRASSE": {
-            "2025-05-13": {
-                "appointmentTimestamps": [
-                    1747128600,
-                    1747128900,
-                    1747129200,
-                    1747129500,
-                    1747129800
-                ]
-            },
             "2025-05-15": {
                 "appointmentTimestamps": [
                     1747294200,
@@ -1406,16 +1373,7 @@
     "PERSONALAUSWEIS": {
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
-        "RIESENFELDSTRASSE": {
-            "2025-05-13": {
-                "appointmentTimestamps": [
-                    1747128600,
-                    1747128900,
-                    1747129200,
-                    1747129500
-                ]
-            }
-        },
+        "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {
             "2025-05-13": {
                 "appointmentTimestamps": [
@@ -1504,16 +1462,7 @@
     "WOHNSITZ_ANMELDEN_ODER_UMMELDEN": {
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
-        "RIESENFELDSTRASSE": {
-            "2025-05-13": {
-                "appointmentTimestamps": [
-                    1747128600,
-                    1747128900,
-                    1747129200,
-                    1747129500
-                ]
-            }
-        },
+        "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {
             "2025-05-13": {
                 "appointmentTimestamps": [
@@ -1602,16 +1551,7 @@
     "VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS": {
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
-        "RIESENFELDSTRASSE": {
-            "2025-05-13": {
-                "appointmentTimestamps": [
-                    1747128600,
-                    1747128900,
-                    1747129200,
-                    1747129500
-                ]
-            }
-        },
+        "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {
             "2025-05-13": {
                 "appointmentTimestamps": [
@@ -1700,16 +1640,7 @@
     "VORLAEUFIGER_REISEPASS": {
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
-        "RIESENFELDSTRASSE": {
-            "2025-05-13": {
-                "appointmentTimestamps": [
-                    1747128600,
-                    1747128900,
-                    1747129200,
-                    1747129500
-                ]
-            }
-        },
+        "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {
             "2025-05-13": {
                 "appointmentTimestamps": [
@@ -2256,11 +2187,6 @@
         "RIESENFELDSTRASSE": {
             "2025-05-13": {
                 "appointmentTimestamps": [
-                    1747128600,
-                    1747128900,
-                    1747129200,
-                    1747129500,
-                    1747129800,
                     1747130100,
                     1747131300,
                     1747132200,
@@ -2348,6 +2274,9 @@
             "2025-05-22": {
                 "appointmentTimestamps": [
                     1747895400,
+                    1747897500,
+                    1747897800,
+                    1747898100,
                     1747898400,
                     1747898700,
                     1747901100,
@@ -2527,6 +2456,9 @@
             "2025-05-15": {
                 "appointmentTimestamps": [
                     1747293300,
+                    1747293900,
+                    1747294200,
+                    1747294500,
                     1747296900,
                     1747297500,
                     1747300800,
@@ -3158,6 +3090,9 @@
         "PASING": {
             "2025-05-13": {
                 "appointmentTimestamps": [
+                    1747119600,
+                    1747119900,
+                    1747120200,
                     1747122900,
                     1747126200,
                     1747128600,
@@ -3369,12 +3304,11 @@
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {
-            "2025-05-13": {
+            "2025-05-22": {
                 "appointmentTimestamps": [
-                    1747128600,
-                    1747128900,
-                    1747129200,
-                    1747129500
+                    1747897500,
+                    1747897800,
+                    1747898100
                 ]
             }
         },
@@ -3382,6 +3316,11 @@
             "2025-05-13": {
                 "appointmentTimestamps": [
                     1747125000
+                ]
+            },
+            "2025-05-15": {
+                "appointmentTimestamps": [
+                    1747293900
                 ]
             },
             "2025-06-23": {
@@ -3460,7 +3399,13 @@
                 ]
             }
         },
-        "PASING": {},
+        "PASING": {
+            "2025-05-13": {
+                "appointmentTimestamps": [
+                    1747119600
+                ]
+            }
+        },
         "AUSLAENDERBEHOERDE": {}
     },
     "EINSCHALTEN_ELD_FUNKTION_ODER_AENDERUNG_DER_PIN": {
@@ -3924,8 +3869,6 @@
         "RIESENFELDSTRASSE": {
             "2025-05-13": {
                 "appointmentTimestamps": [
-                    1747129500,
-                    1747129800,
                     1747130100,
                     1747131300,
                     1747132200,
@@ -4013,6 +3956,9 @@
             "2025-05-22": {
                 "appointmentTimestamps": [
                     1747895400,
+                    1747897500,
+                    1747897800,
+                    1747898100,
                     1747898400,
                     1747898700,
                     1747901100,
@@ -4192,6 +4138,9 @@
             "2025-05-15": {
                 "appointmentTimestamps": [
                     1747293300,
+                    1747293900,
+                    1747294200,
+                    1747294500,
                     1747296900,
                     1747297500,
                     1747300800,
@@ -4823,6 +4772,9 @@
         "PASING": {
             "2025-05-13": {
                 "appointmentTimestamps": [
+                    1747119600,
+                    1747119900,
+                    1747120200,
                     1747122900,
                     1747126200,
                     1747128600,
@@ -5554,8 +5506,6 @@
         "RIESENFELDSTRASSE": {
             "2025-05-13": {
                 "appointmentTimestamps": [
-                    1747129500,
-                    1747129800,
                     1747130100,
                     1747131300,
                     1747132200,
@@ -5643,6 +5593,9 @@
             "2025-05-22": {
                 "appointmentTimestamps": [
                     1747895400,
+                    1747897500,
+                    1747897800,
+                    1747898100,
                     1747898400,
                     1747898700,
                     1747901100,
@@ -5792,9 +5745,6 @@
                     1747119000,
                     1747119300,
                     1747119600,
-                    1747125000,
-                    1747125300,
-                    1747125600,
                     1747131000,
                     1747131300,
                     1747133100,
@@ -5822,6 +5772,9 @@
             "2025-05-15": {
                 "appointmentTimestamps": [
                     1747293300,
+                    1747293900,
+                    1747294200,
+                    1747294500,
                     1747296900,
                     1747297500,
                     1747300800,
@@ -6453,6 +6406,9 @@
         "PASING": {
             "2025-05-13": {
                 "appointmentTimestamps": [
+                    1747119600,
+                    1747119900,
+                    1747120200,
                     1747122900,
                     1747126200,
                     1747128600,
@@ -6663,11 +6619,19 @@
     "ELD_KARTE_EU_EWR": {
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
-        "RIESENFELDSTRASSE": {},
-        "FORSTENRIEDER": {
-            "2025-05-13": {
+        "RIESENFELDSTRASSE": {
+            "2025-05-22": {
                 "appointmentTimestamps": [
-                    1747125000
+                    1747897500,
+                    1747897800,
+                    1747898100
+                ]
+            }
+        },
+        "FORSTENRIEDER": {
+            "2025-05-15": {
+                "appointmentTimestamps": [
+                    1747293900
                 ]
             },
             "2025-06-23": {
@@ -6746,7 +6710,13 @@
                 ]
             }
         },
-        "PASING": {},
+        "PASING": {
+            "2025-05-13": {
+                "appointmentTimestamps": [
+                    1747119600
+                ]
+            }
+        },
         "AUSLAENDERBEHOERDE": {}
     },
     "NOTFALL_HILFE_AUFENTHALTSTITEL_BESCHAEFTIGTE_ANGEHOERIGE": {
