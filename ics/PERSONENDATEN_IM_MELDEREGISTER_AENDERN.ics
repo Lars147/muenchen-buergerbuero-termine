@@ -5,135 +5,487 @@ PRODID:-//Appointments Buergerbuero Muenchen//PERSONENDATEN_IM_MELDEREGIST
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T091500
+DTEND;TZID=Europe/Berlin:20250513T093000
+DTSTAMP:20250513T054403Z
+UID:1747120500-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T092000
+DTEND;TZID=Europe/Berlin:20250513T093500
+DTSTAMP:20250513T054403Z
+UID:1747120800-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T092500
+DTEND;TZID=Europe/Berlin:20250513T094000
+DTSTAMP:20250513T054403Z
+UID:1747121100-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T093000
+DTEND;TZID=Europe/Berlin:20250513T094500
+DTSTAMP:20250513T054403Z
+UID:1747121400-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T093500
+DTEND;TZID=Europe/Berlin:20250513T095000
+DTSTAMP:20250513T054403Z
+UID:1747121700-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T100000
+DTEND;TZID=Europe/Berlin:20250513T101500
+DTSTAMP:20250513T054403Z
+UID:1747123200-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T100500
+DTEND;TZID=Europe/Berlin:20250513T102000
+DTSTAMP:20250513T054403Z
+UID:1747123500-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T101000
+DTEND;TZID=Europe/Berlin:20250513T102500
+DTSTAMP:20250513T054403Z
+UID:1747123800-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T101500
+DTEND;TZID=Europe/Berlin:20250513T103000
+DTSTAMP:20250513T054403Z
+UID:1747124100-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T143000
+DTEND;TZID=Europe/Berlin:20250513T144500
+DTSTAMP:20250513T054403Z
+UID:1747139400-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T143500
+DTEND;TZID=Europe/Berlin:20250513T145000
+DTSTAMP:20250513T054403Z
+UID:1747139700-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T144000
+DTEND;TZID=Europe/Berlin:20250513T145500
+DTSTAMP:20250513T054403Z
+UID:1747140000-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T144500
+DTEND;TZID=Europe/Berlin:20250513T150000
+DTSTAMP:20250513T054403Z
+UID:1747140300-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T145000
+DTEND;TZID=Europe/Berlin:20250513T150500
+DTSTAMP:20250513T054403Z
+UID:1747140600-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T145500
+DTEND;TZID=Europe/Berlin:20250513T151000
+DTSTAMP:20250513T054403Z
+UID:1747140900-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T150000
+DTEND;TZID=Europe/Berlin:20250513T151500
+DTSTAMP:20250513T054403Z
+UID:1747141200-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T150500
+DTEND;TZID=Europe/Berlin:20250513T152000
+DTSTAMP:20250513T054403Z
+UID:1747141500-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T151000
+DTEND;TZID=Europe/Berlin:20250513T152500
+DTSTAMP:20250513T054403Z
+UID:1747141800-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T151500
+DTEND;TZID=Europe/Berlin:20250513T153000
+DTSTAMP:20250513T054403Z
+UID:1747142100-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T160000
+DTEND;TZID=Europe/Berlin:20250513T161500
+DTSTAMP:20250513T054403Z
+UID:1747144800-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T160500
+DTEND;TZID=Europe/Berlin:20250513T162000
+DTSTAMP:20250513T054403Z
+UID:1747145100-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T161000
+DTEND;TZID=Europe/Berlin:20250513T162500
+DTSTAMP:20250513T054403Z
+UID:1747145400-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T172500
+DTEND;TZID=Europe/Berlin:20250513T174000
+DTSTAMP:20250513T054403Z
+UID:1747149900-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - ORLEANSPLATZ
+DTSTART;TZID=Europe/Berlin:20250513T173000
+DTEND;TZID=Europe/Berlin:20250513T174500
+DTSTAMP:20250513T054403Z
+UID:1747150200-ORLEANSPLATZ
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Orleansstraße 50\, 81667 München
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250515T092500
 DTEND;TZID=Europe/Berlin:20250515T094000
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1747293900-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250623T083000
+DTEND;TZID=Europe/Berlin:20250623T084500
+DTSTAMP:20250513T054403Z
+UID:1750660200-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250623T083500
+DTEND;TZID=Europe/Berlin:20250623T085000
+DTSTAMP:20250513T054403Z
+UID:1750660500-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250623T084000
+DTEND;TZID=Europe/Berlin:20250623T085500
+DTSTAMP:20250513T054403Z
+UID:1750660800-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250623T084500
+DTEND;TZID=Europe/Berlin:20250623T090000
+DTSTAMP:20250513T054403Z
+UID:1750661100-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T094500
 DTEND;TZID=Europe/Berlin:20250623T100000
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750664700-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T120000
 DTEND;TZID=Europe/Berlin:20250623T121500
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750672800-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T120500
 DTEND;TZID=Europe/Berlin:20250623T122000
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750673100-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T121000
 DTEND;TZID=Europe/Berlin:20250623T122500
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750673400-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T121500
 DTEND;TZID=Europe/Berlin:20250623T123000
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750673700-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T122000
 DTEND;TZID=Europe/Berlin:20250623T123500
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750674000-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T122500
 DTEND;TZID=Europe/Berlin:20250623T124000
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750674300-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T123000
 DTEND;TZID=Europe/Berlin:20250623T124500
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750674600-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T123500
 DTEND;TZID=Europe/Berlin:20250623T125000
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750674900-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - RUPPERTSTRASSE
+DTSTART;TZID=Europe/Berlin:20250513T111000
+DTEND;TZID=Europe/Berlin:20250513T112500
+DTSTAMP:20250513T054403Z
+UID:1747127400-RUPPERTSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Ruppertstraße 19\, 80337 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - RUPPERTSTRASSE
+DTSTART;TZID=Europe/Berlin:20250513T111500
+DTEND;TZID=Europe/Berlin:20250513T113000
+DTSTAMP:20250513T054403Z
+UID:1747127700-RUPPERTSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Ruppertstraße 19\, 80337 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - RUPPERTSTRASSE
+DTSTART;TZID=Europe/Berlin:20250623T084500
+DTEND;TZID=Europe/Berlin:20250623T090000
+DTSTAMP:20250513T054403Z
+UID:1750661100-RUPPERTSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Ruppertstraße 19\, 80337 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - RUPPERTSTRASSE
+DTSTART;TZID=Europe/Berlin:20250623T092000
+DTEND;TZID=Europe/Berlin:20250623T093500
+DTSTAMP:20250513T054403Z
+UID:1750663200-RUPPERTSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T104500
 DTEND;TZID=Europe/Berlin:20250623T110000
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750668300-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PERSONENDATEN_IM_MELDEREGISTER_AENDERN - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250623T111500
 DTEND;TZID=Europe/Berlin:20250623T113000
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750670100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10224136/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 END:VCALENDAR

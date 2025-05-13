@@ -7,44 +7,44 @@ BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T120000
 DTEND;TZID=Europe/Berlin:20250623T121500
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750672800-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T120500
 DTEND;TZID=Europe/Berlin:20250623T122000
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750673100-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T121000
 DTEND;TZID=Europe/Berlin:20250623T122500
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750673400-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250623T121500
 DTEND;TZID=Europe/Berlin:20250623T123000
-DTSTAMP:20250513T052141Z
+DTSTAMP:20250513T054403Z
 UID:1750673700-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 13.05.2025 07:
- 21:41 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 44:03 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 END:VCALENDAR
