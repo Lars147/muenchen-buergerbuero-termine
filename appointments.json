@@ -157,9 +157,6 @@
                     1747899300,
                     1747899600,
                     1747899900,
-                    1747903800,
-                    1747904100,
-                    1747904400,
                     1747904700,
                     1747905000,
                     1747905300,
@@ -324,21 +321,17 @@
         },
         "PASING": {
             "2025-05-14": {
-                "appointmentTimestamps": [
-                    1747205400,
-                    1747205700,
-                    1747206000
+                "errors": [
+                    {
+                        "errorCode": "appointmentNotAvailable",
+                        "statusCode": 200,
+                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
+                    }
                 ]
             },
             "2025-05-20": {
                 "appointmentTimestamps": [
-                    1747722600,
-                    1747722900,
-                    1747723200,
-                    1747732500,
-                    1747734300,
-                    1747734600,
-                    1747734900
+                    1747732500
                 ]
             },
             "2025-05-21": {
@@ -995,8 +988,6 @@
                     1747900200,
                     1747902000,
                     1747903800,
-                    1747904100,
-                    1747904400,
                     1747904700,
                     1747905000,
                     1747905300,
@@ -1277,9 +1268,6 @@
             "2025-05-14": {
                 "appointmentTimestamps": [
                     1747200600,
-                    1747205400,
-                    1747205700,
-                    1747206000,
                     1747206300,
                     1747207200,
                     1747208700
@@ -1308,17 +1296,11 @@
             },
             "2025-05-20": {
                 "appointmentTimestamps": [
-                    1747722600,
-                    1747722900,
-                    1747723200,
                     1747723500,
                     1747727400,
                     1747732500,
                     1747732800,
-                    1747734300,
                     1747734600,
-                    1747734900,
-                    1747735200,
                     1747755300
                 ]
             },
@@ -2019,8 +2001,6 @@
                     1747900200,
                     1747902000,
                     1747903800,
-                    1747904100,
-                    1747904400,
                     1747904700,
                     1747905000,
                     1747905300,
@@ -2301,9 +2281,6 @@
             "2025-05-14": {
                 "appointmentTimestamps": [
                     1747200600,
-                    1747205400,
-                    1747205700,
-                    1747206000,
                     1747206300,
                     1747207200,
                     1747208700
@@ -2332,17 +2309,11 @@
             },
             "2025-05-20": {
                 "appointmentTimestamps": [
-                    1747722600,
-                    1747722900,
-                    1747723200,
                     1747723500,
                     1747727400,
                     1747732500,
                     1747732800,
-                    1747734300,
                     1747734600,
-                    1747734900,
-                    1747735200,
                     1747755300
                 ]
             },
@@ -2651,9 +2622,6 @@
                     1747899300,
                     1747899600,
                     1747899900,
-                    1747903800,
-                    1747904100,
-                    1747904400,
                     1747904700,
                     1747905000,
                     1747905300,
@@ -2818,17 +2786,16 @@
         },
         "PASING": {
             "2025-05-14": {
-                "appointmentTimestamps": [
-                    1747205400,
-                    1747205700,
-                    1747206000
+                "errors": [
+                    {
+                        "errorCode": "appointmentNotAvailable",
+                        "statusCode": 200,
+                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
+                    }
                 ]
             },
             "2025-05-20": {
                 "appointmentTimestamps": [
-                    1747722600,
-                    1747722900,
-                    1747723200,
                     1747732500
                 ]
             },
@@ -3094,9 +3061,6 @@
                     1747899300,
                     1747899600,
                     1747899900,
-                    1747903800,
-                    1747904100,
-                    1747904400,
                     1747904700,
                     1747905000,
                     1747905300,
@@ -3261,17 +3225,16 @@
         },
         "PASING": {
             "2025-05-14": {
-                "appointmentTimestamps": [
-                    1747205400,
-                    1747205700,
-                    1747206000
+                "errors": [
+                    {
+                        "errorCode": "appointmentNotAvailable",
+                        "statusCode": 200,
+                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
+                    }
                 ]
             },
             "2025-05-20": {
                 "appointmentTimestamps": [
-                    1747722600,
-                    1747722900,
-                    1747723200,
                     1747732500
                 ]
             },
@@ -3537,9 +3500,6 @@
                     1747899300,
                     1747899600,
                     1747899900,
-                    1747903800,
-                    1747904100,
-                    1747904400,
                     1747904700,
                     1747905000,
                     1747905300,
@@ -3704,17 +3664,16 @@
         },
         "PASING": {
             "2025-05-14": {
-                "appointmentTimestamps": [
-                    1747205400,
-                    1747205700,
-                    1747206000
+                "errors": [
+                    {
+                        "errorCode": "appointmentNotAvailable",
+                        "statusCode": 200,
+                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
+                    }
                 ]
             },
             "2025-05-20": {
                 "appointmentTimestamps": [
-                    1747722600,
-                    1747722900,
-                    1747723200,
                     1747732500
                 ]
             },
@@ -3980,9 +3939,6 @@
                     1747899300,
                     1747899600,
                     1747899900,
-                    1747903800,
-                    1747904100,
-                    1747904400,
                     1747904700,
                     1747905000,
                     1747905300,
@@ -4147,17 +4103,16 @@
         },
         "PASING": {
             "2025-05-14": {
-                "appointmentTimestamps": [
-                    1747205400,
-                    1747205700,
-                    1747206000
+                "errors": [
+                    {
+                        "errorCode": "appointmentNotAvailable",
+                        "statusCode": 200,
+                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
+                    }
                 ]
             },
             "2025-05-20": {
                 "appointmentTimestamps": [
-                    1747722600,
-                    1747722900,
-                    1747723200,
                     1747732500
                 ]
             },
@@ -5872,9 +5827,6 @@
                     1747200600,
                     1747200900,
                     1747203000,
-                    1747205400,
-                    1747205700,
-                    1747206000,
                     1747206300,
                     1747206600,
                     1747207200,
@@ -5946,9 +5898,6 @@
             },
             "2025-05-20": {
                 "appointmentTimestamps": [
-                    1747722600,
-                    1747722900,
-                    1747723200,
                     1747723500,
                     1747723800,
                     1747727400,
@@ -6546,9 +6495,6 @@
             },
             "2025-05-20": {
                 "appointmentTimestamps": [
-                    1747722600,
-                    1747722900,
-                    1747723200,
                     1747732500
                 ]
             },
@@ -8334,9 +8280,6 @@
             },
             "2025-05-20": {
                 "appointmentTimestamps": [
-                    1747722600,
-                    1747722900,
-                    1747723200,
                     1747723500,
                     1747723800,
                     1747727400,
@@ -10574,17 +10517,11 @@
             },
             "2025-05-20": {
                 "appointmentTimestamps": [
-                    1747722600,
-                    1747722900,
-                    1747723200,
                     1747723500,
                     1747723800,
                     1747727400,
                     1747727700,
                     1747731300,
-                    1747732500,
-                    1747732800,
-                    1747733100,
                     1747734600,
                     1747734900,
                     1747735500,
@@ -10729,12 +10666,9 @@
                 ]
             },
             "2025-06-05": {
-                "errors": [
-                    {
-                        "errorCode": "rateLimitExceeded",
-                        "statusCode": 429,
-                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
-                    }
+                "appointmentTimestamps": [
+                    1749109200,
+                    1749129000
                 ]
             },
             "2025-06-06": {
@@ -10769,21 +10703,20 @@
                 ]
             },
             "2025-06-16": {
-                "errors": [
-                    {
-                        "errorCode": "rateLimitExceeded",
-                        "statusCode": 429,
-                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
-                    }
+                "appointmentTimestamps": [
+                    1750055700,
+                    1750056000,
+                    1750063800,
+                    1750064100
                 ]
             },
             "2025-06-17": {
-                "errors": [
-                    {
-                        "errorCode": "rateLimitExceeded",
-                        "statusCode": 429,
-                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
-                    }
+                "appointmentTimestamps": [
+                    1750153800,
+                    1750154100,
+                    1750156200,
+                    1750167300,
+                    1750170300
                 ]
             },
             "2025-06-18": {
@@ -10794,21 +10727,14 @@
                 ]
             },
             "2025-06-20": {
-                "errors": [
-                    {
-                        "errorCode": "rateLimitExceeded",
-                        "statusCode": 429,
-                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
-                    }
+                "appointmentTimestamps": [
+                    1750416300
                 ]
             },
             "2025-06-23": {
-                "errors": [
-                    {
-                        "errorCode": "rateLimitExceeded",
-                        "statusCode": 429,
-                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
-                    }
+                "appointmentTimestamps": [
+                    1750662900,
+                    1750675500
                 ]
             },
             "2025-06-24": {
@@ -10856,12 +10782,9 @@
     "ELD_KARTE_EU_EWR": {
         "ORLEANSPLATZ": {
             "2025-06-24": {
-                "errors": [
-                    {
-                        "errorCode": "rateLimitExceeded",
-                        "statusCode": 429,
-                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
-                    }
+                "appointmentTimestamps": [
+                    1750774500,
+                    1750777500
                 ]
             }
         },
@@ -10880,12 +10803,9 @@
                 ]
             },
             "2025-05-21": {
-                "errors": [
-                    {
-                        "errorCode": "rateLimitExceeded",
-                        "statusCode": 429,
-                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
-                    }
+                "appointmentTimestamps": [
+                    1747816800,
+                    1747817100
                 ]
             },
             "2025-05-22": {
@@ -11012,12 +10932,32 @@
         },
         "RUPPERTSTRASSE": {
             "2025-05-22": {
-                "errors": [
-                    {
-                        "errorCode": "rateLimitExceeded",
-                        "statusCode": 429,
-                        "errorMessage": "Anfragelimit \u00fcberschritten. Bitte versuchen Sie es sp\u00e4ter erneut."
-                    }
+                "appointmentTimestamps": [
+                    1747899000,
+                    1747899300,
+                    1747899600,
+                    1747899900,
+                    1747904700,
+                    1747905000,
+                    1747905300,
+                    1747905600,
+                    1747905900,
+                    1747906200,
+                    1747906500,
+                    1747906800,
+                    1747907100,
+                    1747907400,
+                    1747907700,
+                    1747908000,
+                    1747908300,
+                    1747908600,
+                    1747908900,
+                    1747909200,
+                    1747915200,
+                    1747915500,
+                    1747915800,
+                    1747916100,
+                    1747916400
                 ]
             },
             "2025-05-23": {
@@ -11167,14 +11107,6 @@
                         "statusCode": 200,
                         "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
                     }
-                ]
-            },
-            "2025-05-20": {
-                "appointmentTimestamps": [
-                    1747722600,
-                    1747722900,
-                    1747723200,
-                    1747732500
                 ]
             },
             "2025-05-21": {
