@@ -1680,20 +1680,7 @@
         "AUSLAENDERBEHOERDE": {}
     },
     "PERSONALAUSWEIS": {
-        "ORLEANSPLATZ": {
-            "2025-05-15": {
-                "appointmentTimestamps": [
-                    1747298700,
-                    1747299000,
-                    1747299300,
-                    1747299600,
-                    1747299900,
-                    1747300200,
-                    1747300500,
-                    1747300800
-                ]
-            }
-        },
+        "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {
             "2025-05-15": {
                 "appointmentTimestamps": [
@@ -1887,20 +1874,7 @@
         "AUSLAENDERBEHOERDE": {}
     },
     "WOHNSITZ_ANMELDEN_ODER_UMMELDEN": {
-        "ORLEANSPLATZ": {
-            "2025-05-15": {
-                "appointmentTimestamps": [
-                    1747298700,
-                    1747299000,
-                    1747299300,
-                    1747299600,
-                    1747299900,
-                    1747300200,
-                    1747300500,
-                    1747300800
-                ]
-            }
-        },
+        "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {
             "2025-05-15": {
                 "appointmentTimestamps": [
@@ -2094,20 +2068,7 @@
         "AUSLAENDERBEHOERDE": {}
     },
     "VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS": {
-        "ORLEANSPLATZ": {
-            "2025-05-15": {
-                "appointmentTimestamps": [
-                    1747298700,
-                    1747299000,
-                    1747299300,
-                    1747299600,
-                    1747299900,
-                    1747300200,
-                    1747300500,
-                    1747300800
-                ]
-            }
-        },
+        "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {
             "2025-05-15": {
                 "appointmentTimestamps": [
@@ -2301,20 +2262,7 @@
         "AUSLAENDERBEHOERDE": {}
     },
     "VORLAEUFIGER_REISEPASS": {
-        "ORLEANSPLATZ": {
-            "2025-05-15": {
-                "appointmentTimestamps": [
-                    1747298700,
-                    1747299000,
-                    1747299300,
-                    1747299600,
-                    1747299900,
-                    1747300200,
-                    1747300500,
-                    1747300800
-                ]
-            }
-        },
+        "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {
             "2025-05-15": {
                 "appointmentTimestamps": [
@@ -2513,15 +2461,6 @@
                 "appointmentTimestamps": [
                     1747293600,
                     1747293900,
-                    1747298700,
-                    1747299000,
-                    1747299300,
-                    1747299600,
-                    1747299900,
-                    1747300200,
-                    1747300500,
-                    1747300800,
-                    1747301100,
                     1747301400,
                     1747313700,
                     1747317000,
@@ -4134,20 +4073,7 @@
         "AUSLAENDERBEHOERDE": {}
     },
     "PERSONENDATEN_IM_MELDEREGISTER_AENDERN": {
-        "ORLEANSPLATZ": {
-            "2025-05-15": {
-                "appointmentTimestamps": [
-                    1747298700,
-                    1747299000,
-                    1747299300,
-                    1747299600,
-                    1747299900,
-                    1747300200,
-                    1747300500,
-                    1747300800
-                ]
-            }
-        },
+        "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {
             "2025-05-15": {
                 "appointmentTimestamps": [
@@ -4346,15 +4272,6 @@
                 "appointmentTimestamps": [
                     1747293600,
                     1747293900,
-                    1747298700,
-                    1747299000,
-                    1747299300,
-                    1747299600,
-                    1747299900,
-                    1747300200,
-                    1747300500,
-                    1747300800,
-                    1747301100,
                     1747301400,
                     1747313700,
                     1747317000,
@@ -6068,9 +5985,6 @@
                 "appointmentTimestamps": [
                     1747293600,
                     1747293900,
-                    1747298700,
-                    1747299000,
-                    1747299300,
                     1747301400,
                     1747313700,
                     1747317000,
@@ -7683,13 +7597,7 @@
         "AUSLAENDERBEHOERDE": {}
     },
     "ELD_KARTE_EU_EWR": {
-        "ORLEANSPLATZ": {
-            "2025-05-15": {
-                "appointmentTimestamps": [
-                    1747298700
-                ]
-            }
-        },
+        "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {
             "2025-05-15": {
                 "appointmentTimestamps": [
@@ -7747,9 +7655,7 @@
                 "appointmentTimestamps": [
                     1747294200,
                     1747294500,
-                    1747294800,
-                    1747295700,
-                    1747296000
+                    1747294800
                 ]
             },
             "2025-06-20": {
@@ -7853,12 +7759,8 @@
         },
         "PASING": {
             "2025-05-15": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
+                "appointmentTimestamps": [
+                    1747290600
                 ]
             },
             "2025-06-23": {
