@@ -5,7 +5,7 @@
         "RIESENFELDSTRASSE": {
             "2025-05-20": {
                 "appointmentTimestamps": [
-                    1747748700
+                    1747751400
                 ]
             }
         },
@@ -152,12 +152,8 @@
         },
         "PASING": {
             "2025-05-20": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
+                "appointmentTimestamps": [
+                    1747734300
                 ]
             }
         },
@@ -330,7 +326,9 @@
         "RIESENFELDSTRASSE": {
             "2025-05-20": {
                 "appointmentTimestamps": [
-                    1747734600
+                    1747734600,
+                    1747751400,
+                    1747751700
                 ]
             },
             "2025-05-21": {
@@ -816,12 +814,9 @@
         },
         "PASING": {
             "2025-05-20": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
+                "appointmentTimestamps": [
+                    1747734300,
+                    1747734600
                 ]
             },
             "2025-05-21": {
@@ -1062,7 +1057,9 @@
         "RIESENFELDSTRASSE": {
             "2025-05-20": {
                 "appointmentTimestamps": [
-                    1747734600
+                    1747734600,
+                    1747751400,
+                    1747751700
                 ]
             },
             "2025-05-21": {
@@ -1548,12 +1545,9 @@
         },
         "PASING": {
             "2025-05-20": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
+                "appointmentTimestamps": [
+                    1747734300,
+                    1747734600
                 ]
             },
             "2025-05-21": {
@@ -1630,7 +1624,13 @@
     "PERSONALAUSWEIS": {
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
-        "RIESENFELDSTRASSE": {},
+        "RIESENFELDSTRASSE": {
+            "2025-05-20": {
+                "appointmentTimestamps": [
+                    1747751400
+                ]
+            }
+        },
         "FORSTENRIEDER": {
             "2025-05-20": {
                 "appointmentTimestamps": [
@@ -1774,12 +1774,8 @@
         },
         "PASING": {
             "2025-05-20": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
+                "appointmentTimestamps": [
+                    1747734300
                 ]
             }
         },
@@ -1788,7 +1784,13 @@
     "WOHNSITZ_ANMELDEN_ODER_UMMELDEN": {
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
-        "RIESENFELDSTRASSE": {},
+        "RIESENFELDSTRASSE": {
+            "2025-05-20": {
+                "appointmentTimestamps": [
+                    1747751400
+                ]
+            }
+        },
         "FORSTENRIEDER": {
             "2025-05-20": {
                 "appointmentTimestamps": [
@@ -1932,12 +1934,8 @@
         },
         "PASING": {
             "2025-05-20": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
+                "appointmentTimestamps": [
+                    1747734300
                 ]
             }
         },
@@ -1946,7 +1944,13 @@
     "VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS": {
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
-        "RIESENFELDSTRASSE": {},
+        "RIESENFELDSTRASSE": {
+            "2025-05-20": {
+                "appointmentTimestamps": [
+                    1747751400
+                ]
+            }
+        },
         "FORSTENRIEDER": {
             "2025-05-20": {
                 "appointmentTimestamps": [
@@ -2090,12 +2094,8 @@
         },
         "PASING": {
             "2025-05-20": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
+                "appointmentTimestamps": [
+                    1747734300
                 ]
             }
         },
@@ -2104,7 +2104,13 @@
     "VORLAEUFIGER_REISEPASS": {
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
-        "RIESENFELDSTRASSE": {},
+        "RIESENFELDSTRASSE": {
+            "2025-05-20": {
+                "appointmentTimestamps": [
+                    1747751400
+                ]
+            }
+        },
         "FORSTENRIEDER": {
             "2025-05-20": {
                 "appointmentTimestamps": [
@@ -2248,12 +2254,8 @@
         },
         "PASING": {
             "2025-05-20": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
+                "appointmentTimestamps": [
+                    1747734300
                 ]
             }
         },
@@ -2677,7 +2679,10 @@
                     1747734900,
                     1747736100,
                     1747737900,
-                    1747750800
+                    1747750800,
+                    1747751400,
+                    1747751700,
+                    1747752000
                 ]
             },
             "2025-05-21": {
@@ -3621,6 +3626,9 @@
             "2025-05-20": {
                 "appointmentTimestamps": [
                     1747726500,
+                    1747734300,
+                    1747734600,
+                    1747734900,
                     1747737900,
                     1747747500
                 ]
@@ -3991,12 +3999,8 @@
         },
         "PASING": {
             "2025-05-20": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
+                "appointmentTimestamps": [
+                    1747734300
                 ]
             }
         },
@@ -5367,6 +5371,9 @@
             "2025-05-20": {
                 "appointmentTimestamps": [
                     1747726500,
+                    1747734300,
+                    1747734600,
+                    1747734900,
                     1747737900,
                     1747747500
                 ]
@@ -6107,10 +6114,7 @@
                     1747734900,
                     1747736100,
                     1747737900,
-                    1747750800,
-                    1747751400,
-                    1747751700,
-                    1747752000
+                    1747750800
                 ]
             },
             "2025-05-21": {
@@ -7054,6 +7058,9 @@
             "2025-05-20": {
                 "appointmentTimestamps": [
                     1747726500,
+                    1747734300,
+                    1747734600,
+                    1747734900,
                     1747737900,
                     1747747500
                 ]
@@ -7274,13 +7281,7 @@
     "ELD_KARTE_EU_EWR": {
         "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {},
-        "RIESENFELDSTRASSE": {
-            "2025-05-20": {
-                "appointmentTimestamps": [
-                    1747751400
-                ]
-            }
-        },
+        "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {
             "2025-05-20": {
                 "appointmentTimestamps": [
