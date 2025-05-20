@@ -4,707 +4,674 @@ PRODID:-//Appointments Buergerbuero Muenchen//AUSWEISDOKUMENTE_FAMILIE//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250520T094000
+DTEND;TZID=Europe/Berlin:20250520T095500
+DTSTAMP:20250520T050210Z
+UID:1747726800-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250630T092500
 DTEND;TZID=Europe/Berlin:20250630T094000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751268300-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Forstenrieder Allee 61a\, 81476 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250626T092500
-DTEND;TZID=Europe/Berlin:20250626T094000
-DTSTAMP:20250520T044829Z
-UID:1750922700-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250626T114500
 DTEND;TZID=Europe/Berlin:20250626T120000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1750931100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250626T115000
 DTEND;TZID=Europe/Berlin:20250626T120500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1750931400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250626T115500
 DTEND;TZID=Europe/Berlin:20250626T121000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1750931700-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250626T120000
 DTEND;TZID=Europe/Berlin:20250626T121500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1750932000-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250626T120500
 DTEND;TZID=Europe/Berlin:20250626T122000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1750932300-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250626T121000
 DTEND;TZID=Europe/Berlin:20250626T122500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1750932600-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250626T121500
 DTEND;TZID=Europe/Berlin:20250626T123000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1750932900-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250627T110500
 DTEND;TZID=Europe/Berlin:20250627T112000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751015100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250627T111000
 DTEND;TZID=Europe/Berlin:20250627T112500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751015400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250630T073000
-DTEND;TZID=Europe/Berlin:20250630T074500
-DTSTAMP:20250520T044829Z
-UID:1751261400-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250630T073500
-DTEND;TZID=Europe/Berlin:20250630T075000
-DTSTAMP:20250520T044829Z
-UID:1751261700-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Ruppertstraße 19\, 80337 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
-DTSTART;TZID=Europe/Berlin:20250630T074000
-DTEND;TZID=Europe/Berlin:20250630T075500
-DTSTAMP:20250520T044829Z
-UID:1751262000-RUPPERTSTRASSE
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T074500
 DTEND;TZID=Europe/Berlin:20250630T080000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751262300-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T075000
 DTEND;TZID=Europe/Berlin:20250630T080500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751262600-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T075500
 DTEND;TZID=Europe/Berlin:20250630T081000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751262900-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T080000
 DTEND;TZID=Europe/Berlin:20250630T081500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751263200-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T080500
 DTEND;TZID=Europe/Berlin:20250630T082000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751263500-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T081000
 DTEND;TZID=Europe/Berlin:20250630T082500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751263800-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T081500
 DTEND;TZID=Europe/Berlin:20250630T083000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751264100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T082000
 DTEND;TZID=Europe/Berlin:20250630T083500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751264400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T082500
 DTEND;TZID=Europe/Berlin:20250630T084000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751264700-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T083000
 DTEND;TZID=Europe/Berlin:20250630T084500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751265000-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T083500
 DTEND;TZID=Europe/Berlin:20250630T085000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751265300-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T084000
 DTEND;TZID=Europe/Berlin:20250630T085500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751265600-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T084500
 DTEND;TZID=Europe/Berlin:20250630T090000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751265900-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T085000
 DTEND;TZID=Europe/Berlin:20250630T090500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751266200-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T085500
 DTEND;TZID=Europe/Berlin:20250630T091000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751266500-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T090000
 DTEND;TZID=Europe/Berlin:20250630T091500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751266800-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T090500
 DTEND;TZID=Europe/Berlin:20250630T092000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751267100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T091000
 DTEND;TZID=Europe/Berlin:20250630T092500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751267400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T091500
 DTEND;TZID=Europe/Berlin:20250630T093000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751267700-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T092000
 DTEND;TZID=Europe/Berlin:20250630T093500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751268000-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T092500
 DTEND;TZID=Europe/Berlin:20250630T094000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751268300-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T093000
 DTEND;TZID=Europe/Berlin:20250630T094500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751268600-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T093500
 DTEND;TZID=Europe/Berlin:20250630T095000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751268900-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T094000
 DTEND;TZID=Europe/Berlin:20250630T095500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751269200-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T094500
 DTEND;TZID=Europe/Berlin:20250630T100000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751269500-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T095000
 DTEND;TZID=Europe/Berlin:20250630T100500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751269800-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T095500
 DTEND;TZID=Europe/Berlin:20250630T101000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751270100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T100000
 DTEND;TZID=Europe/Berlin:20250630T101500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751270400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T100500
 DTEND;TZID=Europe/Berlin:20250630T102000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751270700-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T101000
 DTEND;TZID=Europe/Berlin:20250630T102500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751271000-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T101500
 DTEND;TZID=Europe/Berlin:20250630T103000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751271300-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T102000
 DTEND;TZID=Europe/Berlin:20250630T103500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751271600-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T102500
 DTEND;TZID=Europe/Berlin:20250630T104000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751271900-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T103000
 DTEND;TZID=Europe/Berlin:20250630T104500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751272200-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T103500
 DTEND;TZID=Europe/Berlin:20250630T105000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751272500-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T104000
 DTEND;TZID=Europe/Berlin:20250630T105500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751272800-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T104500
 DTEND;TZID=Europe/Berlin:20250630T110000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751273100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T105000
 DTEND;TZID=Europe/Berlin:20250630T110500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751273400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T105500
 DTEND;TZID=Europe/Berlin:20250630T111000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751273700-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T110000
 DTEND;TZID=Europe/Berlin:20250630T111500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751274000-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T110500
 DTEND;TZID=Europe/Berlin:20250630T112000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751274300-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T111000
 DTEND;TZID=Europe/Berlin:20250630T112500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751274600-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T111500
 DTEND;TZID=Europe/Berlin:20250630T113000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751274900-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T112000
 DTEND;TZID=Europe/Berlin:20250630T113500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751275200-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T112500
 DTEND;TZID=Europe/Berlin:20250630T114000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751275500-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T113000
 DTEND;TZID=Europe/Berlin:20250630T114500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751275800-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T113500
 DTEND;TZID=Europe/Berlin:20250630T115000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751276100-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T114000
 DTEND;TZID=Europe/Berlin:20250630T115500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751276400-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T114500
 DTEND;TZID=Europe/Berlin:20250630T120000
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751276700-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - RUPPERTSTRASSE
 DTSTART;TZID=Europe/Berlin:20250630T115000
 DTEND;TZID=Europe/Berlin:20250630T120500
-DTSTAMP:20250520T044829Z
+DTSTAMP:20250520T050210Z
 UID:1751277000-RUPPERTSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 06:
- 48:29 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 20.05.2025 07:
+ 02:10 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Ruppertstraße 19\, 80337 München
 END:VEVENT
 END:VCALENDAR
