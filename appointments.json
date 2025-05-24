@@ -4,11 +4,6 @@
         "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748255700
-                ]
-            },
             "2025-07-03": {
                 "appointmentTimestamps": [
                     1751528700,
@@ -286,7 +281,13 @@
                 ]
             }
         },
-        "PASING": {},
+        "PASING": {
+            "2025-05-28": {
+                "appointmentTimestamps": [
+                    1748414700
+                ]
+            }
+        },
         "AUSLAENDERBEHOERDE": {}
     },
     "BEGLAUBIGUNG_VON_BIS_ZU_5_DOKUMENTEN": {
@@ -475,9 +476,7 @@
         "FORSTENRIEDER": {
             "2025-05-26": {
                 "appointmentTimestamps": [
-                    1748245200,
-                    1748255700,
-                    1748256000
+                    1748245200
                 ]
             },
             "2025-05-27": {
@@ -1042,6 +1041,7 @@
             },
             "2025-05-28": {
                 "appointmentTimestamps": [
+                    1748414700,
                     1748415000,
                     1748423700,
                     1748427000
@@ -1300,9 +1300,7 @@
         "FORSTENRIEDER": {
             "2025-05-26": {
                 "appointmentTimestamps": [
-                    1748245200,
-                    1748255700,
-                    1748256000
+                    1748245200
                 ]
             },
             "2025-05-27": {
@@ -1944,11 +1942,6 @@
         "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748255700
-                ]
-            },
             "2025-07-03": {
                 "appointmentTimestamps": [
                     1751528700,
@@ -2234,11 +2227,6 @@
         "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748255700
-                ]
-            },
             "2025-07-03": {
                 "appointmentTimestamps": [
                     1751528700,
@@ -2524,11 +2512,6 @@
         "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748255700
-                ]
-            },
             "2025-07-03": {
                 "appointmentTimestamps": [
                     1751528700,
@@ -2814,11 +2797,6 @@
         "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748255700
-                ]
-            },
             "2025-07-03": {
                 "appointmentTimestamps": [
                     1751528700,
@@ -3630,8 +3608,6 @@
                     1748249400,
                     1748250900,
                     1748254500,
-                    1748255700,
-                    1748256000,
                     1748256300
                 ]
             },
@@ -4720,11 +4696,6 @@
         "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748255700
-                ]
-            },
             "2025-07-03": {
                 "appointmentTimestamps": [
                     1751528700,
@@ -5536,8 +5507,6 @@
                     1748249400,
                     1748250900,
                     1748254500,
-                    1748255700,
-                    1748256000,
                     1748256300
                 ]
             },
@@ -5781,9 +5750,6 @@
                     1751551200,
                     1751551500,
                     1751551800,
-                    1751552100,
-                    1751552400,
-                    1751552700,
                     1751555100
                 ]
             },
@@ -6643,10 +6609,7 @@
                     1751537700,
                     1751549400,
                     1751549700,
-                    1751550000,
-                    1751550300,
-                    1751550600,
-                    1751550900
+                    1751550000
                 ]
             },
             "2025-07-04": {
@@ -7381,8 +7344,6 @@
                     1748249400,
                     1748250900,
                     1748254500,
-                    1748255700,
-                    1748256000,
                     1748256300
                 ]
             },
@@ -7626,9 +7587,6 @@
                     1751551200,
                     1751551500,
                     1751551800,
-                    1751552100,
-                    1751552400,
-                    1751552700,
                     1751555100
                 ]
             },
@@ -8471,11 +8429,6 @@
         "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748255700
-                ]
-            },
             "2025-07-03": {
                 "appointmentTimestamps": [
                     1751528700,
@@ -8507,10 +8460,7 @@
                     1751550300,
                     1751550600,
                     1751550900,
-                    1751551200,
-                    1751551500,
-                    1751551800,
-                    1751552100
+                    1751551200
                 ]
             },
             "2025-07-04": {
