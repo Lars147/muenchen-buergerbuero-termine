@@ -231,7 +231,6 @@
                     1751607300,
                     1751607600,
                     1751607900,
-                    1751609700,
                     1751610000,
                     1751610300,
                     1751610600,
@@ -287,13 +286,7 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-05-28": {
-                "appointmentTimestamps": [
-                    1748414700
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "BEGLAUBIGUNG_VON_BIS_ZU_5_DOKUMENTEN": {
@@ -1049,7 +1042,6 @@
             },
             "2025-05-28": {
                 "appointmentTimestamps": [
-                    1748414700,
                     1748415000,
                     1748423700,
                     1748427000
@@ -1875,7 +1867,6 @@
             },
             "2025-05-28": {
                 "appointmentTimestamps": [
-                    1748414700,
                     1748415000,
                     1748423700,
                     1748427000
@@ -2235,13 +2226,7 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-05-28": {
-                "appointmentTimestamps": [
-                    1748414700
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "WOHNSITZ_ANMELDEN_ODER_UMMELDEN": {
@@ -2531,13 +2516,7 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-05-28": {
-                "appointmentTimestamps": [
-                    1748414700
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS": {
@@ -2827,13 +2806,7 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-05-28": {
-                "appointmentTimestamps": [
-                    1748414700
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "VORLAEUFIGER_REISEPASS": {
@@ -3123,13 +3096,7 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-05-28": {
-                "appointmentTimestamps": [
-                    1748414700
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "HAUSHALTSBESCHEINIGUNG": {
