@@ -1,12 +1,6 @@
 {
     "REISEPASS": {
-        "ORLEANSPLATZ": {
-            "2025-06-06": {
-                "appointmentTimestamps": [
-                    1749200400
-                ]
-            }
-        },
+        "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {
             "2025-07-03": {
                 "appointmentTimestamps": [
@@ -675,12 +669,6 @@
             "2025-05-30": {
                 "appointmentTimestamps": [
                     1748586600
-                ]
-            },
-            "2025-06-06": {
-                "appointmentTimestamps": [
-                    1749200400,
-                    1749200700
                 ]
             },
             "2025-06-18": {
@@ -1902,12 +1890,6 @@
                     1748586600
                 ]
             },
-            "2025-06-06": {
-                "appointmentTimestamps": [
-                    1749200400,
-                    1749200700
-                ]
-            },
             "2025-06-18": {
                 "appointmentTimestamps": [
                     1750228500
@@ -3116,13 +3098,7 @@
         "AUSLAENDERBEHOERDE": {}
     },
     "PERSONALAUSWEIS": {
-        "ORLEANSPLATZ": {
-            "2025-06-06": {
-                "appointmentTimestamps": [
-                    1749200400
-                ]
-            }
-        },
+        "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {
             "2025-07-03": {
                 "appointmentTimestamps": [
@@ -3782,13 +3758,7 @@
         "AUSLAENDERBEHOERDE": {}
     },
     "WOHNSITZ_ANMELDEN_ODER_UMMELDEN": {
-        "ORLEANSPLATZ": {
-            "2025-06-06": {
-                "appointmentTimestamps": [
-                    1749200400
-                ]
-            }
-        },
+        "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {
             "2025-07-03": {
                 "appointmentTimestamps": [
@@ -4448,13 +4418,7 @@
         "AUSLAENDERBEHOERDE": {}
     },
     "VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS": {
-        "ORLEANSPLATZ": {
-            "2025-06-06": {
-                "appointmentTimestamps": [
-                    1749200400
-                ]
-            }
-        },
+        "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {
             "2025-07-03": {
                 "appointmentTimestamps": [
@@ -5114,13 +5078,7 @@
         "AUSLAENDERBEHOERDE": {}
     },
     "VORLAEUFIGER_REISEPASS": {
-        "ORLEANSPLATZ": {
-            "2025-06-06": {
-                "appointmentTimestamps": [
-                    1749200400
-                ]
-            }
-        },
+        "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {
             "2025-07-03": {
                 "appointmentTimestamps": [
@@ -5838,9 +5796,6 @@
             },
             "2025-06-06": {
                 "appointmentTimestamps": [
-                    1749200400,
-                    1749200700,
-                    1749201000,
                     1749203100,
                     1749204600
                 ]
@@ -7825,13 +7780,7 @@
         "AUSLAENDERBEHOERDE": {}
     },
     "PERSONENDATEN_IM_MELDEREGISTER_AENDERN": {
-        "ORLEANSPLATZ": {
-            "2025-06-06": {
-                "appointmentTimestamps": [
-                    1749200400
-                ]
-            }
-        },
+        "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {
             "2025-07-03": {
                 "appointmentTimestamps": [
@@ -8549,9 +8498,6 @@
             },
             "2025-06-06": {
                 "appointmentTimestamps": [
-                    1749200400,
-                    1749200700,
-                    1749201000,
                     1749203100,
                     1749204600
                 ]
@@ -11097,9 +11043,6 @@
             },
             "2025-06-06": {
                 "appointmentTimestamps": [
-                    1749200400,
-                    1749200700,
-                    1749201000,
                     1749203100,
                     1749204600
                 ]
@@ -13084,13 +13027,7 @@
         "AUSLAENDERBEHOERDE": {}
     },
     "ELD_KARTE_EU_EWR": {
-        "ORLEANSPLATZ": {
-            "2025-06-06": {
-                "appointmentTimestamps": [
-                    1749200400
-                ]
-            }
-        },
+        "ORLEANSPLATZ": {},
         "LEONRODSTRASSE": {
             "2025-07-03": {
                 "appointmentTimestamps": [
