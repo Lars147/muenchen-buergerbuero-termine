@@ -288,23 +288,11 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-07-04": {
-                "appointmentTimestamps": [
-                    1751609700,
-                    1751616000
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "BEGLAUBIGUNG_VON_BIS_ZU_5_DOKUMENTEN": {
         "ORLEANSPLATZ": {
-            "2025-05-28": {
-                "appointmentTimestamps": [
-                    1748428800
-                ]
-            },
             "2025-06-26": {
                 "appointmentTimestamps": [
                     1750923900
@@ -678,6 +666,11 @@
             }
         },
         "RUPPERTSTRASSE": {
+            "2025-05-26": {
+                "appointmentTimestamps": [
+                    1748245800
+                ]
+            },
             "2025-05-27": {
                 "appointmentTimestamps": [
                     1748330100,
@@ -1118,12 +1111,6 @@
             "2025-07-03": {
                 "appointmentTimestamps": [
                     1751526000
-                ]
-            },
-            "2025-07-04": {
-                "appointmentTimestamps": [
-                    1751616000,
-                    1751616300
                 ]
             }
         },
@@ -1131,11 +1118,6 @@
     },
     "BEGLAUBIGUNG_VON_UNTERSCHRIFTEN": {
         "ORLEANSPLATZ": {
-            "2025-05-28": {
-                "appointmentTimestamps": [
-                    1748428800
-                ]
-            },
             "2025-06-26": {
                 "appointmentTimestamps": [
                     1750923900
@@ -1509,6 +1491,11 @@
             }
         },
         "RUPPERTSTRASSE": {
+            "2025-05-26": {
+                "appointmentTimestamps": [
+                    1748245800
+                ]
+            },
             "2025-05-27": {
                 "appointmentTimestamps": [
                     1748330100,
@@ -1949,12 +1936,6 @@
             "2025-07-03": {
                 "appointmentTimestamps": [
                     1751526000
-                ]
-            },
-            "2025-07-04": {
-                "appointmentTimestamps": [
-                    1751616000,
-                    1751616300
                 ]
             }
         },
@@ -2249,13 +2230,7 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-07-04": {
-                "appointmentTimestamps": [
-                    1751616000
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "WOHNSITZ_ANMELDEN_ODER_UMMELDEN": {
@@ -2547,13 +2522,7 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-07-04": {
-                "appointmentTimestamps": [
-                    1751616000
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS": {
@@ -2845,13 +2814,7 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-07-04": {
-                "appointmentTimestamps": [
-                    1751616000
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "VORLAEUFIGER_REISEPASS": {
@@ -3143,13 +3106,7 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-07-04": {
-                "appointmentTimestamps": [
-                    1751616000
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "HAUSHALTSBESCHEINIGUNG": {
@@ -3159,13 +3116,7 @@
                     1748423700,
                     1748425200,
                     1748428200,
-                    1748428800,
                     1748429100
-                ]
-            },
-            "2025-05-30": {
-                "appointmentTimestamps": [
-                    1748583000
                 ]
             },
             "2025-06-02": {
@@ -3984,6 +3935,7 @@
             "2025-05-26": {
                 "appointmentTimestamps": [
                     1748244300,
+                    1748245800,
                     1748246100,
                     1748249700,
                     1748250900,
@@ -4772,9 +4724,6 @@
             },
             "2025-07-04": {
                 "appointmentTimestamps": [
-                    1751616000,
-                    1751616300,
-                    1751616600,
                     1751625900
                 ]
             }
@@ -5070,13 +5019,7 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-07-04": {
-                "appointmentTimestamps": [
-                    1751616000
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "EINSCHALTEN_ELD_FUNKTION_ODER_AENDERUNG_DER_PIN": {
@@ -5088,11 +5031,6 @@
                     1748428200,
                     1748428800,
                     1748429100
-                ]
-            },
-            "2025-05-30": {
-                "appointmentTimestamps": [
-                    1748583000
                 ]
             },
             "2025-06-02": {
@@ -5911,6 +5849,7 @@
             "2025-05-26": {
                 "appointmentTimestamps": [
                     1748244300,
+                    1748245800,
                     1748246100,
                     1748249700,
                     1748250900,
@@ -6699,9 +6638,6 @@
             },
             "2025-07-04": {
                 "appointmentTimestamps": [
-                    1751616000,
-                    1751616300,
-                    1751616600,
                     1751625900
                 ]
             }
@@ -6949,11 +6885,6 @@
                     1748429100
                 ]
             },
-            "2025-05-30": {
-                "appointmentTimestamps": [
-                    1748583000
-                ]
-            },
             "2025-06-02": {
                 "appointmentTimestamps": [
                     1748856600
@@ -7770,6 +7701,7 @@
             "2025-05-26": {
                 "appointmentTimestamps": [
                     1748244300,
+                    1748245800,
                     1748246100,
                     1748249700,
                     1748250900,
@@ -8558,9 +8490,6 @@
             },
             "2025-07-04": {
                 "appointmentTimestamps": [
-                    1751616000,
-                    1751616300,
-                    1751616600,
                     1751625900
                 ]
             }
@@ -8856,13 +8785,7 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-07-04": {
-                "appointmentTimestamps": [
-                    1751616000
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "NOTFALL_HILFE_AUFENTHALTSTITEL_BESCHAEFTIGTE_ANGEHOERIGE": {
