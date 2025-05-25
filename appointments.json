@@ -102,10 +102,7 @@
                     1751547600,
                     1751547900,
                     1751548200,
-                    1751548500,
-                    1751553000,
-                    1751553300,
-                    1751553600
+                    1751548500
                 ]
             },
             "2025-07-04": {
@@ -458,6 +455,7 @@
             "2025-05-27": {
                 "appointmentTimestamps": [
                     1748338500,
+                    1748347200,
                     1748348100,
                     1748351700
                 ]
@@ -681,9 +679,6 @@
                     1751548200,
                     1751548500,
                     1751548800,
-                    1751553000,
-                    1751553300,
-                    1751553600,
                     1751553900,
                     1751556900
                 ]
@@ -1106,18 +1101,10 @@
             }
         },
         "RUPPERTSTRASSE": {
-            "2025-05-26": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
-                ]
-            },
             "2025-05-27": {
                 "appointmentTimestamps": [
                     1748338500,
+                    1748347200,
                     1748348100,
                     1748351700
                 ]
@@ -1341,9 +1328,6 @@
                     1751548200,
                     1751548500,
                     1751548800,
-                    1751553000,
-                    1751553300,
-                    1751553600,
                     1751553900,
                     1751556900
                 ]
@@ -1489,15 +1473,6 @@
         "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {},
         "RUPPERTSTRASSE": {
-            "2025-05-26": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
-                ]
-            },
             "2025-07-02": {
                 "appointmentTimestamps": [
                     1751434200,
@@ -1586,10 +1561,7 @@
                     1751547600,
                     1751547900,
                     1751548200,
-                    1751548500,
-                    1751553000,
-                    1751553300,
-                    1751553600
+                    1751548500
                 ]
             },
             "2025-07-04": {
@@ -1653,15 +1625,6 @@
         "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {},
         "RUPPERTSTRASSE": {
-            "2025-05-26": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
-                ]
-            },
             "2025-07-02": {
                 "appointmentTimestamps": [
                     1751434200,
@@ -1750,10 +1713,7 @@
                     1751547600,
                     1751547900,
                     1751548200,
-                    1751548500,
-                    1751553000,
-                    1751553300,
-                    1751553600
+                    1751548500
                 ]
             },
             "2025-07-04": {
@@ -1817,15 +1777,6 @@
         "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {},
         "RUPPERTSTRASSE": {
-            "2025-05-26": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
-                ]
-            },
             "2025-07-02": {
                 "appointmentTimestamps": [
                     1751434200,
@@ -1914,10 +1865,7 @@
                     1751547600,
                     1751547900,
                     1751548200,
-                    1751548500,
-                    1751553000,
-                    1751553300,
-                    1751553600
+                    1751548500
                 ]
             },
             "2025-07-04": {
@@ -1981,15 +1929,6 @@
         "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {},
         "RUPPERTSTRASSE": {
-            "2025-05-26": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
-                ]
-            },
             "2025-07-02": {
                 "appointmentTimestamps": [
                     1751434200,
@@ -2078,10 +2017,7 @@
                     1751547600,
                     1751547900,
                     1751548200,
-                    1751548500,
-                    1751553000,
-                    1751553300,
-                    1751553600
+                    1751548500
                 ]
             },
             "2025-07-04": {
@@ -2141,11 +2077,6 @@
     },
     "HAUSHALTSBESCHEINIGUNG": {
         "ORLEANSPLATZ": {
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748254500
-                ]
-            },
             "2025-05-28": {
                 "appointmentTimestamps": [
                     1748425200
@@ -2847,7 +2778,6 @@
         "RUPPERTSTRASSE": {
             "2025-05-26": {
                 "appointmentTimestamps": [
-                    1748242500,
                     1748244300,
                     1748252400,
                     1748253000
@@ -2858,12 +2788,12 @@
                     1748332500,
                     1748335500,
                     1748336100,
-                    1748338500,
-                    1748338800,
                     1748339700,
                     1748340900,
                     1748341800,
                     1748342700,
+                    1748347200,
+                    1748347500,
                     1748348100,
                     1748348400,
                     1748350500,
@@ -3290,9 +3220,6 @@
                     1751548500,
                     1751548800,
                     1751549100,
-                    1751553000,
-                    1751553300,
-                    1751553600,
                     1751553900,
                     1751554200,
                     1751556900,
@@ -3564,15 +3491,6 @@
         "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {},
         "RUPPERTSTRASSE": {
-            "2025-05-26": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
-                ]
-            },
             "2025-07-02": {
                 "appointmentTimestamps": [
                     1751434200,
@@ -3661,10 +3579,7 @@
                     1751547600,
                     1751547900,
                     1751548200,
-                    1751548500,
-                    1751553000,
-                    1751553300,
-                    1751553600
+                    1751548500
                 ]
             },
             "2025-07-04": {
@@ -3724,11 +3639,6 @@
     },
     "EINSCHALTEN_ELD_FUNKTION_ODER_AENDERUNG_DER_PIN": {
         "ORLEANSPLATZ": {
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748254500
-                ]
-            },
             "2025-05-28": {
                 "appointmentTimestamps": [
                     1748425200
@@ -4430,7 +4340,6 @@
         "RUPPERTSTRASSE": {
             "2025-05-26": {
                 "appointmentTimestamps": [
-                    1748242500,
                     1748244300,
                     1748252400,
                     1748253000
@@ -4441,12 +4350,12 @@
                     1748332500,
                     1748335500,
                     1748336100,
-                    1748338500,
-                    1748338800,
                     1748339700,
                     1748340900,
                     1748341800,
                     1748342700,
+                    1748347200,
+                    1748347500,
                     1748348100,
                     1748348400,
                     1748350500,
@@ -4767,9 +4676,6 @@
             },
             "2025-07-02": {
                 "appointmentTimestamps": [
-                    1751434200,
-                    1751434500,
-                    1751434800,
                     1751435400,
                     1751435700,
                     1751436900,
@@ -4873,9 +4779,6 @@
                     1751548500,
                     1751548800,
                     1751549100,
-                    1751553000,
-                    1751553300,
-                    1751553600,
                     1751553900,
                     1751554200,
                     1751556900,
@@ -5147,15 +5050,6 @@
         "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {},
         "RUPPERTSTRASSE": {
-            "2025-05-26": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
-                ]
-            },
             "2025-07-02": {
                 "appointmentTimestamps": [
                     1751440800,
@@ -5280,11 +5174,6 @@
     },
     "ADRESSAENDERUNG_PERSONALAUSWEIS_REISEPASS_EAT": {
         "ORLEANSPLATZ": {
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748254500
-                ]
-            },
             "2025-05-28": {
                 "appointmentTimestamps": [
                     1748425200
@@ -5986,7 +5875,6 @@
         "RUPPERTSTRASSE": {
             "2025-05-26": {
                 "appointmentTimestamps": [
-                    1748242500,
                     1748244300,
                     1748252400,
                     1748253000
@@ -5997,12 +5885,12 @@
                     1748332500,
                     1748335500,
                     1748336100,
-                    1748338500,
-                    1748338800,
                     1748339700,
                     1748340900,
                     1748341800,
                     1748342700,
+                    1748347200,
+                    1748347500,
                     1748348100,
                     1748348400,
                     1748350500,
@@ -6323,9 +6211,6 @@
             },
             "2025-07-02": {
                 "appointmentTimestamps": [
-                    1751434200,
-                    1751434500,
-                    1751434800,
                     1751435400,
                     1751435700,
                     1751436900,
@@ -6501,9 +6386,6 @@
                     1748237400,
                     1748238300,
                     1748239200,
-                    1748241900,
-                    1748242200,
-                    1748242500,
                     1748256300
                 ]
             },
@@ -6699,28 +6581,12 @@
     },
     "ELD_KARTE_EU_EWR": {
         "ORLEANSPLATZ": {},
-        "LEONRODSTRASSE": {
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748239200
-                ]
-            }
-        },
+        "LEONRODSTRASSE": {},
         "RIESENFELDSTRASSE": {},
         "FORSTENRIEDER": {},
         "RUPPERTSTRASSE": {
-            "2025-05-26": {
-                "errors": [
-                    {
-                        "errorCode": "appointmentNotAvailable",
-                        "statusCode": 200,
-                        "errorMessage": "Der von Ihnen gew\u00e4hlte Termin ist leider nicht mehr verf\u00fcgbar."
-                    }
-                ]
-            },
             "2025-07-02": {
                 "appointmentTimestamps": [
-                    1751434200,
                     1751436900,
                     1751438700,
                     1751440800,
@@ -6861,13 +6727,7 @@
                 ]
             }
         },
-        "PASING": {
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748241900
-                ]
-            }
-        },
+        "PASING": {},
         "AUSLAENDERBEHOERDE": {}
     },
     "NOTFALL_HILFE_AUFENTHALTSTITEL_BESCHAEFTIGTE_ANGEHOERIGE": {
