@@ -14,11 +14,6 @@
             }
         },
         "RUPPERTSTRASSE": {
-            "2025-06-18": {
-                "appointmentTimestamps": [
-                    1750233000
-                ]
-            },
             "2025-07-02": {
                 "appointmentTimestamps": [
                     1751442300,
@@ -255,11 +250,6 @@
             }
         },
         "RIESENFELDSTRASSE": {
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748253600
-                ]
-            },
             "2025-05-27": {
                 "appointmentTimestamps": [
                     1748329200,
@@ -483,7 +473,6 @@
                 "appointmentTimestamps": [
                     1750231200,
                     1750233000,
-                    1750233300,
                     1750236600
                 ]
             },
@@ -872,11 +861,6 @@
             }
         },
         "RIESENFELDSTRASSE": {
-            "2025-05-26": {
-                "appointmentTimestamps": [
-                    1748253600
-                ]
-            },
             "2025-05-27": {
                 "appointmentTimestamps": [
                     1748329200,
@@ -1100,7 +1084,6 @@
                 "appointmentTimestamps": [
                     1750231200,
                     1750233000,
-                    1750233300,
                     1750236600
                 ]
             },
@@ -1379,11 +1362,6 @@
             }
         },
         "RUPPERTSTRASSE": {
-            "2025-06-18": {
-                "appointmentTimestamps": [
-                    1750233000
-                ]
-            },
             "2025-07-02": {
                 "appointmentTimestamps": [
                     1751442300,
@@ -1510,11 +1488,6 @@
             }
         },
         "RUPPERTSTRASSE": {
-            "2025-06-18": {
-                "appointmentTimestamps": [
-                    1750233000
-                ]
-            },
             "2025-07-02": {
                 "appointmentTimestamps": [
                     1751442300,
@@ -1641,11 +1614,6 @@
             }
         },
         "RUPPERTSTRASSE": {
-            "2025-06-18": {
-                "appointmentTimestamps": [
-                    1750233000
-                ]
-            },
             "2025-07-02": {
                 "appointmentTimestamps": [
                     1751442300,
@@ -1772,11 +1740,6 @@
             }
         },
         "RUPPERTSTRASSE": {
-            "2025-06-18": {
-                "appointmentTimestamps": [
-                    1750233000
-                ]
-            },
             "2025-07-02": {
                 "appointmentTimestamps": [
                     1751442300,
@@ -2238,8 +2201,7 @@
         "RIESENFELDSTRASSE": {
             "2025-05-26": {
                 "appointmentTimestamps": [
-                    1748253600,
-                    1748253900
+                    1748253600
                 ]
             },
             "2025-05-27": {
@@ -2763,7 +2725,6 @@
                     1750231500,
                     1750233000,
                     1750233300,
-                    1750233600,
                     1750236600,
                     1750236900,
                     1750237800,
@@ -3249,11 +3210,6 @@
             }
         },
         "RUPPERTSTRASSE": {
-            "2025-06-18": {
-                "appointmentTimestamps": [
-                    1750233000
-                ]
-            },
             "2025-07-02": {
                 "appointmentTimestamps": [
                     1751442300,
@@ -3715,8 +3671,7 @@
         "RIESENFELDSTRASSE": {
             "2025-05-26": {
                 "appointmentTimestamps": [
-                    1748253600,
-                    1748253900
+                    1748253600
                 ]
             },
             "2025-05-27": {
@@ -4240,7 +4195,6 @@
                     1750231500,
                     1750233000,
                     1750233300,
-                    1750233600,
                     1750236600,
                     1750236900,
                     1750237800,
@@ -5148,8 +5102,7 @@
         "RIESENFELDSTRASSE": {
             "2025-05-26": {
                 "appointmentTimestamps": [
-                    1748253600,
-                    1748253900
+                    1748253600
                 ]
             },
             "2025-05-27": {
