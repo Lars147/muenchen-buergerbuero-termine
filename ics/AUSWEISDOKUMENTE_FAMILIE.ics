@@ -4,223 +4,1455 @@ PRODID:-//Appointments Buergerbuero Muenchen//AUSWEISDOKUMENTE_FAMILIE//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T112000
-DTEND;TZID=Europe/Berlin:20250708T113500
-DTSTAMP:20250527T232137Z
-UID:1751966400-PASING
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T092000
+DTEND;TZID=Europe/Berlin:20250603T093500
+DTSTAMP:20250527T234321Z
+UID:1748935200-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T112500
-DTEND;TZID=Europe/Berlin:20250708T114000
-DTSTAMP:20250527T232137Z
-UID:1751966700-PASING
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T092500
+DTEND;TZID=Europe/Berlin:20250603T094000
+DTSTAMP:20250527T234321Z
+UID:1748935500-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T140000
-DTEND;TZID=Europe/Berlin:20250708T141500
-DTSTAMP:20250527T232137Z
-UID:1751976000-PASING
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T103000
+DTEND;TZID=Europe/Berlin:20250603T104500
+DTSTAMP:20250527T234321Z
+UID:1748939400-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T140500
-DTEND;TZID=Europe/Berlin:20250708T142000
-DTSTAMP:20250527T232137Z
-UID:1751976300-PASING
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T103500
+DTEND;TZID=Europe/Berlin:20250603T105000
+DTSTAMP:20250527T234321Z
+UID:1748939700-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T141000
-DTEND;TZID=Europe/Berlin:20250708T142500
-DTSTAMP:20250527T232137Z
-UID:1751976600-PASING
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T104000
+DTEND;TZID=Europe/Berlin:20250603T105500
+DTSTAMP:20250527T234321Z
+UID:1748940000-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T104500
+DTEND;TZID=Europe/Berlin:20250603T110000
+DTSTAMP:20250527T234321Z
+UID:1748940300-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T105000
+DTEND;TZID=Europe/Berlin:20250603T110500
+DTSTAMP:20250527T234321Z
+UID:1748940600-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T105500
+DTEND;TZID=Europe/Berlin:20250603T111000
+DTSTAMP:20250527T234321Z
+UID:1748940900-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T110000
+DTEND;TZID=Europe/Berlin:20250603T111500
+DTSTAMP:20250527T234321Z
+UID:1748941200-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T110500
+DTEND;TZID=Europe/Berlin:20250603T112000
+DTSTAMP:20250527T234321Z
+UID:1748941500-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T111000
+DTEND;TZID=Europe/Berlin:20250603T112500
+DTSTAMP:20250527T234321Z
+UID:1748941800-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T111500
+DTEND;TZID=Europe/Berlin:20250603T113000
+DTSTAMP:20250527T234321Z
+UID:1748942100-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T112000
+DTEND;TZID=Europe/Berlin:20250603T113500
+DTSTAMP:20250527T234321Z
+UID:1748942400-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T112500
+DTEND;TZID=Europe/Berlin:20250603T114000
+DTSTAMP:20250527T234321Z
+UID:1748942700-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T113000
+DTEND;TZID=Europe/Berlin:20250603T114500
+DTSTAMP:20250527T234321Z
+UID:1748943000-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T113500
+DTEND;TZID=Europe/Berlin:20250603T115000
+DTSTAMP:20250527T234321Z
+UID:1748943300-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T114000
+DTEND;TZID=Europe/Berlin:20250603T115500
+DTSTAMP:20250527T234321Z
+UID:1748943600-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T114500
+DTEND;TZID=Europe/Berlin:20250603T120000
+DTSTAMP:20250527T234321Z
+UID:1748943900-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T115000
+DTEND;TZID=Europe/Berlin:20250603T120500
+DTSTAMP:20250527T234321Z
+UID:1748944200-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T115500
+DTEND;TZID=Europe/Berlin:20250603T121000
+DTSTAMP:20250527T234321Z
+UID:1748944500-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T120000
+DTEND;TZID=Europe/Berlin:20250603T121500
+DTSTAMP:20250527T234321Z
+UID:1748944800-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T120500
+DTEND;TZID=Europe/Berlin:20250603T122000
+DTSTAMP:20250527T234321Z
+UID:1748945100-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T121000
+DTEND;TZID=Europe/Berlin:20250603T122500
+DTSTAMP:20250527T234321Z
+UID:1748945400-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T121500
+DTEND;TZID=Europe/Berlin:20250603T123000
+DTSTAMP:20250527T234321Z
+UID:1748945700-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T140000
+DTEND;TZID=Europe/Berlin:20250603T141500
+DTSTAMP:20250527T234322Z
+UID:1748952000-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T140500
+DTEND;TZID=Europe/Berlin:20250603T142000
+DTSTAMP:20250527T234322Z
+UID:1748952300-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T141000
+DTEND;TZID=Europe/Berlin:20250603T142500
+DTSTAMP:20250527T234322Z
+UID:1748952600-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250603T141500
+DTEND;TZID=Europe/Berlin:20250603T143000
+DTSTAMP:20250527T234322Z
+UID:1748952900-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T091500
+DTEND;TZID=Europe/Berlin:20250605T093000
+DTSTAMP:20250527T234322Z
+UID:1749107700-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T092000
+DTEND;TZID=Europe/Berlin:20250605T093500
+DTSTAMP:20250527T234322Z
+UID:1749108000-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T092500
+DTEND;TZID=Europe/Berlin:20250605T094000
+DTSTAMP:20250527T234322Z
+UID:1749108300-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T093000
+DTEND;TZID=Europe/Berlin:20250605T094500
+DTSTAMP:20250527T234322Z
+UID:1749108600-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T093500
+DTEND;TZID=Europe/Berlin:20250605T095000
+DTSTAMP:20250527T234322Z
+UID:1749108900-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T094000
+DTEND;TZID=Europe/Berlin:20250605T095500
+DTSTAMP:20250527T234322Z
+UID:1749109200-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T094500
+DTEND;TZID=Europe/Berlin:20250605T100000
+DTSTAMP:20250527T234322Z
+UID:1749109500-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T095000
+DTEND;TZID=Europe/Berlin:20250605T100500
+DTSTAMP:20250527T234322Z
+UID:1749109800-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T095500
+DTEND;TZID=Europe/Berlin:20250605T101000
+DTSTAMP:20250527T234322Z
+UID:1749110100-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T100000
+DTEND;TZID=Europe/Berlin:20250605T101500
+DTSTAMP:20250527T234322Z
+UID:1749110400-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T100500
+DTEND;TZID=Europe/Berlin:20250605T102000
+DTSTAMP:20250527T234322Z
+UID:1749110700-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T101000
+DTEND;TZID=Europe/Berlin:20250605T102500
+DTSTAMP:20250527T234322Z
+UID:1749111000-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T101500
+DTEND;TZID=Europe/Berlin:20250605T103000
+DTSTAMP:20250527T234322Z
+UID:1749111300-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T102000
+DTEND;TZID=Europe/Berlin:20250605T103500
+DTSTAMP:20250527T234322Z
+UID:1749111600-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T102500
+DTEND;TZID=Europe/Berlin:20250605T104000
+DTSTAMP:20250527T234322Z
+UID:1749111900-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T103000
+DTEND;TZID=Europe/Berlin:20250605T104500
+DTSTAMP:20250527T234322Z
+UID:1749112200-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T103500
+DTEND;TZID=Europe/Berlin:20250605T105000
+DTSTAMP:20250527T234322Z
+UID:1749112500-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T104000
+DTEND;TZID=Europe/Berlin:20250605T105500
+DTSTAMP:20250527T234322Z
+UID:1749112800-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T104500
+DTEND;TZID=Europe/Berlin:20250605T110000
+DTSTAMP:20250527T234322Z
+UID:1749113100-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T105000
+DTEND;TZID=Europe/Berlin:20250605T110500
+DTSTAMP:20250527T234322Z
+UID:1749113400-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T105500
+DTEND;TZID=Europe/Berlin:20250605T111000
+DTSTAMP:20250527T234322Z
+UID:1749113700-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T110000
+DTEND;TZID=Europe/Berlin:20250605T111500
+DTSTAMP:20250527T234322Z
+UID:1749114000-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T110500
+DTEND;TZID=Europe/Berlin:20250605T112000
+DTSTAMP:20250527T234322Z
+UID:1749114300-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T111000
+DTEND;TZID=Europe/Berlin:20250605T112500
+DTSTAMP:20250527T234322Z
+UID:1749114600-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T111500
+DTEND;TZID=Europe/Berlin:20250605T113000
+DTSTAMP:20250527T234322Z
+UID:1749114900-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T112000
+DTEND;TZID=Europe/Berlin:20250605T113500
+DTSTAMP:20250527T234322Z
+UID:1749115200-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T112500
+DTEND;TZID=Europe/Berlin:20250605T114000
+DTSTAMP:20250527T234322Z
+UID:1749115500-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T113000
+DTEND;TZID=Europe/Berlin:20250605T114500
+DTSTAMP:20250527T234322Z
+UID:1749115800-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T113500
+DTEND;TZID=Europe/Berlin:20250605T115000
+DTSTAMP:20250527T234322Z
+UID:1749116100-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T114000
+DTEND;TZID=Europe/Berlin:20250605T115500
+DTSTAMP:20250527T234322Z
+UID:1749116400-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T114500
+DTEND;TZID=Europe/Berlin:20250605T120000
+DTSTAMP:20250527T234322Z
+UID:1749116700-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T115000
+DTEND;TZID=Europe/Berlin:20250605T120500
+DTSTAMP:20250527T234322Z
+UID:1749117000-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T115500
+DTEND;TZID=Europe/Berlin:20250605T121000
+DTSTAMP:20250527T234322Z
+UID:1749117300-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T120000
+DTEND;TZID=Europe/Berlin:20250605T121500
+DTSTAMP:20250527T234322Z
+UID:1749117600-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T120500
+DTEND;TZID=Europe/Berlin:20250605T122000
+DTSTAMP:20250527T234322Z
+UID:1749117900-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T121000
+DTEND;TZID=Europe/Berlin:20250605T122500
+DTSTAMP:20250527T234322Z
+UID:1749118200-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T121500
+DTEND;TZID=Europe/Berlin:20250605T123000
+DTSTAMP:20250527T234322Z
+UID:1749118500-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T140000
+DTEND;TZID=Europe/Berlin:20250605T141500
+DTSTAMP:20250527T234322Z
+UID:1749124800-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T140500
+DTEND;TZID=Europe/Berlin:20250605T142000
+DTSTAMP:20250527T234322Z
+UID:1749125100-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T141000
+DTEND;TZID=Europe/Berlin:20250605T142500
+DTSTAMP:20250527T234322Z
+UID:1749125400-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T141500
+DTEND;TZID=Europe/Berlin:20250605T143000
+DTSTAMP:20250527T234322Z
+UID:1749125700-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T142000
+DTEND;TZID=Europe/Berlin:20250605T143500
+DTSTAMP:20250527T234322Z
+UID:1749126000-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T142500
+DTEND;TZID=Europe/Berlin:20250605T144000
+DTSTAMP:20250527T234322Z
+UID:1749126300-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T143000
+DTEND;TZID=Europe/Berlin:20250605T144500
+DTSTAMP:20250527T234322Z
+UID:1749126600-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T143500
+DTEND;TZID=Europe/Berlin:20250605T145000
+DTSTAMP:20250527T234322Z
+UID:1749126900-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T144000
+DTEND;TZID=Europe/Berlin:20250605T145500
+DTSTAMP:20250527T234322Z
+UID:1749127200-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T144500
+DTEND;TZID=Europe/Berlin:20250605T150000
+DTSTAMP:20250527T234322Z
+UID:1749127500-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T145000
+DTEND;TZID=Europe/Berlin:20250605T150500
+DTSTAMP:20250527T234322Z
+UID:1749127800-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T145500
+DTEND;TZID=Europe/Berlin:20250605T151000
+DTSTAMP:20250527T234322Z
+UID:1749128100-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T150000
+DTEND;TZID=Europe/Berlin:20250605T151500
+DTSTAMP:20250527T234322Z
+UID:1749128400-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T150500
+DTEND;TZID=Europe/Berlin:20250605T152000
+DTSTAMP:20250527T234322Z
+UID:1749128700-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T151000
+DTEND;TZID=Europe/Berlin:20250605T152500
+DTSTAMP:20250527T234322Z
+UID:1749129000-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T151500
+DTEND;TZID=Europe/Berlin:20250605T153000
+DTSTAMP:20250527T234322Z
+UID:1749129300-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250605T152000
+DTEND;TZID=Europe/Berlin:20250605T153500
+DTSTAMP:20250527T234322Z
+UID:1749129600-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T073000
+DTEND;TZID=Europe/Berlin:20250606T074500
+DTSTAMP:20250527T234322Z
+UID:1749187800-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T073500
+DTEND;TZID=Europe/Berlin:20250606T075000
+DTSTAMP:20250527T234322Z
+UID:1749188100-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T074000
+DTEND;TZID=Europe/Berlin:20250606T075500
+DTSTAMP:20250527T234322Z
+UID:1749188400-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T074500
+DTEND;TZID=Europe/Berlin:20250606T080000
+DTSTAMP:20250527T234322Z
+UID:1749188700-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T075000
+DTEND;TZID=Europe/Berlin:20250606T080500
+DTSTAMP:20250527T234322Z
+UID:1749189000-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T075500
+DTEND;TZID=Europe/Berlin:20250606T081000
+DTSTAMP:20250527T234322Z
+UID:1749189300-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T080000
+DTEND;TZID=Europe/Berlin:20250606T081500
+DTSTAMP:20250527T234322Z
+UID:1749189600-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T080500
+DTEND;TZID=Europe/Berlin:20250606T082000
+DTSTAMP:20250527T234322Z
+UID:1749189900-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T081000
+DTEND;TZID=Europe/Berlin:20250606T082500
+DTSTAMP:20250527T234322Z
+UID:1749190200-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T081500
+DTEND;TZID=Europe/Berlin:20250606T083000
+DTSTAMP:20250527T234322Z
+UID:1749190500-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T082000
+DTEND;TZID=Europe/Berlin:20250606T083500
+DTSTAMP:20250527T234322Z
+UID:1749190800-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T082500
+DTEND;TZID=Europe/Berlin:20250606T084000
+DTSTAMP:20250527T234322Z
+UID:1749191100-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T083000
+DTEND;TZID=Europe/Berlin:20250606T084500
+DTSTAMP:20250527T234322Z
+UID:1749191400-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T083500
+DTEND;TZID=Europe/Berlin:20250606T085000
+DTSTAMP:20250527T234322Z
+UID:1749191700-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T084000
+DTEND;TZID=Europe/Berlin:20250606T085500
+DTSTAMP:20250527T234322Z
+UID:1749192000-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T084500
+DTEND;TZID=Europe/Berlin:20250606T090000
+DTSTAMP:20250527T234322Z
+UID:1749192300-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T085000
+DTEND;TZID=Europe/Berlin:20250606T090500
+DTSTAMP:20250527T234322Z
+UID:1749192600-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T085500
+DTEND;TZID=Europe/Berlin:20250606T091000
+DTSTAMP:20250527T234322Z
+UID:1749192900-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T090000
+DTEND;TZID=Europe/Berlin:20250606T091500
+DTSTAMP:20250527T234322Z
+UID:1749193200-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T090500
+DTEND;TZID=Europe/Berlin:20250606T092000
+DTSTAMP:20250527T234322Z
+UID:1749193500-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T091000
+DTEND;TZID=Europe/Berlin:20250606T092500
+DTSTAMP:20250527T234322Z
+UID:1749193800-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T091500
+DTEND;TZID=Europe/Berlin:20250606T093000
+DTSTAMP:20250527T234322Z
+UID:1749194100-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T092000
+DTEND;TZID=Europe/Berlin:20250606T093500
+DTSTAMP:20250527T234322Z
+UID:1749194400-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250606T092500
+DTEND;TZID=Europe/Berlin:20250606T094000
+DTSTAMP:20250527T234322Z
+UID:1749194700-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250708T101500
+DTEND;TZID=Europe/Berlin:20250708T103000
+DTSTAMP:20250527T234322Z
+UID:1751962500-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250708T102000
+DTEND;TZID=Europe/Berlin:20250708T103500
+DTSTAMP:20250527T234322Z
+UID:1751962800-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250708T102500
+DTEND;TZID=Europe/Berlin:20250708T104000
+DTSTAMP:20250527T234322Z
+UID:1751963100-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250708T103000
+DTEND;TZID=Europe/Berlin:20250708T104500
+DTSTAMP:20250527T234322Z
+UID:1751963400-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250708T103500
+DTEND;TZID=Europe/Berlin:20250708T105000
+DTSTAMP:20250527T234322Z
+UID:1751963700-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250708T104000
+DTEND;TZID=Europe/Berlin:20250708T105500
+DTSTAMP:20250527T234322Z
+UID:1751964000-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250708T104500
+DTEND;TZID=Europe/Berlin:20250708T110000
+DTSTAMP:20250527T234322Z
+UID:1751964300-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250708T105000
+DTEND;TZID=Europe/Berlin:20250708T110500
+DTSTAMP:20250527T234322Z
+UID:1751964600-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
+DTSTART;TZID=Europe/Berlin:20250708T105500
+DTEND;TZID=Europe/Berlin:20250708T111000
+DTSTAMP:20250527T234322Z
+UID:1751964900-FORSTENRIEDER
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250708T141500
 DTEND;TZID=Europe/Berlin:20250708T143000
-DTSTAMP:20250527T232137Z
-UID:1751976900-PASING
+DTSTAMP:20250527T234322Z
+UID:1751976900-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250708T142000
 DTEND;TZID=Europe/Berlin:20250708T143500
-DTSTAMP:20250527T232137Z
-UID:1751977200-PASING
+DTSTAMP:20250527T234322Z
+UID:1751977200-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250708T142500
 DTEND;TZID=Europe/Berlin:20250708T144000
-DTSTAMP:20250527T232137Z
-UID:1751977500-PASING
+DTSTAMP:20250527T234322Z
+UID:1751977500-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250708T143000
 DTEND;TZID=Europe/Berlin:20250708T144500
-DTSTAMP:20250527T232137Z
-UID:1751977800-PASING
+DTSTAMP:20250527T234322Z
+UID:1751977800-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - FORSTENRIEDER
 DTSTART;TZID=Europe/Berlin:20250708T143500
 DTEND;TZID=Europe/Berlin:20250708T145000
-DTSTAMP:20250527T232137Z
-UID:1751978100-PASING
+DTSTAMP:20250527T234322Z
+UID:1751978100-FORSTENRIEDER
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Forstenrieder Allee 61a\, 81476 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
+DTSTART;TZID=Europe/Berlin:20250605T091500
+DTEND;TZID=Europe/Berlin:20250605T093000
+DTSTAMP:20250527T234322Z
+UID:1749107700-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T144000
-DTEND;TZID=Europe/Berlin:20250708T145500
-DTSTAMP:20250527T232137Z
-UID:1751978400-PASING
+DTSTART;TZID=Europe/Berlin:20250605T092000
+DTEND;TZID=Europe/Berlin:20250605T093500
+DTSTAMP:20250527T234322Z
+UID:1749108000-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T144500
-DTEND;TZID=Europe/Berlin:20250708T150000
-DTSTAMP:20250527T232137Z
-UID:1751978700-PASING
+DTSTART;TZID=Europe/Berlin:20250605T092500
+DTEND;TZID=Europe/Berlin:20250605T094000
+DTSTAMP:20250527T234322Z
+UID:1749108300-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T145000
-DTEND;TZID=Europe/Berlin:20250708T150500
-DTSTAMP:20250527T232137Z
-UID:1751979000-PASING
+DTSTART;TZID=Europe/Berlin:20250605T101500
+DTEND;TZID=Europe/Berlin:20250605T103000
+DTSTAMP:20250527T234322Z
+UID:1749111300-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T145500
-DTEND;TZID=Europe/Berlin:20250708T151000
-DTSTAMP:20250527T232137Z
-UID:1751979300-PASING
+DTSTART;TZID=Europe/Berlin:20250605T102000
+DTEND;TZID=Europe/Berlin:20250605T103500
+DTSTAMP:20250527T234322Z
+UID:1749111600-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T150000
-DTEND;TZID=Europe/Berlin:20250708T151500
-DTSTAMP:20250527T232137Z
-UID:1751979600-PASING
+DTSTART;TZID=Europe/Berlin:20250605T102500
+DTEND;TZID=Europe/Berlin:20250605T104000
+DTSTAMP:20250527T234322Z
+UID:1749111900-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T150500
-DTEND;TZID=Europe/Berlin:20250708T152000
-DTSTAMP:20250527T232137Z
-UID:1751979900-PASING
+DTSTART;TZID=Europe/Berlin:20250605T112500
+DTEND;TZID=Europe/Berlin:20250605T114000
+DTSTAMP:20250527T234322Z
+UID:1749115500-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T151000
-DTEND;TZID=Europe/Berlin:20250708T152500
-DTSTAMP:20250527T232137Z
-UID:1751980200-PASING
+DTSTART;TZID=Europe/Berlin:20250605T113000
+DTEND;TZID=Europe/Berlin:20250605T114500
+DTSTAMP:20250527T234322Z
+UID:1749115800-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T151500
-DTEND;TZID=Europe/Berlin:20250708T153000
-DTSTAMP:20250527T232137Z
-UID:1751980500-PASING
+DTSTART;TZID=Europe/Berlin:20250605T113500
+DTEND;TZID=Europe/Berlin:20250605T115000
+DTSTAMP:20250527T234322Z
+UID:1749116100-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T152000
-DTEND;TZID=Europe/Berlin:20250708T153500
-DTSTAMP:20250527T232137Z
-UID:1751980800-PASING
+DTSTART;TZID=Europe/Berlin:20250605T114000
+DTEND;TZID=Europe/Berlin:20250605T115500
+DTSTAMP:20250527T234322Z
+UID:1749116400-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
-DTSTART;TZID=Europe/Berlin:20250708T152500
-DTEND;TZID=Europe/Berlin:20250708T154000
-DTSTAMP:20250527T232137Z
-UID:1751981100-PASING
+DTSTART;TZID=Europe/Berlin:20250605T143500
+DTEND;TZID=Europe/Berlin:20250605T145000
+DTSTAMP:20250527T234322Z
+UID:1749126900-PASING
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
  vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
- 21:37 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Landsberger Str. 486\, 81241 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSWEISDOKUMENTE_FAMILIE - PASING
+DTSTART;TZID=Europe/Berlin:20250605T144000
+DTEND;TZID=Europe/Berlin:20250605T145500
+DTSTAMP:20250527T234322Z
+UID:1749127200-PASING
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/10225205/\n\nZuletzt abgerufen: 28.05.2025 01:
+ 43:21 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
 LOCATION:Landsberger Str. 486\, 81241 München
 END:VEVENT
 END:VCALENDAR
