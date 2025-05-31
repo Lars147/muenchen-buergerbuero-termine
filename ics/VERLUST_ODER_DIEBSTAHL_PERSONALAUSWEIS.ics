@@ -5,1312 +5,388 @@ PRODID:-//Appointments Buergerbuero Muenchen//VERLUST_ODER_DIEBSTAHL_PERSO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T084500
 DTEND;TZID=Europe/Berlin:20250603T090000
-DTSTAMP:20250531T232554Z
-UID:1748933100-PASING
+DTSTAMP:20250531T235427Z
+UID:1748933100-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T091500
-DTEND;TZID=Europe/Berlin:20250603T093000
-DTSTAMP:20250531T232554Z
-UID:1748934900-PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T095000
+DTEND;TZID=Europe/Berlin:20250603T100500
+DTSTAMP:20250531T235427Z
+UID:1748937000-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T093500
-DTEND;TZID=Europe/Berlin:20250603T095000
-DTSTAMP:20250531T232554Z
-UID:1748936100-PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T095500
+DTEND;TZID=Europe/Berlin:20250603T101000
+DTSTAMP:20250531T235427Z
+UID:1748937300-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T094000
-DTEND;TZID=Europe/Berlin:20250603T095500
-DTSTAMP:20250531T232554Z
-UID:1748936400-PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T100000
+DTEND;TZID=Europe/Berlin:20250603T101500
+DTSTAMP:20250531T235427Z
+UID:1748937600-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T094500
-DTEND;TZID=Europe/Berlin:20250603T100000
-DTSTAMP:20250531T232554Z
-UID:1748936700-PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T100500
+DTEND;TZID=Europe/Berlin:20250603T102000
+DTSTAMP:20250531T235427Z
+UID:1748937900-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T101000
+DTEND;TZID=Europe/Berlin:20250603T102500
+DTSTAMP:20250531T235427Z
+UID:1748938200-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T101500
 DTEND;TZID=Europe/Berlin:20250603T103000
-DTSTAMP:20250531T232554Z
-UID:1748938500-PASING
+DTSTAMP:20250531T235427Z
+UID:1748938500-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T102000
+DTEND;TZID=Europe/Berlin:20250603T103500
+DTSTAMP:20250531T235427Z
+UID:1748938800-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T102500
+DTEND;TZID=Europe/Berlin:20250603T104000
+DTSTAMP:20250531T235427Z
+UID:1748939100-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T103000
+DTEND;TZID=Europe/Berlin:20250603T104500
+DTSTAMP:20250531T235427Z
+UID:1748939400-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T103500
+DTEND;TZID=Europe/Berlin:20250603T105000
+DTSTAMP:20250531T235427Z
+UID:1748939700-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T104000
+DTEND;TZID=Europe/Berlin:20250603T105500
+DTSTAMP:20250531T235427Z
+UID:1748940000-RIESENFELDSTRASSE
+DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T104500
 DTEND;TZID=Europe/Berlin:20250603T110000
-DTSTAMP:20250531T232554Z
-UID:1748940300-PASING
+DTSTAMP:20250531T235427Z
+UID:1748940300-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T111500
-DTEND;TZID=Europe/Berlin:20250603T113000
-DTSTAMP:20250531T232554Z
-UID:1748942100-PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T105000
+DTEND;TZID=Europe/Berlin:20250603T110500
+DTSTAMP:20250531T235427Z
+UID:1748940600-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T112000
-DTEND;TZID=Europe/Berlin:20250603T113500
-DTSTAMP:20250531T232554Z
-UID:1748942400-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T112500
-DTEND;TZID=Europe/Berlin:20250603T114000
-DTSTAMP:20250531T232554Z
-UID:1748942700-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T113000
-DTEND;TZID=Europe/Berlin:20250603T114500
-DTSTAMP:20250531T232554Z
-UID:1748943000-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T113500
 DTEND;TZID=Europe/Berlin:20250603T115000
-DTSTAMP:20250531T232554Z
-UID:1748943300-PASING
+DTSTAMP:20250531T235427Z
+UID:1748943300-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T114000
 DTEND;TZID=Europe/Berlin:20250603T115500
-DTSTAMP:20250531T232554Z
-UID:1748943600-PASING
+DTSTAMP:20250531T235427Z
+UID:1748943600-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T114500
 DTEND;TZID=Europe/Berlin:20250603T120000
-DTSTAMP:20250531T232554Z
-UID:1748943900-PASING
+DTSTAMP:20250531T235427Z
+UID:1748943900-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T115000
 DTEND;TZID=Europe/Berlin:20250603T120500
-DTSTAMP:20250531T232554Z
-UID:1748944200-PASING
+DTSTAMP:20250531T235427Z
+UID:1748944200-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T115500
 DTEND;TZID=Europe/Berlin:20250603T121000
-DTSTAMP:20250531T232554Z
-UID:1748944500-PASING
+DTSTAMP:20250531T235427Z
+UID:1748944500-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T120000
 DTEND;TZID=Europe/Berlin:20250603T121500
-DTSTAMP:20250531T232554Z
-UID:1748944800-PASING
+DTSTAMP:20250531T235427Z
+UID:1748944800-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T120500
 DTEND;TZID=Europe/Berlin:20250603T122000
-DTSTAMP:20250531T232554Z
-UID:1748945100-PASING
+DTSTAMP:20250531T235427Z
+UID:1748945100-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T121000
 DTEND;TZID=Europe/Berlin:20250603T122500
-DTSTAMP:20250531T232554Z
-UID:1748945400-PASING
+DTSTAMP:20250531T235427Z
+UID:1748945400-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T121500
 DTEND;TZID=Europe/Berlin:20250603T123000
-DTSTAMP:20250531T232555Z
-UID:1748945700-PASING
+DTSTAMP:20250531T235427Z
+UID:1748945700-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T122000
 DTEND;TZID=Europe/Berlin:20250603T123500
-DTSTAMP:20250531T232555Z
-UID:1748946000-PASING
+DTSTAMP:20250531T235427Z
+UID:1748946000-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T122500
 DTEND;TZID=Europe/Berlin:20250603T124000
-DTSTAMP:20250531T232555Z
-UID:1748946300-PASING
+DTSTAMP:20250531T235427Z
+UID:1748946300-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T123000
 DTEND;TZID=Europe/Berlin:20250603T124500
-DTSTAMP:20250531T232555Z
-UID:1748946600-PASING
+DTSTAMP:20250531T235427Z
+UID:1748946600-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T123500
 DTEND;TZID=Europe/Berlin:20250603T125000
-DTSTAMP:20250531T232555Z
-UID:1748946900-PASING
+DTSTAMP:20250531T235427Z
+UID:1748946900-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T140000
-DTEND;TZID=Europe/Berlin:20250603T141500
-DTSTAMP:20250531T232555Z
-UID:1748952000-PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T143000
+DTEND;TZID=Europe/Berlin:20250603T144500
+DTSTAMP:20250531T235427Z
+UID:1748953800-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T140500
-DTEND;TZID=Europe/Berlin:20250603T142000
-DTSTAMP:20250531T232555Z
-UID:1748952300-PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T143500
+DTEND;TZID=Europe/Berlin:20250603T145000
+DTSTAMP:20250531T235427Z
+UID:1748954100-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T141000
-DTEND;TZID=Europe/Berlin:20250603T142500
-DTSTAMP:20250531T232555Z
-UID:1748952600-PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T144000
+DTEND;TZID=Europe/Berlin:20250603T145500
+DTSTAMP:20250531T235427Z
+UID:1748954400-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T141500
-DTEND;TZID=Europe/Berlin:20250603T143000
-DTSTAMP:20250531T232555Z
-UID:1748952900-PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T144500
+DTEND;TZID=Europe/Berlin:20250603T150000
+DTSTAMP:20250531T235427Z
+UID:1748954700-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T145000
 DTEND;TZID=Europe/Berlin:20250603T150500
-DTSTAMP:20250531T232555Z
-UID:1748955000-PASING
+DTSTAMP:20250531T235427Z
+UID:1748955000-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
 DTSTART;TZID=Europe/Berlin:20250603T145500
 DTEND;TZID=Europe/Berlin:20250603T151000
-DTSTAMP:20250531T232555Z
-UID:1748955300-PASING
+DTSTAMP:20250531T235427Z
+UID:1748955300-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T153000
-DTEND;TZID=Europe/Berlin:20250603T154500
-DTSTAMP:20250531T232555Z
-UID:1748957400-PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T150000
+DTEND;TZID=Europe/Berlin:20250603T151500
+DTSTAMP:20250531T235427Z
+UID:1748955600-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T153500
-DTEND;TZID=Europe/Berlin:20250603T155000
-DTSTAMP:20250531T232555Z
-UID:1748957700-PASING
+SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - RIESENFELDSTRASSE
+DTSTART;TZID=Europe/Berlin:20250603T150500
+DTEND;TZID=Europe/Berlin:20250603T152000
+DTSTAMP:20250531T235427Z
+UID:1748955900-RIESENFELDSTRASSE
 DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T154000
-DTEND;TZID=Europe/Berlin:20250603T155500
-DTSTAMP:20250531T232555Z
-UID:1748958000-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T154500
-DTEND;TZID=Europe/Berlin:20250603T160000
-DTSTAMP:20250531T232555Z
-UID:1748958300-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T155000
-DTEND;TZID=Europe/Berlin:20250603T160500
-DTSTAMP:20250531T232555Z
-UID:1748958600-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T155500
-DTEND;TZID=Europe/Berlin:20250603T161000
-DTSTAMP:20250531T232555Z
-UID:1748958900-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250603T160000
-DTEND;TZID=Europe/Berlin:20250603T161500
-DTSTAMP:20250531T232555Z
-UID:1748959200-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T083000
-DTEND;TZID=Europe/Berlin:20250605T084500
-DTSTAMP:20250531T232555Z
-UID:1749105000-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T083500
-DTEND;TZID=Europe/Berlin:20250605T085000
-DTSTAMP:20250531T232555Z
-UID:1749105300-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T084000
-DTEND;TZID=Europe/Berlin:20250605T085500
-DTSTAMP:20250531T232555Z
-UID:1749105600-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T084500
-DTEND;TZID=Europe/Berlin:20250605T090000
-DTSTAMP:20250531T232555Z
-UID:1749105900-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T085000
-DTEND;TZID=Europe/Berlin:20250605T090500
-DTSTAMP:20250531T232555Z
-UID:1749106200-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T085500
-DTEND;TZID=Europe/Berlin:20250605T091000
-DTSTAMP:20250531T232555Z
-UID:1749106500-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T090000
-DTEND;TZID=Europe/Berlin:20250605T091500
-DTSTAMP:20250531T232555Z
-UID:1749106800-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T090500
-DTEND;TZID=Europe/Berlin:20250605T092000
-DTSTAMP:20250531T232555Z
-UID:1749107100-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T091000
-DTEND;TZID=Europe/Berlin:20250605T092500
-DTSTAMP:20250531T232555Z
-UID:1749107400-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T091500
-DTEND;TZID=Europe/Berlin:20250605T093000
-DTSTAMP:20250531T232555Z
-UID:1749107700-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T092000
-DTEND;TZID=Europe/Berlin:20250605T093500
-DTSTAMP:20250531T232555Z
-UID:1749108000-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T092500
-DTEND;TZID=Europe/Berlin:20250605T094000
-DTSTAMP:20250531T232555Z
-UID:1749108300-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T093000
-DTEND;TZID=Europe/Berlin:20250605T094500
-DTSTAMP:20250531T232555Z
-UID:1749108600-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T093500
-DTEND;TZID=Europe/Berlin:20250605T095000
-DTSTAMP:20250531T232555Z
-UID:1749108900-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T094000
-DTEND;TZID=Europe/Berlin:20250605T095500
-DTSTAMP:20250531T232555Z
-UID:1749109200-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T094500
-DTEND;TZID=Europe/Berlin:20250605T100000
-DTSTAMP:20250531T232555Z
-UID:1749109500-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T095000
-DTEND;TZID=Europe/Berlin:20250605T100500
-DTSTAMP:20250531T232555Z
-UID:1749109800-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T095500
-DTEND;TZID=Europe/Berlin:20250605T101000
-DTSTAMP:20250531T232555Z
-UID:1749110100-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T100000
-DTEND;TZID=Europe/Berlin:20250605T101500
-DTSTAMP:20250531T232555Z
-UID:1749110400-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T100500
-DTEND;TZID=Europe/Berlin:20250605T102000
-DTSTAMP:20250531T232555Z
-UID:1749110700-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T101000
-DTEND;TZID=Europe/Berlin:20250605T102500
-DTSTAMP:20250531T232555Z
-UID:1749111000-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T101500
-DTEND;TZID=Europe/Berlin:20250605T103000
-DTSTAMP:20250531T232555Z
-UID:1749111300-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T102000
-DTEND;TZID=Europe/Berlin:20250605T103500
-DTSTAMP:20250531T232555Z
-UID:1749111600-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T102500
-DTEND;TZID=Europe/Berlin:20250605T104000
-DTSTAMP:20250531T232555Z
-UID:1749111900-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T103000
-DTEND;TZID=Europe/Berlin:20250605T104500
-DTSTAMP:20250531T232555Z
-UID:1749112200-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T103500
-DTEND;TZID=Europe/Berlin:20250605T105000
-DTSTAMP:20250531T232555Z
-UID:1749112500-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T104000
-DTEND;TZID=Europe/Berlin:20250605T105500
-DTSTAMP:20250531T232555Z
-UID:1749112800-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T104500
-DTEND;TZID=Europe/Berlin:20250605T110000
-DTSTAMP:20250531T232555Z
-UID:1749113100-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T105000
-DTEND;TZID=Europe/Berlin:20250605T110500
-DTSTAMP:20250531T232555Z
-UID:1749113400-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T105500
-DTEND;TZID=Europe/Berlin:20250605T111000
-DTSTAMP:20250531T232555Z
-UID:1749113700-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T110000
-DTEND;TZID=Europe/Berlin:20250605T111500
-DTSTAMP:20250531T232555Z
-UID:1749114000-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T110500
-DTEND;TZID=Europe/Berlin:20250605T112000
-DTSTAMP:20250531T232555Z
-UID:1749114300-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T111000
-DTEND;TZID=Europe/Berlin:20250605T112500
-DTSTAMP:20250531T232555Z
-UID:1749114600-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T111500
-DTEND;TZID=Europe/Berlin:20250605T113000
-DTSTAMP:20250531T232555Z
-UID:1749114900-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T112000
-DTEND;TZID=Europe/Berlin:20250605T113500
-DTSTAMP:20250531T232555Z
-UID:1749115200-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T112500
-DTEND;TZID=Europe/Berlin:20250605T114000
-DTSTAMP:20250531T232555Z
-UID:1749115500-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T113000
-DTEND;TZID=Europe/Berlin:20250605T114500
-DTSTAMP:20250531T232555Z
-UID:1749115800-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T113500
-DTEND;TZID=Europe/Berlin:20250605T115000
-DTSTAMP:20250531T232555Z
-UID:1749116100-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T114000
-DTEND;TZID=Europe/Berlin:20250605T115500
-DTSTAMP:20250531T232555Z
-UID:1749116400-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T114500
-DTEND;TZID=Europe/Berlin:20250605T120000
-DTSTAMP:20250531T232555Z
-UID:1749116700-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T115000
-DTEND;TZID=Europe/Berlin:20250605T120500
-DTSTAMP:20250531T232555Z
-UID:1749117000-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T115500
-DTEND;TZID=Europe/Berlin:20250605T121000
-DTSTAMP:20250531T232555Z
-UID:1749117300-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T120000
-DTEND;TZID=Europe/Berlin:20250605T121500
-DTSTAMP:20250531T232555Z
-UID:1749117600-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T120500
-DTEND;TZID=Europe/Berlin:20250605T122000
-DTSTAMP:20250531T232555Z
-UID:1749117900-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T121000
-DTEND;TZID=Europe/Berlin:20250605T122500
-DTSTAMP:20250531T232555Z
-UID:1749118200-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T121500
-DTEND;TZID=Europe/Berlin:20250605T123000
-DTSTAMP:20250531T232555Z
-UID:1749118500-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T122000
-DTEND;TZID=Europe/Berlin:20250605T123500
-DTSTAMP:20250531T232555Z
-UID:1749118800-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T122500
-DTEND;TZID=Europe/Berlin:20250605T124000
-DTSTAMP:20250531T232555Z
-UID:1749119100-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T123000
-DTEND;TZID=Europe/Berlin:20250605T124500
-DTSTAMP:20250531T232555Z
-UID:1749119400-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T123500
-DTEND;TZID=Europe/Berlin:20250605T125000
-DTSTAMP:20250531T232555Z
-UID:1749119700-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T140000
-DTEND;TZID=Europe/Berlin:20250605T141500
-DTSTAMP:20250531T232555Z
-UID:1749124800-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T140500
-DTEND;TZID=Europe/Berlin:20250605T142000
-DTSTAMP:20250531T232555Z
-UID:1749125100-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T141000
-DTEND;TZID=Europe/Berlin:20250605T142500
-DTSTAMP:20250531T232555Z
-UID:1749125400-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T141500
-DTEND;TZID=Europe/Berlin:20250605T143000
-DTSTAMP:20250531T232555Z
-UID:1749125700-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T142000
-DTEND;TZID=Europe/Berlin:20250605T143500
-DTSTAMP:20250531T232555Z
-UID:1749126000-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T142500
-DTEND;TZID=Europe/Berlin:20250605T144000
-DTSTAMP:20250531T232555Z
-UID:1749126300-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T143000
-DTEND;TZID=Europe/Berlin:20250605T144500
-DTSTAMP:20250531T232555Z
-UID:1749126600-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T143500
-DTEND;TZID=Europe/Berlin:20250605T145000
-DTSTAMP:20250531T232555Z
-UID:1749126900-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T144000
-DTEND;TZID=Europe/Berlin:20250605T145500
-DTSTAMP:20250531T232555Z
-UID:1749127200-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T144500
-DTEND;TZID=Europe/Berlin:20250605T150000
-DTSTAMP:20250531T232555Z
-UID:1749127500-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T145000
-DTEND;TZID=Europe/Berlin:20250605T150500
-DTSTAMP:20250531T232555Z
-UID:1749127800-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T145500
-DTEND;TZID=Europe/Berlin:20250605T151000
-DTSTAMP:20250531T232555Z
-UID:1749128100-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T150000
-DTEND;TZID=Europe/Berlin:20250605T151500
-DTSTAMP:20250531T232555Z
-UID:1749128400-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T150500
-DTEND;TZID=Europe/Berlin:20250605T152000
-DTSTAMP:20250531T232555Z
-UID:1749128700-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T151000
-DTEND;TZID=Europe/Berlin:20250605T152500
-DTSTAMP:20250531T232555Z
-UID:1749129000-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T151500
-DTEND;TZID=Europe/Berlin:20250605T153000
-DTSTAMP:20250531T232555Z
-UID:1749129300-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T152000
-DTEND;TZID=Europe/Berlin:20250605T153500
-DTSTAMP:20250531T232555Z
-UID:1749129600-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T152500
-DTEND;TZID=Europe/Berlin:20250605T154000
-DTSTAMP:20250531T232555Z
-UID:1749129900-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T153000
-DTEND;TZID=Europe/Berlin:20250605T154500
-DTSTAMP:20250531T232555Z
-UID:1749130200-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T153500
-DTEND;TZID=Europe/Berlin:20250605T155000
-DTSTAMP:20250531T232555Z
-UID:1749130500-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T154000
-DTEND;TZID=Europe/Berlin:20250605T155500
-DTSTAMP:20250531T232555Z
-UID:1749130800-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T154500
-DTEND;TZID=Europe/Berlin:20250605T160000
-DTSTAMP:20250531T232555Z
-UID:1749131100-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T155000
-DTEND;TZID=Europe/Berlin:20250605T160500
-DTSTAMP:20250531T232555Z
-UID:1749131400-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T155500
-DTEND;TZID=Europe/Berlin:20250605T161000
-DTSTAMP:20250531T232555Z
-UID:1749131700-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T160000
-DTEND;TZID=Europe/Berlin:20250605T161500
-DTSTAMP:20250531T232555Z
-UID:1749132000-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T160500
-DTEND;TZID=Europe/Berlin:20250605T162000
-DTSTAMP:20250531T232555Z
-UID:1749132300-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T161000
-DTEND;TZID=Europe/Berlin:20250605T162500
-DTSTAMP:20250531T232555Z
-UID:1749132600-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T161500
-DTEND;TZID=Europe/Berlin:20250605T163000
-DTSTAMP:20250531T232555Z
-UID:1749132900-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T162000
-DTEND;TZID=Europe/Berlin:20250605T163500
-DTSTAMP:20250531T232555Z
-UID:1749133200-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250605T162500
-DTEND;TZID=Europe/Berlin:20250605T164000
-DTSTAMP:20250531T232555Z
-UID:1749133500-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250711T112000
-DTEND;TZID=Europe/Berlin:20250711T113500
-DTSTAMP:20250531T232555Z
-UID:1752225600-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERLUST_ODER_DIEBSTAHL_PERSONALAUSWEIS - PASING
-DTSTART;TZID=Europe/Berlin:20250711T112500
-DTEND;TZID=Europe/Berlin:20250711T114000
-DTSTAMP:20250531T232555Z
-UID:1752225900-PASING
-DESCRIPTION:Termin buchen: https://stadt.muenchen.de/buergerservice/termin
- vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:2
- 5:54 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
-LOCATION:Landsberger Str. 486\, 81241 München
+ vereinbarung.html#/services/1076889/\n\nZuletzt abgerufen: 01.06.2025 01:5
+ 4:27 CEST (+0200)\nZuletzt geupdated (muenchen.de): N/A
+LOCATION:Riesenfeldstraße 75\, 80809 München
 END:VEVENT
 END:VCALENDAR
