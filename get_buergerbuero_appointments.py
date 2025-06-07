@@ -9,22 +9,25 @@ from functools import wraps
 from constants import Office, Services
 
 
-def retry_on_error(max_retries: int = 3, retry_delay: float = 1.0):
+def retry_on_error(max_retries: int = 3, retry_delay: float = 1.0, max_delay: float = 60.0):
     def decorator(func):
         @wraps(func)
         def wrapper(*args, **kwargs):
+            delay = retry_delay
             for attempt in range(max_retries):
                 try:
                     return func(*args, **kwargs)
                 except (ConnectionError, Timeout):
                     if attempt == max_retries - 1:
                         raise
-                    time.sleep(retry_delay)
+                    time.sleep(delay)
+                    delay = min(delay * 2, max_delay)
                 except JSONDecodeError as e:
                     print(f"Failed to decode JSON response. Response text: {e.doc}")
                     if attempt == max_retries - 1:
                         raise
-                    time.sleep(retry_delay)
+                    time.sleep(delay)
+                    delay = min(delay * 2, max_delay)
             return None  # Should never reach here due to raise in last attempt
         return wrapper
     return decorator
