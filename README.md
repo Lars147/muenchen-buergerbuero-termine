@@ -1,3 +1,13 @@
+# ⚠️ SERVICE TEMPORARILY UNAVAILABLE
+
+## Rate Limiting Issue
+The external service has introduced rate limiting, making the automated GitHub Actions workflow unsustainable. **Automatic updates are currently disabled.**
+
+## Upcoming Server Migration
+An upcoming release will migrate this project to a dedicated server to resolve the rate limiting issues and restore automatic updates.
+
+---
+
 # München Bürgerbüro Termine
 A repo for gathering available appointment dates and times from [Munich's Bürgerbüros](https://stadt.muenchen.de/buergerservice/terminvereinbarung.html#/services/1063453).
 
@@ -49,7 +59,9 @@ Note: The calendar will automatically update based on your calendar app's refres
 
 ## Details
 ### Scraping Interval
-Currently, the Github Action is triggered to run every 10 minutes. This means that the ICS files are updated every 10 minutes.
+~~Currently, the Github Action is triggered to run every 10 minutes. This means that the ICS files are updated every 10 minutes.~~
+
+**Update: Automatic scraping is temporarily disabled due to rate limiting. The workflow now requires manual triggering only.**
 
 ### JSON File
 If you want to consume the information in a different format, you can use the raw [JSON file](appointments.json). It is used to generate the ICS files and is updated every time the script is run.

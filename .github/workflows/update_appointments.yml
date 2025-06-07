@@ -1,9 +1,7 @@
 name: Get Appointments and Update ICS
 
 on:
-  schedule:
-    - cron: '0/10 * * * *'  # every 10min
-  workflow_dispatch:      # allows manual runs if needed
+  workflow_dispatch:      # allows manual runs only
 
 permissions:
   contents: write 
